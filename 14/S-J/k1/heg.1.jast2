@@ -1,0 +1,68 @@
+JASTROW2
+
+  # e-e cusp conditions
+  GROUP {
+    OPTIMIZEBASIS
+    TWOBODY_SPIN {
+      FREEZE
+       LIKE_COEFFICIENTS   { 0.25  0.00 }
+       UNLIKE_COEFFICIENTS { 0.00  0.50 }
+    }
+    EEBASIS {
+      EE
+      CUTOFF_CUSP
+      GAMMA 0.1
+      CUSP 1
+      CUTOFF 3.88319
+    }
+    EEBASIS {
+      EE
+      CUTOFF_CUSP
+      GAMMA 0.5
+      CUSP 1
+      CUTOFF 3.88319
+    }
+  }
+
+  # isotropic (short-range) e-e term
+  GROUP {
+    OPTIMIZEBASIS
+    TWOBODY {
+      COEFFICIENTS { 0.0 }
+    }
+    EEBASIS {
+      EE
+      POLYPADE
+      RCUT 3.88319
+      BETA0 -0.5
+      NFUNC 1
+    }
+  }
+
+  # long-range e-e term (plane-wave expansion, k-point dependent)
+  GROUP {
+    TWOBODY {
+      COEFFICIENTS { 0.0 0.0 }
+    }
+    EEBASIS {
+      EE
+      BASIS_GROUPS
+      BASIS_GROUP {
+        EE
+        COSINE
+        GVECTOR {
+                         0                    0    0.404309856274667
+        }
+      }
+      BASIS_GROUP {
+        EE
+        COSINE
+        GVECTOR {
+                         0    0.808619712549335   -0.404309856274667
+         0.808619712549335                    0   -0.404309856274667
+         0.808619712549335                    0    0.404309856274667
+                         0    0.808619712549335    0.404309856274667
+        }
+      }
+    }
+  }

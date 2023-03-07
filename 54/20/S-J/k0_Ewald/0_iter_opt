@@ -1,0 +1,8745 @@
+0: output to opt30.o
+64: cell volume 1.80956e+06
+70: cell volume 1.80956e+06
+88: cell volume 1.80956e+06
+73: cell volume 1.80956e+06
+79: cell volume 1.80956e+06
+26: cell volume 1.80956e+06
+90: cell volume 1.80956e+06
+45: cell volume 1.80956e+06
+67: cell volume 1.80956e+06
+32: cell volume 1.80956e+06
+23: cell volume 1.80956e+06
+34: cell volume 1.80956e+06
+29: cell volume 1.80956e+06
+36: cell volume 1.80956e+06
+123: cell volume 1.80956e+06
+13: cell volume 1.80956e+06
+50: cell volume 1.80956e+06
+96: cell volume 1.80956e+06
+31: cell volume 1.80956e+06
+58: cell volume 1.80956e+06
+43: cell volume 1.80956e+06
+109: cell volume 1.80956e+06
+57: cell volume 1.80956e+06
+110: cell volume 1.80956e+06
+126: cell volume 1.80956e+06
+30: cell volume 1.80956e+06
+51: cell volume 1.80956e+06
+99: cell volume 1.80956e+06
+17: cell volume 1.80956e+06
+38: cell volume 1.80956e+06
+20: cell volume 1.80956e+06
+63: cell volume 1.80956e+06
+84: cell volume 1.80956e+06
+117: cell volume 1.80956e+06
+97: cell volume 1.80956e+06
+42: cell volume 1.80956e+06
+125: cell volume 1.80956e+06
+56: cell volume 1.80956e+06
+127: cell volume 1.80956e+06
+78: cell volume 1.80956e+06
+119: cell volume 1.80956e+06
+18: cell volume 1.80956e+06
+113: cell volume 1.80956e+06
+40: cell volume 1.80956e+06
+95: cell volume 1.80956e+06
+107: cell volume 1.80956e+06
+52: cell volume 1.80956e+06
+101: cell volume 1.80956e+06
+66: cell volume 1.80956e+06
+8: cell volume 1.80956e+06
+37: cell volume 1.80956e+06
+112: cell volume 1.80956e+06
+6: cell volume 1.80956e+06
+74: cell volume 1.80956e+06
+106: cell volume 1.80956e+06
+1: cell volume 1.80956e+06
+3: cell volume 1.80956e+06
+108: cell volume 1.80956e+06
+11: cell volume 1.80956e+06
+72: cell volume 1.80956e+06
+122: cell volume 1.80956e+06
+120: cell volume 1.80956e+06
+41: cell volume 1.80956e+06
+100: cell volume 1.80956e+06
+61: cell volume 1.80956e+06
+121: cell volume 1.80956e+06
+4: cell volume 1.80956e+06
+91: cell volume 1.80956e+06
+44: cell volume 1.80956e+06
+59: cell volume 1.80956e+06
+68: cell volume 1.80956e+06
+124: cell volume 1.80956e+06
+104: cell volume 1.80956e+06
+116: cell volume 1.80956e+06
+111: cell volume 1.80956e+06
+105: cell volume 1.80956e+06
+114: cell volume 1.80956e+06
+118: cell volume 1.80956e+06
+115: cell volume 1.80956e+06
+103: cell volume 1.80956e+06
+82: cell volume 1.80956e+06
+98: cell volume 1.80956e+06
+102: cell volume 1.80956e+06
+54: cell volume 1.80956e+06
+9: cell volume 1.80956e+06
+35: cell volume 1.80956e+06
+55: cell volume 1.80956e+06
+46: cell volume 1.80956e+06
+49: cell volume 1.80956e+06
+62: cell volume 1.80956e+06
+47: cell volume 1.80956e+06
+75: cell volume 1.80956e+06
+60: cell volume 1.80956e+06
+25: cell volume 1.80956e+06
+53: cell volume 1.80956e+06
+33: cell volume 1.80956e+06
+48: cell volume 1.80956e+06
+39: cell volume 1.80956e+06
+64: wfdata allocate
+66: wfdata allocate
+70: wfdata allocate
+75: wfdata allocate
+67: wfdata allocate
+95: wfdata allocate
+28: cell volume 1.80956e+06
+92: cell volume 1.80956e+06
+92: wfdata allocate
+7: cell volume 1.80956e+06
+69: cell volume 1.80956e+06
+1: wfdata allocate
+3: wfdata allocate
+76: cell volume 1.80956e+06
+6: wfdata allocate
+7: wfdata allocate
+69: wfdata allocate
+8: wfdata allocate
+76: wfdata allocate
+11: wfdata allocate
+81: cell volume 1.80956e+06
+22: cell volume 1.80956e+06
+22: wfdata allocate
+28: wfdata allocate
+32: wfdata allocate
+85: cell volume 1.80956e+06
+2: cell volume 1.80956e+06
+87: cell volume 1.80956e+06
+87: wfdata allocate
+2: wfdata allocate
+36: wfdata allocate
+80: cell volume 1.80956e+06
+27: cell volume 1.80956e+06
+45: wfdata allocate
+81: wfdata allocate
+27: wfdata allocate
+50: wfdata allocate
+94: cell volume 1.80956e+06
+5: cell volume 1.80956e+06
+56: wfdata allocate
+83: cell volume 1.80956e+06
+110: wfdata allocate
+5: wfdata allocate
+85: wfdata allocate
+14: cell volume 1.80956e+06
+80: wfdata allocate
+121: wfdata allocate
+15: cell volume 1.80956e+06
+123: wfdata allocate
+24: cell volume 1.80956e+06
+38: wfdata allocate
+89: cell volume 1.80956e+06
+126: wfdata allocate
+14: wfdata allocate
+94: wfdata allocate
+96: wfdata allocate
+15: wfdata allocate
+63: wfdata allocate
+71: cell volume 1.80956e+06
+10: cell volume 1.80956e+06
+34: wfdata allocate
+74: wfdata allocate
+16: cell volume 1.80956e+06
+57: wfdata allocate
+77: cell volume 1.80956e+06
+99: wfdata allocate
+24: wfdata allocate
+58: wfdata allocate
+83: wfdata allocate
+10: wfdata allocate
+61: wfdata allocate
+65: cell volume 1.80956e+06
+112: wfdata allocate
+19: cell volume 1.80956e+06
+68: wfdata allocate
+120: wfdata allocate
+16: wfdata allocate
+39: wfdata allocate
+71: wfdata allocate
+97: wfdata allocate
+21: cell volume 1.80956e+06
+41: wfdata allocate
+72: wfdata allocate
+113: wfdata allocate
+0: cell volume 1.80956e+06
+44: wfdata allocate
+73: wfdata allocate
+100: wfdata allocate
+19: wfdata allocate
+48: wfdata allocate
+88: wfdata allocate
+119: wfdata allocate
+21: wfdata allocate
+51: wfdata allocate
+89: wfdata allocate
+117: wfdata allocate
+0: wfdata allocate
+54: wfdata allocate
+91: wfdata allocate
+125: wfdata allocate
+12: cell volume 1.80956e+06
+59: wfdata allocate
+65: wfdata allocate
+104: wfdata allocate
+12: wfdata allocate
+35: wfdata allocate
+77: wfdata allocate
+107: wfdata allocate
+9: wfdata allocate
+46: wfdata allocate
+86: cell volume 1.80956e+06
+86: wfdata allocate
+109: wfdata allocate
+20: wfdata allocate
+55: wfdata allocate
+93: cell volume 1.80956e+06
+26: wfdata allocate
+49: wfdata allocate
+93: wfdata allocate
+116: wfdata allocate
+29: wfdata allocate
+60: wfdata allocate
+78: wfdata allocate
+102: wfdata allocate
+30: wfdata allocate
+62: wfdata allocate
+79: wfdata allocate
+124: wfdata allocate
+4: wfdata allocate
+33: wfdata allocate
+82: wfdata allocate
+111: wfdata allocate
+18: wfdata allocate
+53: wfdata allocate
+84: wfdata allocate
+118: wfdata allocate
+13: wfdata allocate
+47: wfdata allocate
+90: wfdata allocate
+114: wfdata allocate
+17: wfdata allocate
+37: wfdata allocate
+98: wfdata allocate
+31: wfdata allocate
+40: wfdata allocate
+103: wfdata allocate
+23: wfdata allocate
+105: wfdata allocate
+25: wfdata allocate
+42: wfdata allocate
+115: wfdata allocate
+43: wfdata allocate
+101: wfdata allocate
+52: wfdata allocate
+106: wfdata allocate
+108: wfdata allocate
+122: wfdata allocate
+127: wfdata allocate
+Basis function MO
+Reading orbitals from heg.0.orb
+27 molecular orbitals found.
+
+Read took 1 seconds
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Reached iteration limit in macopt; continuing.
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+4: System
+4: cell volume 1809557.368467716
+4: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+32: System
+32: cell volume 1809557.368467716
+32: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+71: System
+71: cell volume 1809557.368467716
+71: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+107: System
+107: cell volume 1809557.368467716
+107: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+8: System
+8: cell volume 1809557.368467716
+8: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+12: System
+12: cell volume 1809557.368467716
+12: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+46: System
+46: cell volume 1809557.368467716
+46: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+80: System
+80: cell volume 1809557.368467716
+80: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+108: System
+108: cell volume 1809557.368467716
+108: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+15: System
+15: cell volume 1809557.368467716
+15: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+60: System
+60: cell volume 1809557.368467716
+60: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+90: System
+90: cell volume 1809557.368467716
+90: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+111: System
+111: cell volume 1809557.368467716
+111: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+16: System
+16: cell volume 1809557.368467716
+16: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+61: System
+61: cell volume 1809557.368467716
+61: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+91: System
+91: cell volume 1809557.368467716
+91: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+114: System
+114: cell volume 1809557.368467716
+114: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+23: System
+23: cell volume 1809557.368467716
+23: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+33: System
+33: cell volume 1809557.368467716
+33: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+95: System
+95: cell volume 1809557.368467716
+95: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+117: System
+117: cell volume 1809557.368467716
+117: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+0: System
+0: cell volume 1809557.368467716
+0: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+34: System
+34: cell volume 1809557.368467716
+34: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+64: System
+64: cell volume 1809557.368467716
+64: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+96: System
+96: cell volume 1809557.368467716
+96: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+1: System
+1: cell volume 1809557.368467716
+1: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+35: System
+35: cell volume 1809557.368467716
+35: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+65: System
+65: cell volume 1809557.368467716
+65: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+97: System
+97: cell volume 1809557.368467716
+97: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+2: System
+2: cell volume 1809557.368467716
+2: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+36: System
+36: cell volume 1809557.368467716
+36: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+66: System
+66: cell volume 1809557.368467716
+66: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+98: System
+98: cell volume 1809557.368467716
+98: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+3: System
+3: cell volume 1809557.368467716
+3: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+37: System
+37: cell volume 1809557.368467716
+37: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+67: System
+67: cell volume 1809557.368467716
+67: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+99: System
+99: cell volume 1809557.368467716
+99: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+5: System
+5: cell volume 1809557.368467716
+5: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+39: System
+39: cell volume 1809557.368467716
+39: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+68: System
+68: cell volume 1809557.368467716
+68: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+100: System
+100: cell volume 1809557.368467716
+100: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+6: System
+6: cell volume 1809557.368467716
+6: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+40: System
+40: cell volume 1809557.368467716
+40: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+69: System
+69: cell volume 1809557.368467716
+69: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+101: System
+101: cell volume 1809557.368467716
+101: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+7: System
+7: cell volume 1809557.368467716
+7: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+41: System
+41: cell volume 1809557.368467716
+41: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+70: System
+70: cell volume 1809557.368467716
+70: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+102: System
+102: cell volume 1809557.368467716
+102: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+9: System
+9: cell volume 1809557.368467716
+9: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+42: System
+42: cell volume 1809557.368467716
+42: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+72: System
+72: cell volume 1809557.368467716
+72: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+103: System
+103: cell volume 1809557.368467716
+103: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+11: System
+11: cell volume 1809557.368467716
+11: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+43: System
+43: cell volume 1809557.368467716
+43: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+73: System
+73: cell volume 1809557.368467716
+73: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+104: System
+104: cell volume 1809557.368467716
+104: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+13: System
+13: cell volume 1809557.368467716
+13: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+44: System
+44: cell volume 1809557.368467716
+44: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+74: System
+74: cell volume 1809557.368467716
+74: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+105: System
+105: cell volume 1809557.368467716
+105: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+14: System
+14: cell volume 1809557.368467716
+14: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+45: System
+45: cell volume 1809557.368467716
+45: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+75: System
+75: cell volume 1809557.368467716
+75: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+106: System
+106: cell volume 1809557.368467716
+106: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+17: System
+17: cell volume 1809557.368467716
+17: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+47: System
+47: cell volume 1809557.368467716
+47: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+76: System
+76: cell volume 1809557.368467716
+76: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+109: System
+109: cell volume 1809557.368467716
+109: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+18: System
+18: cell volume 1809557.368467716
+18: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+48: System
+48: cell volume 1809557.368467716
+48: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+77: System
+77: cell volume 1809557.368467716
+77: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+110: System
+110: cell volume 1809557.368467716
+110: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+19: System
+19: cell volume 1809557.368467716
+19: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+49: System
+49: cell volume 1809557.368467716
+49: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+78: System
+78: cell volume 1809557.368467716
+78: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+112: System
+112: cell volume 1809557.368467716
+112: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+20: System
+20: cell volume 1809557.368467716
+20: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+50: System
+50: cell volume 1809557.368467716
+50: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+79: System
+79: cell volume 1809557.368467716
+79: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+113: System
+113: cell volume 1809557.368467716
+113: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+21: System
+21: cell volume 1809557.368467716
+21: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+51: System
+51: cell volume 1809557.368467716
+51: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+81: System
+81: cell volume 1809557.368467716
+81: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+115: System
+115: cell volume 1809557.368467716
+115: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+22: System
+22: cell volume 1809557.368467716
+22: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+52: System
+52: cell volume 1809557.368467716
+52: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+82: System
+82: cell volume 1809557.368467716
+82: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+116: System
+116: cell volume 1809557.368467716
+116: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+24: System
+24: cell volume 1809557.368467716
+24: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+53: System
+53: cell volume 1809557.368467716
+53: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+83: System
+83: cell volume 1809557.368467716
+83: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+118: System
+118: cell volume 1809557.368467716
+118: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+25: System
+25: cell volume 1809557.368467716
+25: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+54: System
+54: cell volume 1809557.368467716
+54: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+84: System
+84: cell volume 1809557.368467716
+84: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+119: System
+119: cell volume 1809557.368467716
+119: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+26: System
+26: cell volume 1809557.368467716
+26: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+55: System
+55: cell volume 1809557.368467716
+55: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+85: System
+85: cell volume 1809557.368467716
+85: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+120: System
+120: cell volume 1809557.368467716
+120: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+27: System
+27: cell volume 1809557.368467716
+27: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+56: System
+56: cell volume 1809557.368467716
+56: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+86: System
+86: cell volume 1809557.368467716
+86: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+121: System
+121: cell volume 1809557.368467716
+121: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+28: System
+28: cell volume 1809557.368467716
+28: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+57: System
+57: cell volume 1809557.368467716
+57: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+87: System
+87: cell volume 1809557.368467716
+87: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+122: System
+122: cell volume 1809557.368467716
+122: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+29: System
+29: cell volume 1809557.368467716
+29: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+58: System
+58: cell volume 1809557.368467716
+58: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+88: System
+88: cell volume 1809557.368467716
+88: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+123: System
+123: cell volume 1809557.368467716
+123: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+30: System
+30: cell volume 1809557.368467716
+30: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+59: System
+59: cell volume 1809557.368467716
+59: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+89: System
+89: cell volume 1809557.368467716
+89: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+124: System
+124: cell volume 1809557.368467716
+124: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+31: System
+31: cell volume 1809557.368467716
+31: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+62: System
+62: cell volume 1809557.368467716
+62: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+93: System
+93: cell volume 1809557.368467716
+93: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+125: System
+125: cell volume 1809557.368467716
+125: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+10: System
+10: cell volume 1809557.368467716
+10: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+63: System
+63: cell volume 1809557.368467716
+63: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+94: System
+94: cell volume 1809557.368467716
+94: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+126: System
+126: cell volume 1809557.368467716
+126: Wave function
+28: Pseudopotential
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+38: System
+38: cell volume 1809557.368467716
+38: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+92: System
+92: cell volume 1809557.368467716
+92: Wave function
+Setting step size to 0.00745
+
+Setting step size to 0.0114
+
+Setting step size to  0.011
+
+Setting step size to 0.0184
+
+Setting step size to 0.0138
+
+Setting step size to 0.0209
+
+Setting step size to 0.0105
+
+Setting step size to 0.0117
+
+Setting step size to 0.0141
+
+Setting step size to 0.00526
+
+Setting step size to 0.0177
+
+Setting step size to 0.00965
+
+Setting step size to 0.0133
+
+Setting step size to 0.00669
+
+Setting step size to 0.00456
+
+Setting step size to 0.00277
+
+Setting step size to 0.00403
+
+Setting step size to 0.000751
+
+Setting step size to 0.00159
+
+Setting step size to 0.000876
+
+Setting step size to 0.00311
+
+Setting step size to 0.00462
+
+Setting step size to 0.00354
+
+Setting step size to 0.00309
+
+Setting step size to 0.00115
+
+Setting step size to 0.00409
+
+Setting step size to 0.00167
+
+Setting step size to 0.0029
+
+Setting step size to 0.000966
+
+Setting step size to 0.000641
+
+127: System
+127: cell volume 1809557.368467716
+127: Wave function
+31: Pseudopotential
+36: Pseudopotential
+89: Pseudopotential
+97: Pseudopotential
+2: Pseudopotential
+40: Pseudopotential
+80: Pseudopotential
+117: Pseudopotential
+16: Pseudopotential
+46: Pseudopotential
+94: Pseudopotential
+98: Pseudopotential
+8: Pseudopotential
+52: Pseudopotential
+78: Pseudopotential
+108: Pseudopotential
+Basis function MO
+32: Pseudopotential
+91: Pseudopotential
+126: Pseudopotential
+4: Pseudopotential
+60: Pseudopotential
+76: Pseudopotential
+111: Pseudopotential
+26: Pseudopotential
+43: Pseudopotential
+93: Pseudopotential
+107: Pseudopotential
+Reading orbitals from heg.0.orb
+54: Pseudopotential
+84: Pseudopotential
+109: Pseudopotential
+12: Pseudopotential
+34: Pseudopotential
+92: Pseudopotential
+127: Pseudopotential
+29: Pseudopotential
+35: Pseudopotential
+73: Pseudopotential
+122: Pseudopotential
+24: Pseudopotential
+47: Pseudopotential
+67: Pseudopotential
+101: Pseudopotential
+5: Pseudopotential
+48: Pseudopotential
+68: Pseudopotential
+103: Pseudopotential
+15: Pseudopotential
+58: Pseudopotential
+75: Pseudopotential
+115: Pseudopotential
+20: Pseudopotential
+42: Pseudopotential
+87: Pseudopotential
+118: Pseudopotential
+11: Pseudopotential
+49: Pseudopotential
+81: Pseudopotential
+119: Pseudopotential
+19: Pseudopotential
+50: Pseudopotential
+65: Pseudopotential
+123: Pseudopotential
+10: Pseudopotential
+53: Pseudopotential
+82: Pseudopotential
+121: Pseudopotential
+27 molecular orbitals found.
+
+55: Pseudopotential
+66: Pseudopotential
+113: Pseudopotential
+18: Pseudopotential
+56: Pseudopotential
+70: Pseudopotential
+104: Pseudopotential
+0: Pseudopotential
+57: Pseudopotential
+74: Pseudopotential
+125: Pseudopotential
+27: Pseudopotential
+61: Pseudopotential
+83: Pseudopotential
+110: Pseudopotential
+30: Pseudopotential
+63: Pseudopotential
+86: Pseudopotential
+116: Pseudopotential
+7: Pseudopotential
+33: Pseudopotential
+90: Pseudopotential
+120: Pseudopotential
+21: Pseudopotential
+37: Pseudopotential
+64: Pseudopotential
+102: Pseudopotential
+6: Pseudopotential
+39: Pseudopotential
+69: Pseudopotential
+106: Pseudopotential
+17: Pseudopotential
+44: Pseudopotential
+72: Pseudopotential
+112: Pseudopotential
+22: Pseudopotential
+45: Pseudopotential
+79: Pseudopotential
+114: Pseudopotential
+23: Pseudopotential
+51: Pseudopotential
+85: Pseudopotential
+124: Pseudopotential
+14: Pseudopotential
+59: Pseudopotential
+88: Pseudopotential
+96: Pseudopotential
+1: Pseudopotential
+62: Pseudopotential
+95: Pseudopotential
+100: Pseudopotential
+3: Pseudopotential
+41: Pseudopotential
+77: Pseudopotential
+105: Pseudopotential
+13: Pseudopotential
+38: Pseudopotential
+71: Pseudopotential
+99: Pseudopotential
+25: Pseudopotential
+9: Pseudopotential
+Read took 1 seconds
+0: Timestep is 26.44015625000133
+96: Timestep is 26.44015625000133
+32: Timestep is 26.44015625000133
+1: Timestep is 26.44015625000133
+33: Timestep is 26.44015625000133
+64: Timestep is 26.44015625000133
+97: Timestep is 26.44015625000133
+2: Timestep is 26.44015625000133
+65: Timestep is 26.44015625000133
+3: Timestep is 26.44015625000133
+34: Timestep is 26.44015625000133
+98: Timestep is 26.44015625000133
+4: Timestep is 26.44015625000133
+35: Timestep is 26.44015625000133
+66: Timestep is 26.44015625000133
+99: Timestep is 26.44015625000133
+5: Timestep is 26.44015625000133
+36: Timestep is 26.44015625000133
+67: Timestep is 26.44015625000133
+100: Timestep is 26.44015625000133
+6: Timestep is 26.44015625000133
+37: Timestep is 26.44015625000133
+68: Timestep is 26.44015625000133
+101: Timestep is 26.44015625000133
+7: Timestep is 26.44015625000133
+38: Timestep is 26.44015625000133
+69: Timestep is 26.44015625000133
+102: Timestep is 26.44015625000133
+8: Timestep is 26.44015625000133
+70: Timestep is 26.44015625000133
+103: Timestep is 26.44015625000133
+9: Timestep is 26.44015625000133
+39: Timestep is 26.44015625000133
+71: Timestep is 26.44015625000133
+104: Timestep is 26.44015625000133
+10: Timestep is 26.44015625000133
+40: Timestep is 26.44015625000133
+72: Timestep is 26.44015625000133
+11: Timestep is 26.44015625000133
+41: Timestep is 26.44015625000133
+73: Timestep is 26.44015625000133
+105: Timestep is 26.44015625000133
+12: Timestep is 26.44015625000133
+42: Timestep is 26.44015625000133
+106: Timestep is 26.44015625000133
+13: Timestep is 26.44015625000133
+43: Timestep is 26.44015625000133
+74: Timestep is 26.44015625000133
+107: Timestep is 26.44015625000133
+14: Timestep is 26.44015625000133
+44: Timestep is 26.44015625000133
+75: Timestep is 26.44015625000133
+108: Timestep is 26.44015625000133
+15: Timestep is 26.44015625000133
+45: Timestep is 26.44015625000133
+76: Timestep is 26.44015625000133
+109: Timestep is 26.44015625000133
+16: Timestep is 26.44015625000133
+46: Timestep is 26.44015625000133
+77: Timestep is 26.44015625000133
+110: Timestep is 26.44015625000133
+17: Timestep is 26.44015625000133
+47: Timestep is 26.44015625000133
+78: Timestep is 26.44015625000133
+111: Timestep is 26.44015625000133
+18: Timestep is 26.44015625000133
+48: Timestep is 26.44015625000133
+79: Timestep is 26.44015625000133
+112: Timestep is 26.44015625000133
+19: Timestep is 26.44015625000133
+49: Timestep is 26.44015625000133
+80: Timestep is 26.44015625000133
+113: Timestep is 26.44015625000133
+20: Timestep is 26.44015625000133
+50: Timestep is 26.44015625000133
+81: Timestep is 26.44015625000133
+114: Timestep is 26.44015625000133
+21: Timestep is 26.44015625000133
+51: Timestep is 26.44015625000133
+82: Timestep is 26.44015625000133
+115: Timestep is 26.44015625000133
+22: Timestep is 26.44015625000133
+52: Timestep is 26.44015625000133
+83: Timestep is 26.44015625000133
+116: Timestep is 26.44015625000133
+23: Timestep is 26.44015625000133
+53: Timestep is 26.44015625000133
+84: Timestep is 26.44015625000133
+117: Timestep is 26.44015625000133
+24: Timestep is 26.44015625000133
+54: Timestep is 26.44015625000133
+85: Timestep is 26.44015625000133
+118: Timestep is 26.44015625000133
+25: Timestep is 26.44015625000133
+55: Timestep is 26.44015625000133
+86: Timestep is 26.44015625000133
+119: Timestep is 26.44015625000133
+26: Timestep is 26.44015625000133
+56: Timestep is 26.44015625000133
+87: Timestep is 26.44015625000133
+120: Timestep is 26.44015625000133
+27: Timestep is 26.44015625000133
+57: Timestep is 26.44015625000133
+88: Timestep is 26.44015625000133
+121: Timestep is 26.44015625000133
+28: Timestep is 26.44015625000133
+58: Timestep is 26.44015625000133
+89: Timestep is 26.44015625000133
+122: Timestep is 26.44015625000133
+29: Timestep is 26.44015625000133
+59: Timestep is 26.44015625000133
+90: Timestep is 26.44015625000133
+123: Timestep is 26.44015625000133
+30: Timestep is 26.44015625000133
+60: Timestep is 26.44015625000133
+91: Timestep is 26.44015625000133
+124: Timestep is 26.44015625000133
+31: Timestep is 26.44015625000133
+61: Timestep is 26.44015625000133
+92: Timestep is 26.44015625000133
+125: Timestep is 26.44015625000133
+62: Timestep is 26.44015625000133
+93: Timestep is 26.44015625000133
+126: Timestep is 26.44015625000133
+63: Timestep is 26.44015625000133
+94: Timestep is 26.44015625000133
+127: Timestep is 26.44015625000133
+95: Timestep is 26.44015625000133
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds

@@ -1,0 +1,93 @@
+#-------------------------------------------------
+#VMC run: timestep 0.5 nconfig 2048 steps 100
+#-------------------------------------------------
+
+
+init { 
+   label vmc
+}
+block { 
+   label vmc
+   totweight 204800
+   nautocorr 0
+   total_energy { -3.969525897982718   } 
+   total_energyvar { 0.04943207995615721   } 
+   weight { 1   } 
+   weightvar { 0   } 
+   kinetic_energy { 3.161661083231584   } 
+   kinetic_energyvar { 0.2331990076373218   } 
+   potential_energy { -7.131186981214301   } 
+   potential_energyvar { 0.1842305325998199   } 
+   nonlocal_energy { 0   } 
+   nonlocal_energyvar { 0   } 
+   autocorr_energy { } 
+} 
+
+block { 
+   label vmc
+   totweight 204800
+   nautocorr 0
+   total_energy { -3.970101295426062   } 
+   total_energyvar { 0.0492529726216688   } 
+   weight { 1   } 
+   weightvar { 0   } 
+   kinetic_energy { 3.16102578448777   } 
+   kinetic_energyvar { 0.2313846476124454   } 
+   potential_energy { -7.131127079913831   } 
+   potential_energyvar { 0.1823450316228423   } 
+   nonlocal_energy { 0   } 
+   nonlocal_energyvar { 0   } 
+   autocorr_energy { } 
+} 
+
+block { 
+   label vmc
+   totweight 204800
+   nautocorr 0
+   total_energy { -3.97052515134712   } 
+   total_energyvar { 0.05066564694713824   } 
+   weight { 1   } 
+   weightvar { 0   } 
+   kinetic_energy { 3.162648402555614   } 
+   kinetic_energyvar { 0.2333458248988458   } 
+   potential_energy { -7.133173553902734   } 
+   potential_energyvar { 0.1817405403380967   } 
+   nonlocal_energy { 0   } 
+   nonlocal_energyvar { 0   } 
+   autocorr_energy { } 
+} 
+
+block { 
+   label vmc
+   totweight 204800
+   nautocorr 0
+   total_energy { -3.970356678117842   } 
+   total_energyvar { 0.04926243581359682   } 
+   weight { 1   } 
+   weightvar { 0   } 
+   kinetic_energy { 3.159814923175006   } 
+   kinetic_energyvar { 0.233663598588173   } 
+   potential_energy { -7.130171601292846   } 
+   potential_energyvar { 0.1847071864476048   } 
+   nonlocal_energy { 0   } 
+   nonlocal_energyvar { 0   } 
+   autocorr_energy { } 
+} 
+
+block { 
+   label vmc
+   totweight 204800
+   nautocorr 0
+   total_energy { -3.969296315036144   } 
+   total_energyvar { 0.04903840521679555   } 
+   weight { 1   } 
+   weightvar { 0   } 
+   kinetic_energy { 3.161509856210364   } 
+   kinetic_energyvar { 0.2354274885664036   } 
+   potential_energy { -7.130806171246507   } 
+   potential_energyvar { 0.1861231826529296   } 
+   nonlocal_energy { 0   } 
+   nonlocal_energyvar { 0   } 
+   autocorr_energy { } 
+} 
+

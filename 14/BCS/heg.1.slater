@@ -1,0 +1,16 @@
+ SLATER
+ ORBITALS {
+  BASFUNC_MO
+  MAGNIFY 0.5
+  INCLUDE heg.1.basis
+  CENTERS { READ heg.centers }
+  NMO 7
+  ORBFILE heg.1.orb
+ }
+ DETWT { 1.0 }
+ STATES {
+  # spin-ups
+       1     2     3     4     5     6     7
+  # spin-downs
+       1     2     3     4     5     6     7
+ }

@@ -1,0 +1,1525 @@
+0: output to vmc.o
+28: System
+4: System
+4: cell volume 28274.3
+4: elsu 30.4647
+4: alpha 0.164124
+28: cell volume 28274.3
+28: elsu 30.4647
+28: alpha 0.164124
+10: System
+80: System
+80: cell volume 28274.3
+80: elsu 30.4647
+80: alpha 0.164124
+44: System
+44: cell volume 28274.3
+44: elsu 30.4647
+10: cell volume 28274.3
+10: elsu 30.4647
+10: alpha 0.164124
+103: System
+88: System
+36: System
+2: System
+111: System
+111: cell volume 28274.3
+111: elsu 30.4647
+111: alpha 0.164124
+23: System
+23: cell volume 28274.3
+23: elsu 30.4647
+88: cell volume 28274.3
+88: elsu 30.4647
+88: alpha 0.164124
+44: alpha 0.164124
+26: System
+26: cell volume 28274.3
+26: elsu 30.4647
+26: alpha 0.164124
+103: cell volume 28274.3
+103: elsu 30.4647
+103: alpha 0.164124
+75: System
+36: cell volume 28274.3
+36: elsu 30.4647
+36: alpha 0.164124
+2: cell volume 28274.3
+2: elsu 30.4647
+2: alpha 0.164124
+96: System
+75: cell volume 28274.3
+75: elsu 30.4647
+75: alpha 0.164124
+34: System
+6: System
+96: cell volume 28274.3
+96: elsu 30.4647
+96: alpha 0.164124
+46: System
+14: System
+14: cell volume 28274.3
+14: elsu 30.4647
+14: alpha 0.164124
+93: System
+93: cell volume 28274.3
+34: cell volume 28274.3
+34: elsu 30.4647
+23: alpha 0.164124
+99: System
+99: cell volume 28274.3
+99: elsu 30.4647
+99: alpha 0.164124
+78: System
+34: alpha 0.164124
+6: cell volume 28274.3
+6: elsu 30.4647
+6: alpha 0.164124
+117: System
+93: elsu 30.4647
+93: alpha 0.164124
+46: cell volume 28274.3
+46: elsu 30.4647
+46: alpha 0.164124
+12: System
+118: System
+118: cell volume 28274.3
+118: elsu 30.4647
+118: alpha 0.164124
+76: System
+50: System
+12: cell volume 28274.3
+12: elsu 30.4647
+12: alpha 0.164124
+98: System
+98: cell volume 28274.3
+98: elsu 30.4647
+98: alpha 0.164124
+78: cell volume 28274.3
+50: cell volume 28274.3
+50: elsu 30.4647
+50: alpha 0.164124
+16: System
+117: cell volume 28274.3
+117: elsu 30.4647
+117: alpha 0.164124
+92: System
+55: System
+55: cell volume 28274.3
+55: elsu 30.4647
+16: cell volume 28274.3
+16: elsu 30.4647
+16: alpha 0.164124
+114: System
+76: cell volume 28274.3
+60: System
+60: cell volume 28274.3
+60: elsu 30.4647
+60: alpha 0.164124
+30: System
+114: cell volume 28274.3
+114: elsu 30.4647
+114: alpha 0.164124
+78: elsu 30.4647
+78: alpha 0.164124
+42: System
+17: System
+102: System
+76: elsu 30.4647
+76: alpha 0.164124
+30: cell volume 28274.3
+30: elsu 30.4647
+30: alpha 0.164124
+92: cell volume 28274.3
+92: elsu 30.4647
+92: alpha 0.164124
+55: alpha 0.164124
+17: cell volume 28274.3
+17: elsu 30.4647
+17: alpha 0.164124
+102: cell volume 28274.3
+102: elsu 30.4647
+102: alpha 0.164124
+64: System
+42: cell volume 28274.3
+42: elsu 30.4647
+42: alpha 0.164124
+18: System
+101: System
+64: cell volume 28274.3
+64: elsu 30.4647
+64: alpha 0.164124
+48: System
+18: cell volume 28274.3
+18: elsu 30.4647
+101: cell volume 28274.3
+101: elsu 30.4647
+101: alpha 0.164124
+48: cell volume 28274.3
+48: elsu 30.4647
+48: alpha 0.164124
+18: alpha 0.164124
+120: System
+68: System
+54: System
+1: System
+108: System
+65: System
+32: System
+8: System
+120: cell volume 28274.3
+120: elsu 30.4647
+120: alpha 0.164124
+68: cell volume 28274.3
+68: elsu 30.4647
+68: alpha 0.164124
+35: System
+13: System
+108: cell volume 28274.3
+108: elsu 30.4647
+108: alpha 0.164124
+74: System
+74: cell volume 28274.3
+38: System
+1: cell volume 28274.3
+1: elsu 30.4647
+1: alpha 0.164124
+122: System
+122: cell volume 28274.3
+74: elsu 30.4647
+74: alpha 0.164124
+54: cell volume 28274.3
+54: elsu 30.4647
+54: alpha 0.164124
+8: cell volume 28274.3
+8: elsu 30.4647
+8: alpha 0.164124
+122: elsu 30.4647
+122: alpha 0.164124
+65: cell volume 28274.3
+32: cell volume 28274.3
+13: cell volume 28274.3
+13: elsu 30.4647
+13: alpha 0.164124
+110: System
+65: elsu 30.4647
+65: alpha 0.164124
+32: elsu 30.4647
+32: alpha 0.164124
+25: System
+116: System
+84: System
+35: cell volume 28274.3
+35: elsu 30.4647
+35: alpha 0.164124
+11: System
+110: cell volume 28274.3
+110: elsu 30.4647
+110: alpha 0.164124
+84: cell volume 28274.3
+84: elsu 30.4647
+84: alpha 0.164124
+38: cell volume 28274.3
+38: elsu 30.4647
+38: alpha 0.164124
+25: cell volume 28274.3
+25: elsu 30.4647
+25: alpha 0.164124
+116: cell volume 28274.3
+116: elsu 30.4647
+116: alpha 0.164124
+77: System
+40: System
+11: cell volume 28274.3
+11: elsu 30.4647
+11: alpha 0.164124
+126: System
+77: cell volume 28274.3
+77: elsu 30.4647
+77: alpha 0.164124
+40: cell volume 28274.3
+40: elsu 30.4647
+40: alpha 0.164124
+20: System
+126: cell volume 28274.3
+126: elsu 30.4647
+126: alpha 0.164124
+82: System
+82: cell volume 28274.3
+82: elsu 30.4647
+82: alpha 0.164124
+52: System
+15: System
+15: cell volume 28274.3
+15: elsu 30.4647
+15: alpha 0.164124
+105: System
+91: System
+52: cell volume 28274.3
+52: elsu 30.4647
+52: alpha 0.164124
+20: cell volume 28274.3
+20: elsu 30.4647
+20: alpha 0.164124
+123: System
+86: System
+56: System
+105: cell volume 28274.3
+105: elsu 30.4647
+105: alpha 0.164124
+91: cell volume 28274.3
+91: elsu 30.4647
+91: alpha 0.164124
+56: cell volume 28274.3
+56: elsu 30.4647
+56: alpha 0.164124
+123: cell volume 28274.3
+123: elsu 30.4647
+123: alpha 0.164124
+86: cell volume 28274.3
+86: elsu 30.4647
+86: alpha 0.164124
+57: System
+57: cell volume 28274.3
+57: elsu 30.4647
+57: alpha 0.164124
+106: System
+85: System
+58: System
+58: cell volume 28274.3
+58: elsu 30.4647
+106: cell volume 28274.3
+106: elsu 30.4647
+106: alpha 0.164124
+87: System
+62: System
+62: cell volume 28274.3
+100: System
+90: System
+58: alpha 0.164124
+100: cell volume 28274.3
+100: elsu 30.4647
+100: alpha 0.164124
+79: System
+62: elsu 30.4647
+62: alpha 0.164124
+81: System
+85: cell volume 28274.3
+85: elsu 30.4647
+85: alpha 0.164124
+90: cell volume 28274.3
+90: elsu 30.4647
+90: alpha 0.164124
+81: cell volume 28274.3
+81: elsu 30.4647
+81: alpha 0.164124
+83: System
+87: cell volume 28274.3
+87: elsu 30.4647
+87: alpha 0.164124
+79: cell volume 28274.3
+79: elsu 30.4647
+79: alpha 0.164124
+83: cell volume 28274.3
+83: elsu 30.4647
+83: alpha 0.164124
+73: System
+67: System
+72: System
+72: cell volume 28274.3
+72: elsu 30.4647
+73: cell volume 28274.3
+73: elsu 30.4647
+73: alpha 0.164124
+67: cell volume 28274.3
+67: elsu 30.4647
+67: alpha 0.164124
+72: alpha 0.164124
+71: System
+69: System
+71: cell volume 28274.3
+71: elsu 30.4647
+71: alpha 0.164124
+5: System
+5: cell volume 28274.3
+5: elsu 30.4647
+5: alpha 0.164124
+59: System
+22: System
+107: System
+69: cell volume 28274.3
+59: cell volume 28274.3
+59: elsu 30.4647
+59: alpha 0.164124
+22: cell volume 28274.3
+22: elsu 30.4647
+22: alpha 0.164124
+107: cell volume 28274.3
+107: elsu 30.4647
+107: alpha 0.164124
+70: System
+47: System
+27: System
+124: System
+124: cell volume 28274.3
+69: elsu 30.4647
+69: alpha 0.164124
+41: System
+9: System
+9: cell volume 28274.3
+124: elsu 30.4647
+124: alpha 0.164124
+94: System
+53: System
+21: System
+104: System
+66: System
+41: cell volume 28274.3
+41: elsu 30.4647
+41: alpha 0.164124
+9: elsu 30.4647
+9: alpha 0.164124
+104: cell volume 28274.3
+104: elsu 30.4647
+104: alpha 0.164124
+70: cell volume 28274.3
+70: elsu 30.4647
+70: alpha 0.164124
+47: cell volume 28274.3
+47: elsu 30.4647
+47: alpha 0.164124
+21: cell volume 28274.3
+21: elsu 30.4647
+21: alpha 0.164124
+109: System
+109: cell volume 28274.3
+109: elsu 30.4647
+109: alpha 0.164124
+95: System
+51: System
+51: cell volume 28274.3
+24: System
+24: cell volume 28274.3
+112: System
+94: cell volume 28274.3
+94: elsu 30.4647
+94: alpha 0.164124
+53: cell volume 28274.3
+53: elsu 30.4647
+53: alpha 0.164124
+27: cell volume 28274.3
+27: elsu 30.4647
+27: alpha 0.164124
+127: System
+66: cell volume 28274.3
+66: elsu 30.4647
+37: System
+31: System
+31: cell volume 28274.3
+31: elsu 30.4647
+31: alpha 0.164124
+112: cell volume 28274.3
+112: elsu 30.4647
+112: alpha 0.164124
+95: cell volume 28274.3
+95: elsu 30.4647
+95: alpha 0.164124
+51: elsu 30.4647
+51: alpha 0.164124
+3: System
+3: cell volume 28274.3
+3: elsu 30.4647
+3: alpha 0.164124
+113: System
+113: cell volume 28274.3
+66: alpha 0.164124
+45: System
+19: System
+119: System
+89: System
+37: cell volume 28274.3
+37: elsu 30.4647
+37: alpha 0.164124
+24: elsu 30.4647
+24: alpha 0.164124
+121: System
+121: cell volume 28274.3
+89: cell volume 28274.3
+89: elsu 30.4647
+89: alpha 0.164124
+39: System
+29: System
+29: cell volume 28274.3
+29: elsu 30.4647
+29: alpha 0.164124
+127: cell volume 28274.3
+127: elsu 30.4647
+127: alpha 0.164124
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+64: Wave function
+45: cell volume 28274.3
+45: elsu 30.4647
+45: alpha 0.164124
+7: System
+7: cell volume 28274.3
+7: elsu 30.4647
+7: alpha 0.164124
+113: elsu 30.4647
+113: alpha 0.164124
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+65: Wave function
+39: cell volume 28274.3
+39: elsu 30.4647
+39: alpha 0.164124
+19: cell volume 28274.3
+19: elsu 30.4647
+19: alpha 0.164124
+115: System
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+76: Wave function
+33: System
+0: System
+119: cell volume 28274.3
+119: elsu 30.4647
+119: alpha 0.164124
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+77: Wave function
+43: System
+0: cell volume 28274.3
+0: elsu 30.4647
+0: alpha 0.164124
+121: elsu 30.4647
+121: alpha 0.164124
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+84: Wave function
+43: cell volume 28274.3
+43: elsu 30.4647
+43: alpha 0.164124
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+125: System
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+88: Wave function
+49: System
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+15: Wave function
+115: cell volume 28274.3
+115: elsu 30.4647
+115: alpha 0.164124
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+33: cell volume 28274.3
+33: elsu 30.4647
+33: alpha 0.164124
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+16: Wave function
+125: cell volume 28274.3
+125: elsu 30.4647
+125: alpha 0.164124
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+49: cell volume 28274.3
+49: elsu 30.4647
+49: alpha 0.164124
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+97: System
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+69: Wave function
+61: System
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+30: Wave function
+97: cell volume 28274.3
+97: elsu 30.4647
+97: alpha 0.164124
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+79: Wave function
+61: cell volume 28274.3
+61: elsu 30.4647
+61: alpha 0.164124
+correction in constEwald
+-0.0925971 instead of -0.0925971
+1: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+100: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+63: System
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+11: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+108: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+82: Wave function
+63: cell volume 28274.3
+63: elsu 30.4647
+63: alpha 0.164124
+17: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+114: Wave function
+correction in constEwald
+-0.0925971 instead of -0.0925971
+86: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+120: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+92: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+correction in constEwald
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+124: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+50: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+127: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+52: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+correction in constEwald
+-0.0925971 instead of -0.0925971
+68: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+56: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+26: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+70: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+35: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+118: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+72: Wave function
+-0.0925971 instead of -0.0925971
+38: Wave function
+-0.0925971 instead of -0.0925971
+4: Wave function
+-0.0925971 instead of -0.0925971
+119: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+73: Wave function
+44: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+122: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+74: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+8: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+75: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+10: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+78: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+correction in constEwald
+-0.0925971 instead of -0.0925971
+12: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+117: Wave function
+-0.0925971 instead of -0.0925971
+80: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+-0.0925971 instead of -0.0925971
+13: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+81: Wave function
+correction in constEwald
+-0.0925971 instead of -0.0925971
+40: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+23: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+102: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+83: Wave function
+correction in constEwald
+-0.0925971 instead of -0.0925971
+46: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+28: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+85: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+48: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+0: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+105: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+87: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+54: Wave function
+correction in constEwald
+-0.0925971 instead of -0.0925971
+2: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+106: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+89: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+58: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+3: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+107: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+90: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+62: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+5: Wave function
+-0.0925971 instead of -0.0925971
+110: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+91: Wave function
+-0.0925971 instead of -0.0925971
+32: Wave function
+-0.0925971 instead of -0.0925971
+6: Wave function
+-0.0925971 instead of -0.0925971
+111: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+93: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+33: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+7: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+116: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+94: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+34: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+9: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+123: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+95: Wave function
+correction in constEwald
+-0.0925971 instead of -0.0925971
+36: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+14: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+126: Wave function
+-0.0925971 instead of -0.0925971
+66: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+37: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+18: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+96: Wave function
+-0.0925971 instead of -0.0925971
+67: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+39: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+19: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+97: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+71: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+41: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+20: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+98: Wave function
+95: Pseudopotential
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+42: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+21: Wave function
+correction in constEwald
+-0.0925971 instead of -0.0925971
+99: Wave function
+65: Pseudopotential
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+43: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+22: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+101: Wave function
+79: Pseudopotential
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+45: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+24: Wave function
+103: Wave function
+76: Pseudopotential
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+47: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+25: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+104: Wave function
+69: Pseudopotential
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+49: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+27: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+109: Wave function
+78: Pseudopotential
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+51: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+29: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+112: Wave function
+86: Pseudopotential
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+53: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+31: Wave function
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+113: Wave function
+80: Pseudopotential
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+55: Wave function
+Basis function MO
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+115: Wave function
+68: Pseudopotential
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+57: Wave function
+Reading orbitals from heg.0.orb
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+121: Wave function
+64: Pseudopotential
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+59: Wave function
+27 molecular orbitals found.
+
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+125: Wave function
+66: Pseudopotential
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+60: Wave function
+0: Pseudopotential
+97: Pseudopotential
+74: Pseudopotential
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+61: Wave function
+16: Pseudopotential
+107: Pseudopotential
+77: Pseudopotential
+Reciprocal Ewald will use 1559 g-points out of 58825 examined.
+correction in constEwald
+-0.0925971 instead of -0.0925971
+63: Wave function
+12: Pseudopotential
+117: Pseudopotential
+90: Pseudopotential
+40: Pseudopotential
+10: Pseudopotential
+108: Pseudopotential
+70: Pseudopotential
+57: Pseudopotential
+21: Pseudopotential
+125: Pseudopotential
+89: Pseudopotential
+56: Pseudopotential
+8: Pseudopotential
+113: Pseudopotential
+94: Pseudopotential
+35: Pseudopotential
+4: Pseudopotential
+111: Pseudopotential
+85: Pseudopotential
+36: Pseudopotential
+11: Pseudopotential
+119: Pseudopotential
+73: Pseudopotential
+54: Pseudopotential
+14: Pseudopotential
+123: Pseudopotential
+82: Pseudopotential
+33: Pseudopotential
+9: Pseudopotential
+102: Pseudopotential
+91: Pseudopotential
+60: Pseudopotential
+25: Pseudopotential
+106: Pseudopotential
+72: Pseudopotential
+41: Pseudopotential
+7: Pseudopotential
+112: Pseudopotential
+83: Pseudopotential
+48: Pseudopotential
+6: Pseudopotential
+101: Pseudopotential
+92: Pseudopotential
+39: Pseudopotential
+2: Pseudopotential
+109: Pseudopotential
+67: Pseudopotential
+59: Pseudopotential
+5: Pseudopotential
+127: Pseudopotential
+84: Pseudopotential
+52: Pseudopotential
+28: Pseudopotential
+96: Pseudopotential
+88: Pseudopotential
+61: Pseudopotential
+17: Pseudopotential
+116: Pseudopotential
+75: Pseudopotential
+58: Pseudopotential
+23: Pseudopotential
+118: Pseudopotential
+71: Pseudopotential
+63: Pseudopotential
+26: Pseudopotential
+126: Pseudopotential
+81: Pseudopotential
+42: Pseudopotential
+30: Pseudopotential
+105: Pseudopotential
+87: Pseudopotential
+62: Pseudopotential
+13: Pseudopotential
+120: Pseudopotential
+93: Pseudopotential
+32: Pseudopotential
+15: Pseudopotential
+100: Pseudopotential
+38: Pseudopotential
+19: Pseudopotential
+110: Pseudopotential
+37: Pseudopotential
+27: Pseudopotential
+114: Pseudopotential
+46: Pseudopotential
+29: Pseudopotential
+124: Pseudopotential
+50: Pseudopotential
+1: Pseudopotential
+121: Pseudopotential
+34: Pseudopotential
+22: Pseudopotential
+104: Pseudopotential
+44: Pseudopotential
+24: Pseudopotential
+99: Pseudopotential
+45: Pseudopotential
+3: Pseudopotential
+115: Pseudopotential
+51: Pseudopotential
+18: Pseudopotential
+103: Pseudopotential
+49: Pseudopotential
+31: Pseudopotential
+98: Pseudopotential
+43: Pseudopotential
+20: Pseudopotential
+122: Pseudopotential
+53: Pseudopotential
+Could not open opt30.config. Generating configurations from scratch
+55: Pseudopotential
+47: Pseudopotential
+32: Timestep is 12.8319
+0: Timestep is 12.8319
+33: Timestep is 12.8319
+96: Timestep is 12.8319
+64: Timestep is 12.8319
+1: Timestep is 12.8319
+97: Timestep is 12.8319
+65: Timestep is 12.8319
+34: Timestep is 12.8319
+2: Timestep is 12.8319
+35: Timestep is 12.8319
+3: Timestep is 12.8319
+98: Timestep is 12.8319
+66: Timestep is 12.8319
+36: Timestep is 12.8319
+4: Timestep is 12.8319
+99: Timestep is 12.8319
+67: Timestep is 12.8319
+37: Timestep is 12.8319
+5: Timestep is 12.8319
+100: Timestep is 12.8319
+68: Timestep is 12.8319
+38: Timestep is 12.8319
+6: Timestep is 12.8319
+101: Timestep is 12.8319
+69: Timestep is 12.8319
+39: Timestep is 12.8319
+7: Timestep is 12.8319
+102: Timestep is 12.8319
+70: Timestep is 12.8319
+8: Timestep is 12.8319
+103: Timestep is 12.8319
+71: Timestep is 12.8319
+40: Timestep is 12.8319
+9: Timestep is 12.8319
+104: Timestep is 12.8319
+72: Timestep is 12.8319
+41: Timestep is 12.8319
+10: Timestep is 12.8319
+105: Timestep is 12.8319
+73: Timestep is 12.8319
+42: Timestep is 12.8319
+11: Timestep is 12.8319
+43: Timestep is 12.8319
+12: Timestep is 12.8319
+106: Timestep is 12.8319
+74: Timestep is 12.8319
+44: Timestep is 12.8319
+13: Timestep is 12.8319
+107: Timestep is 12.8319
+75: Timestep is 12.8319
+45: Timestep is 12.8319
+14: Timestep is 12.8319
+108: Timestep is 12.8319
+76: Timestep is 12.8319
+46: Timestep is 12.8319
+15: Timestep is 12.8319
+109: Timestep is 12.8319
+77: Timestep is 12.8319
+47: Timestep is 12.8319
+16: Timestep is 12.8319
+110: Timestep is 12.8319
+78: Timestep is 12.8319
+48: Timestep is 12.8319
+17: Timestep is 12.8319
+111: Timestep is 12.8319
+79: Timestep is 12.8319
+49: Timestep is 12.8319
+18: Timestep is 12.8319
+112: Timestep is 12.8319
+80: Timestep is 12.8319
+50: Timestep is 12.8319
+19: Timestep is 12.8319
+113: Timestep is 12.8319
+81: Timestep is 12.8319
+51: Timestep is 12.8319
+20: Timestep is 12.8319
+114: Timestep is 12.8319
+82: Timestep is 12.8319
+52: Timestep is 12.8319
+21: Timestep is 12.8319
+115: Timestep is 12.8319
+83: Timestep is 12.8319
+53: Timestep is 12.8319
+22: Timestep is 12.8319
+116: Timestep is 12.8319
+84: Timestep is 12.8319
+54: Timestep is 12.8319
+23: Timestep is 12.8319
+117: Timestep is 12.8319
+85: Timestep is 12.8319
+55: Timestep is 12.8319
+24: Timestep is 12.8319
+118: Timestep is 12.8319
+86: Timestep is 12.8319
+56: Timestep is 12.8319
+25: Timestep is 12.8319
+119: Timestep is 12.8319
+87: Timestep is 12.8319
+57: Timestep is 12.8319
+26: Timestep is 12.8319
+120: Timestep is 12.8319
+88: Timestep is 12.8319
+58: Timestep is 12.8319
+27: Timestep is 12.8319
+121: Timestep is 12.8319
+89: Timestep is 12.8319
+59: Timestep is 12.8319
+28: Timestep is 12.8319
+122: Timestep is 12.8319
+90: Timestep is 12.8319
+60: Timestep is 12.8319
+29: Timestep is 12.8319
+123: Timestep is 12.8319
+91: Timestep is 12.8319
+61: Timestep is 12.8319
+30: Timestep is 12.8319
+124: Timestep is 12.8319
+92: Timestep is 12.8319
+62: Timestep is 12.8319
+31: Timestep is 12.8319
+125: Timestep is 12.8319
+93: Timestep is 12.8319
+63: Timestep is 12.8319
+126: Timestep is 12.8319
+94: Timestep is 12.8319
+127: Timestep is 12.8319
+95: Timestep is 12.8319
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 1 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 1 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 1 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 1 seconds
+1: Write took 0 seconds
+1: Write took 1 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 1 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 1 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 1 seconds
+1: Write took 1 seconds
+1: Write took 0 seconds
+1: Write took 1 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 1 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 1 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 1 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 1 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+slurmstepd: error: *** STEP 64730972.0 ON nid01215 CANCELLED AT 2022-12-05T00:24:00 DUE TO TIME LIMIT ***
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+srun: got SIGCONT

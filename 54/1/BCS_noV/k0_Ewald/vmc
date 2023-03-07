@@ -1,0 +1,17 @@
+method { VMC
+	nconfig 16
+	nblock 30
+	storeconfig opt30.config
+	label preVMC
+}
+method { VMC
+        nconfig 16
+        nblock 500
+        readconfig opt30.config
+	storeconfig vmc.config
+        label VMC
+}
+
+include heg.0.sys
+
+trialfunc { include opt30.wfout }

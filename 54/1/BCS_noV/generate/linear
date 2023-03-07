@@ -1,0 +1,19 @@
+include heg.NUM.sys
+
+trialfunc { include fixed_basis.wf }
+
+method { linear
+        vmc_nstep 5000
+        ITERATIONS 40
+        READCONFIG opt30.config
+}
+
+method {
+        vmc
+        readconfig opt30.config
+        storeconfig linear.config
+        nconfig 16
+        nstep 50
+        nblock 1000
+        timestep 0.5
+}

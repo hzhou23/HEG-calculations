@@ -1,0 +1,92 @@
+SLATER-JASTROW
+WF1 { 
+  SLATER
+  SHERMAN_MORRISON_UPDATES
+  NOSORT
+   CSF { 1  1  } 
+  STATES { 
+    1 2 3 4 5 6 7 
+    1 2 3 4 5 6 7 
+    }
+  ORBITALS {
+    BASFUNC_MO
+    NMO 7
+    ORBFILE heg.1.orb
+    MAGNIFY 0.5
+    BASIS { 
+      origin
+      PLANEWAVE
+      GVECTOR { 
+        0   0  0.404309856274667
+        0   0.808619712549335  -0.404309856274667
+        0.808619712549335   0  -0.404309856274667
+        0.808619712549335   0  0.404309856274667
+      }
+    }
+    CENTERS { 
+      READ heg.centers
+    }
+  }
+}
+WF2 { 
+  JASTROW2
+  GROUP { 
+    TWOBODY_SPIN { 
+      FREEZE
+      LIKE_COEFFICIENTS { 0.25  0   } 
+      UNLIKE_COEFFICIENTS { 0  0.5   }  
+    } 
+    EEBASIS { 
+      EE
+      CUTOFF_CUSP
+      GAMMA 0.099988641603993
+      CUSP 1
+      CUTOFF 3.88319
+    }
+    EEBASIS { 
+      EE
+      CUTOFF_CUSP
+      GAMMA 0.499198028245022
+      CUSP 1
+      CUTOFF 3.88319
+    }
+  }
+  GROUP { 
+    TWOBODY { 
+      COEFFICIENTS { -0.0449235529545774   } 
+    } 
+    EEBASIS { 
+      EE
+      POLYPADE
+      RCUT 3.88319
+      BETA0 -0.500062325788968
+      NFUNC 1
+    }
+  }
+  GROUP { 
+    TWOBODY { 
+      COEFFICIENTS { -0.26200464263878  -0.0339776313263422   } 
+    } 
+    EEBASIS { 
+      EE
+      BASIS_GROUPS
+      BASIS_GROUP { 
+      EE
+      COSINE
+      GVECTOR {
+        0   0  0.404309856274667
+      }
+      }
+      BASIS_GROUP { 
+      EE
+      COSINE
+      GVECTOR {
+        0   0.808619712549335  -0.404309856274667
+        0.808619712549335   0  -0.404309856274667
+        0.808619712549335   0  0.404309856274667
+        0   0.808619712549335  0.404309856274667
+      }
+      }
+    }
+  }
+}

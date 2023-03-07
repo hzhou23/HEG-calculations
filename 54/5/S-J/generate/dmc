@@ -1,0 +1,20 @@
+include heg.NUM.sys
+
+trialfunc { include opt30.wfout }
+
+method { DMC timestep 0.01
+readconfig vmc.config
+storeconfig DMC.config
+nblock 500
+nconfig 16
+label preDMC
+}
+
+method { DMC timestep 0.001
+readconfig DMC.config
+storeconfig dmc.config
+nblock 1000
+nconfig 16
+label DMC
+}
+

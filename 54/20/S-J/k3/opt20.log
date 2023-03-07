@@ -1,0 +1,518 @@
+#-------------------------------------------------
+#VMC run: timestep 0.5 nconfig 2048 steps 100
+#-------------------------------------------------
+
+
+init { 
+   label vmc
+}
+block { 
+   label vmc
+   totweight 204800
+   nautocorr 0
+   total_energy { -2.592851282194559   } 
+   total_energyvar { 0.002850359713128163   } 
+   weight { 1   } 
+   weightvar { 0   } 
+   kinetic_energy { -0.6338805694450681   } 
+   kinetic_energyvar { 0.004638419722966329   } 
+   potential_energy { -1.958970712749491   } 
+   potential_energyvar { 0.005066906534095906   } 
+   nonlocal_energy { 0   } 
+   nonlocal_energyvar { 0   } 
+   autocorr_energy { } 
+} 
+
+block { 
+   label vmc
+   totweight 204800
+   nautocorr 0
+   total_energy { -2.591427030535846   } 
+   total_energyvar { 0.002770366239534045   } 
+   weight { 1   } 
+   weightvar { 0   } 
+   kinetic_energy { -0.6335231405926235   } 
+   kinetic_energyvar { 0.0046826449405417   } 
+   potential_energy { -1.957903889943222   } 
+   potential_energyvar { 0.005000626394757679   } 
+   nonlocal_energy { 0   } 
+   nonlocal_energyvar { 0   } 
+   autocorr_energy { } 
+} 
+
+block { 
+   label vmc
+   totweight 204800
+   nautocorr 0
+   total_energy { -2.590863179971612   } 
+   total_energyvar { 0.002800969398839915   } 
+   weight { 1   } 
+   weightvar { 0   } 
+   kinetic_energy { -0.6336834355828048   } 
+   kinetic_energyvar { 0.004560715706260625   } 
+   potential_energy { -1.957179744388806   } 
+   potential_energyvar { 0.004995553908661679   } 
+   nonlocal_energy { 0   } 
+   nonlocal_energyvar { 0   } 
+   autocorr_energy { } 
+} 
+
+block { 
+   label vmc
+   totweight 204800
+   nautocorr 0
+   total_energy { -2.5914312942079   } 
+   total_energyvar { 0.002817832669604094   } 
+   weight { 1   } 
+   weightvar { 0   } 
+   kinetic_energy { -0.6314873440467769   } 
+   kinetic_energyvar { 0.004564746952062674   } 
+   potential_energy { -1.959943950161124   } 
+   potential_energyvar { 0.005096092432520375   } 
+   nonlocal_energy { 0   } 
+   nonlocal_energyvar { 0   } 
+   autocorr_energy { } 
+} 
+
+block { 
+   label vmc
+   totweight 204800
+   nautocorr 0
+   total_energy { -2.59155405011624   } 
+   total_energyvar { 0.00282052768643248   } 
+   weight { 1   } 
+   weightvar { 0   } 
+   kinetic_energy { -0.6323121422682175   } 
+   kinetic_energyvar { 0.004715851722771608   } 
+   potential_energy { -1.959241907848023   } 
+   potential_energyvar { 0.005065302433593489   } 
+   nonlocal_energy { 0   } 
+   nonlocal_energyvar { 0   } 
+   autocorr_energy { } 
+} 
+
+block { 
+   label vmc
+   totweight 204800
+   nautocorr 0
+   total_energy { -2.592810191982249   } 
+   total_energyvar { 0.002802504784124536   } 
+   weight { 1   } 
+   weightvar { 0   } 
+   kinetic_energy { -0.6327983405144462   } 
+   kinetic_energyvar { 0.004786172853853034   } 
+   potential_energy { -1.960011851467803   } 
+   potential_energyvar { 0.005076645460536921   } 
+   nonlocal_energy { 0   } 
+   nonlocal_energyvar { 0   } 
+   autocorr_energy { } 
+} 
+
+block { 
+   label vmc
+   totweight 204800
+   nautocorr 0
+   total_energy { -2.593145396584257   } 
+   total_energyvar { 0.002656588990770634   } 
+   weight { 1   } 
+   weightvar { 0   } 
+   kinetic_energy { -0.6324851321063355   } 
+   kinetic_energyvar { 0.004607277885078287   } 
+   potential_energy { -1.960660264477922   } 
+   potential_energyvar { 0.004789767433703764   } 
+   nonlocal_energy { 0   } 
+   nonlocal_energyvar { 0   } 
+   autocorr_energy { } 
+} 
+
+block { 
+   label vmc
+   totweight 204800
+   nautocorr 0
+   total_energy { -2.592381715697252   } 
+   total_energyvar { 0.002703437934066249   } 
+   weight { 1   } 
+   weightvar { 0   } 
+   kinetic_energy { -0.6332367333565787   } 
+   kinetic_energyvar { 0.004570245618596626   } 
+   potential_energy { -1.959144982340673   } 
+   potential_energyvar { 0.004763968745764998   } 
+   nonlocal_energy { 0   } 
+   nonlocal_energyvar { 0   } 
+   autocorr_energy { } 
+} 
+
+block { 
+   label vmc
+   totweight 204800
+   nautocorr 0
+   total_energy { -2.59200286155405   } 
+   total_energyvar { 0.002730090848777511   } 
+   weight { 1   } 
+   weightvar { 0   } 
+   kinetic_energy { -0.6315603051899434   } 
+   kinetic_energyvar { 0.004602987271128705   } 
+   potential_energy { -1.960442556364106   } 
+   potential_energyvar { 0.004946532535695688   } 
+   nonlocal_energy { 0   } 
+   nonlocal_energyvar { 0   } 
+   autocorr_energy { } 
+} 
+
+block { 
+   label vmc
+   totweight 204800
+   nautocorr 0
+   total_energy { -2.592111359805321   } 
+   total_energyvar { 0.002802539975317336   } 
+   weight { 1   } 
+   weightvar { 0   } 
+   kinetic_energy { -0.6335776121777357   } 
+   kinetic_energyvar { 0.004766627085990589   } 
+   potential_energy { -1.958533747627585   } 
+   potential_energyvar { 0.005089158664925766   } 
+   nonlocal_energy { 0   } 
+   nonlocal_energyvar { 0   } 
+   autocorr_energy { } 
+} 
+
+block { 
+   label vmc
+   totweight 204800
+   nautocorr 0
+   total_energy { -2.592041406958927   } 
+   total_energyvar { 0.002831585224450798   } 
+   weight { 1   } 
+   weightvar { 0   } 
+   kinetic_energy { -0.6322044431123515   } 
+   kinetic_energyvar { 0.004690715662617686   } 
+   potential_energy { -1.959836963846576   } 
+   potential_energyvar { 0.005088185890639198   } 
+   nonlocal_energy { 0   } 
+   nonlocal_energyvar { 0   } 
+   autocorr_energy { } 
+} 
+
+block { 
+   label vmc
+   totweight 204800
+   nautocorr 0
+   total_energy { -2.591730864748359   } 
+   total_energyvar { 0.002753892156374453   } 
+   weight { 1   } 
+   weightvar { 0   } 
+   kinetic_energy { -0.6327375833840125   } 
+   kinetic_energyvar { 0.004620070684396954   } 
+   potential_energy { -1.958993281364347   } 
+   potential_energyvar { 0.005021866910504818   } 
+   nonlocal_energy { 0   } 
+   nonlocal_energyvar { 0   } 
+   autocorr_energy { } 
+} 
+
+block { 
+   label vmc
+   totweight 204800
+   nautocorr 0
+   total_energy { -2.59194979432409   } 
+   total_energyvar { 0.00272366629444213   } 
+   weight { 1   } 
+   weightvar { 0   } 
+   kinetic_energy { -0.6323080628772059   } 
+   kinetic_energyvar { 0.00461497752302319   } 
+   potential_energy { -1.959641731446884   } 
+   potential_energyvar { 0.004846040387135226   } 
+   nonlocal_energy { 0   } 
+   nonlocal_energyvar { 0   } 
+   autocorr_energy { } 
+} 
+
+block { 
+   label vmc
+   totweight 204800
+   nautocorr 0
+   total_energy { -2.59160122670976   } 
+   total_energyvar { 0.002778297059160328   } 
+   weight { 1   } 
+   weightvar { 0   } 
+   kinetic_energy { -0.6325676808421434   } 
+   kinetic_energyvar { 0.004691225749977597   } 
+   potential_energy { -1.959033545867616   } 
+   potential_energyvar { 0.005000389741660036   } 
+   nonlocal_energy { 0   } 
+   nonlocal_energyvar { 0   } 
+   autocorr_energy { } 
+} 
+
+block { 
+   label vmc
+   totweight 204800
+   nautocorr 0
+   total_energy { -2.590881717700421   } 
+   total_energyvar { 0.002783784259548719   } 
+   weight { 1   } 
+   weightvar { 0   } 
+   kinetic_energy { -0.632520686998043   } 
+   kinetic_energyvar { 0.004657984382667465   } 
+   potential_energy { -1.958361030702378   } 
+   potential_energyvar { 0.005058128028393681   } 
+   nonlocal_energy { 0   } 
+   nonlocal_energyvar { 0   } 
+   autocorr_energy { } 
+} 
+
+block { 
+   label vmc
+   totweight 204800
+   nautocorr 0
+   total_energy { -2.590436963237765   } 
+   total_energyvar { 0.002800537843675586   } 
+   weight { 1   } 
+   weightvar { 0   } 
+   kinetic_energy { -0.6319851508441208   } 
+   kinetic_energyvar { 0.004712780594784379   } 
+   potential_energy { -1.958451812393645   } 
+   potential_energyvar { 0.005073431830859837   } 
+   nonlocal_energy { 0   } 
+   nonlocal_energyvar { 0   } 
+   autocorr_energy { } 
+} 
+
+block { 
+   label vmc
+   totweight 204800
+   nautocorr 0
+   total_energy { -2.591073908312892   } 
+   total_energyvar { 0.002786355310592682   } 
+   weight { 1   } 
+   weightvar { 0   } 
+   kinetic_energy { -0.632675275651037   } 
+   kinetic_energyvar { 0.004691524028033659   } 
+   potential_energy { -1.958398632661855   } 
+   potential_energyvar { 0.005093383939314486   } 
+   nonlocal_energy { 0   } 
+   nonlocal_energyvar { 0   } 
+   autocorr_energy { } 
+} 
+
+block { 
+   label vmc
+   totweight 204800
+   nautocorr 0
+   total_energy { -2.592106239502698   } 
+   total_energyvar { 0.002767265669528508   } 
+   weight { 1   } 
+   weightvar { 0   } 
+   kinetic_energy { -0.6338615142262976   } 
+   kinetic_energyvar { 0.004760907239845141   } 
+   potential_energy { -1.958244725276401   } 
+   potential_energyvar { 0.005049295358771703   } 
+   nonlocal_energy { 0   } 
+   nonlocal_energyvar { 0   } 
+   autocorr_energy { } 
+} 
+
+block { 
+   label vmc
+   totweight 204800
+   nautocorr 0
+   total_energy { -2.591462694221631   } 
+   total_energyvar { 0.002755234205538646   } 
+   weight { 1   } 
+   weightvar { 0   } 
+   kinetic_energy { -0.6320297453306923   } 
+   kinetic_energyvar { 0.004696567475796483   } 
+   potential_energy { -1.959432948890938   } 
+   potential_energyvar { 0.004984511106675318   } 
+   nonlocal_energy { 0   } 
+   nonlocal_energyvar { 0   } 
+   autocorr_energy { } 
+} 
+
+block { 
+   label vmc
+   totweight 204800
+   nautocorr 0
+   total_energy { -2.592971924393075   } 
+   total_energyvar { 0.002696003391977674   } 
+   weight { 1   } 
+   weightvar { 0   } 
+   kinetic_energy { -0.6314427069719163   } 
+   kinetic_energyvar { 0.004698018818001163   } 
+   potential_energy { -1.96152921742116   } 
+   potential_energyvar { 0.004952543995856681   } 
+   nonlocal_energy { 0   } 
+   nonlocal_energyvar { 0   } 
+   autocorr_energy { } 
+} 
+
+block { 
+   label vmc
+   totweight 204800
+   nautocorr 0
+   total_energy { -2.591254669201438   } 
+   total_energyvar { 0.002703525438029761   } 
+   weight { 1   } 
+   weightvar { 0   } 
+   kinetic_energy { -0.6319080562782881   } 
+   kinetic_energyvar { 0.004600392991278663   } 
+   potential_energy { -1.95934661292315   } 
+   potential_energyvar { 0.004941852643634044   } 
+   nonlocal_energy { 0   } 
+   nonlocal_energyvar { 0   } 
+   autocorr_energy { } 
+} 
+
+block { 
+   label vmc
+   totweight 204800
+   nautocorr 0
+   total_energy { -2.591280314533855   } 
+   total_energyvar { 0.00269121321137844   } 
+   weight { 1   } 
+   weightvar { 0   } 
+   kinetic_energy { -0.6313568025127188   } 
+   kinetic_energyvar { 0.004472095833131275   } 
+   potential_energy { -1.959923512021136   } 
+   potential_energyvar { 0.004870844447720088   } 
+   nonlocal_energy { 0   } 
+   nonlocal_energyvar { 0   } 
+   autocorr_energy { } 
+} 
+
+block { 
+   label vmc
+   totweight 204800
+   nautocorr 0
+   total_energy { -2.591873757578245   } 
+   total_energyvar { 0.002804234795008549   } 
+   weight { 1   } 
+   weightvar { 0   } 
+   kinetic_energy { -0.6328410191223326   } 
+   kinetic_energyvar { 0.004654259866949042   } 
+   potential_energy { -1.959032738455912   } 
+   potential_energyvar { 0.005014554873146247   } 
+   nonlocal_energy { 0   } 
+   nonlocal_energyvar { 0   } 
+   autocorr_energy { } 
+} 
+
+block { 
+   label vmc
+   totweight 204800
+   nautocorr 0
+   total_energy { -2.591379746617601   } 
+   total_energyvar { 0.002707570403366203   } 
+   weight { 1   } 
+   weightvar { 0   } 
+   kinetic_energy { -0.632736831275225   } 
+   kinetic_energyvar { 0.004575239274252746   } 
+   potential_energy { -1.958642915342376   } 
+   potential_energyvar { 0.004946129215091233   } 
+   nonlocal_energy { 0   } 
+   nonlocal_energyvar { 0   } 
+   autocorr_energy { } 
+} 
+
+block { 
+   label vmc
+   totweight 204800
+   nautocorr 0
+   total_energy { -2.591810132468835   } 
+   total_energyvar { 0.002790179677768042   } 
+   weight { 1   } 
+   weightvar { 0   } 
+   kinetic_energy { -0.6326205893854489   } 
+   kinetic_energyvar { 0.004702574453574258   } 
+   potential_energy { -1.959189543083386   } 
+   potential_energyvar { 0.004977454006168835   } 
+   nonlocal_energy { 0   } 
+   nonlocal_energyvar { 0   } 
+   autocorr_energy { } 
+} 
+
+block { 
+   label vmc
+   totweight 204800
+   nautocorr 0
+   total_energy { -2.591512744445267   } 
+   total_energyvar { 0.002784942769186723   } 
+   weight { 1   } 
+   weightvar { 0   } 
+   kinetic_energy { -0.633467014467056   } 
+   kinetic_energyvar { 0.00465639789394877   } 
+   potential_energy { -1.958045729978211   } 
+   potential_energyvar { 0.004915904518440484   } 
+   nonlocal_energy { 0   } 
+   nonlocal_energyvar { 0   } 
+   autocorr_energy { } 
+} 
+
+block { 
+   label vmc
+   totweight 204800
+   nautocorr 0
+   total_energy { -2.591644984610813   } 
+   total_energyvar { 0.002781585285795988   } 
+   weight { 1   } 
+   weightvar { 0   } 
+   kinetic_energy { -0.6328116841343148   } 
+   kinetic_energyvar { 0.00472815957821908   } 
+   potential_energy { -1.958833300476498   } 
+   potential_energyvar { 0.005130249881588819   } 
+   nonlocal_energy { 0   } 
+   nonlocal_energyvar { 0   } 
+   autocorr_energy { } 
+} 
+
+block { 
+   label vmc
+   totweight 204800
+   nautocorr 0
+   total_energy { -2.590015561966769   } 
+   total_energyvar { 0.00274425136922991   } 
+   weight { 1   } 
+   weightvar { 0   } 
+   kinetic_energy { -0.6321381632394063   } 
+   kinetic_energyvar { 0.00461779077226513   } 
+   potential_energy { -1.957877398727363   } 
+   potential_energyvar { 0.005051958911939919   } 
+   nonlocal_energy { 0   } 
+   nonlocal_energyvar { 0   } 
+   autocorr_energy { } 
+} 
+
+block { 
+   label vmc
+   totweight 204800
+   nautocorr 0
+   total_energy { -2.590736513318855   } 
+   total_energyvar { 0.002747166621721594   } 
+   weight { 1   } 
+   weightvar { 0   } 
+   kinetic_energy { -0.6327539039305021   } 
+   kinetic_energyvar { 0.004730033370824198   } 
+   potential_energy { -1.957982609388353   } 
+   potential_energyvar { 0.005030428326558814   } 
+   nonlocal_energy { 0   } 
+   nonlocal_energyvar { 0   } 
+   autocorr_energy { } 
+} 
+
+block { 
+   label vmc
+   totweight 204800
+   nautocorr 0
+   total_energy { -2.591353588198952   } 
+   total_energyvar { 0.002687806989766922   } 
+   weight { 1   } 
+   weightvar { 0   } 
+   kinetic_energy { -0.634120230695508   } 
+   kinetic_energyvar { 0.004672556096267716   } 
+   potential_energy { -1.957233357503444   } 
+   potential_energyvar { 0.004927796550234461   } 
+   nonlocal_energy { 0   } 
+   nonlocal_energyvar { 0   } 
+   autocorr_energy { } 
+} 
+

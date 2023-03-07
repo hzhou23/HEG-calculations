@@ -1,0 +1,9 @@
+SYSTEM { HEG
+ NSPIN { 27 27 }
+ boxsize {
+     6.09294778537956     6.09294778537956     6.09294778537956
+ }
+ origin { 0.0 0.0 0.0 }
+ kpoint { 0 0 0 }
+ interaction { truncCoul }
+}

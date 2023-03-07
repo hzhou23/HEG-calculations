@@ -1,0 +1,5385 @@
+0: output to linear.o
+82: cell volume 469.145
+90: cell volume 469.145
+94: cell volume 469.145
+74: cell volume 469.145
+42: cell volume 469.145
+102: cell volume 469.145
+33: cell volume 469.145
+115: cell volume 469.145
+72: cell volume 469.145
+5: cell volume 469.145
+58: cell volume 469.145
+8: cell volume 469.145
+118: cell volume 469.145
+91: cell volume 469.145
+18: cell volume 469.145
+121: cell volume 469.145
+62: cell volume 469.145
+77: cell volume 469.145
+20: cell volume 469.145
+124: cell volume 469.145
+32: cell volume 469.145
+23: cell volume 469.145
+99: cell volume 469.145
+60: cell volume 469.145
+95: cell volume 469.145
+12: cell volume 469.145
+123: cell volume 469.145
+57: cell volume 469.145
+89: cell volume 469.145
+28: cell volume 469.145
+50: cell volume 469.145
+64: cell volume 469.145
+16: cell volume 469.145
+111: cell volume 469.145
+36: cell volume 469.145
+80: cell volume 469.145
+2: cell volume 469.145
+104: cell volume 469.145
+46: cell volume 469.145
+93: cell volume 469.145
+14: cell volume 469.145
+105: cell volume 469.145
+79: cell volume 469.145
+6: cell volume 469.145
+108: cell volume 469.145
+56: cell volume 469.145
+75: cell volume 469.145
+1: cell volume 469.145
+103: cell volume 469.145
+38: cell volume 469.145
+4: cell volume 469.145
+59: cell volume 469.145
+68: cell volume 469.145
+30: cell volume 469.145
+96: cell volume 469.145
+83: cell volume 469.145
+10: cell volume 469.145
+107: cell volume 469.145
+51: cell volume 469.145
+85: cell volume 469.145
+24: cell volume 469.145
+117: cell volume 469.145
+40: cell volume 469.145
+112: cell volume 469.145
+37: cell volume 469.145
+43: cell volume 469.145
+116: cell volume 469.145
+21: cell volume 469.145
+7: cell volume 469.145
+125: cell volume 469.145
+35: cell volume 469.145
+22: cell volume 469.145
+44: cell volume 469.145
+87: cell volume 469.145
+26: cell volume 469.145
+55: cell volume 469.145
+29: cell volume 469.145
+114: cell volume 469.145
+63: cell volume 469.145
+92: cell volume 469.145
+25: cell volume 469.145
+34: cell volume 469.145
+66: cell volume 469.145
+17: cell volume 469.145
+109: cell volume 469.145
+45: cell volume 469.145
+67: cell volume 469.145
+3: cell volume 469.145
+31: cell volume 469.145
+119: cell volume 469.145
+52: cell volume 469.145
+70: cell volume 469.145
+19: cell volume 469.145
+120: cell volume 469.145
+53: cell volume 469.145
+73: cell volume 469.145
+27: cell volume 469.145
+47: cell volume 469.145
+65: cell volume 469.145
+13: cell volume 469.145
+113: cell volume 469.145
+49: cell volume 469.145
+88: cell volume 469.145
+9: cell volume 469.145
+126: cell volume 469.145
+61: cell volume 469.145
+78: cell volume 469.145
+15: cell volume 469.145
+127: cell volume 469.145
+41: cell volume 469.145
+86: cell volume 469.145
+11: cell volume 469.145
+101: cell volume 469.145
+54: cell volume 469.145
+81: cell volume 469.145
+0: cell volume 469.145
+97: cell volume 469.145
+39: cell volume 469.145
+76: cell volume 469.145
+100: cell volume 469.145
+48: cell volume 469.145
+69: cell volume 469.145
+106: cell volume 469.145
+84: cell volume 469.145
+110: cell volume 469.145
+71: cell volume 469.145
+122: cell volume 469.145
+98: cell volume 469.145
+Basis function MO
+Reading orbitals from heg.0.orb
+7 molecular orbitals found.
+
+Could not open linear.config. Generating configurations from scratch
+64: Timestep is 3.21906
+32: Timestep is 3.21906
+0: Timestep is 3.21906
+96: Timestep is 3.21906
+65: Timestep is 3.21906
+1: Timestep is 3.21906
+33: Timestep is 3.21906
+2: Timestep is 3.21906
+97: Timestep is 3.21906
+66: Timestep is 3.21906
+3: Timestep is 3.21906
+98: Timestep is 3.21906
+34: Timestep is 3.21906
+67: Timestep is 3.21906
+4: Timestep is 3.21906
+99: Timestep is 3.21906
+35: Timestep is 3.21906
+68: Timestep is 3.21906
+5: Timestep is 3.21906
+100: Timestep is 3.21906
+36: Timestep is 3.21906
+69: Timestep is 3.21906
+6: Timestep is 3.21906
+37: Timestep is 3.21906
+70: Timestep is 3.21906
+7: Timestep is 3.21906
+101: Timestep is 3.21906
+38: Timestep is 3.21906
+71: Timestep is 3.21906
+8: Timestep is 3.21906
+102: Timestep is 3.21906
+39: Timestep is 3.21906
+9: Timestep is 3.21906
+103: Timestep is 3.21906
+40: Timestep is 3.21906
+72: Timestep is 3.21906
+10: Timestep is 3.21906
+104: Timestep is 3.21906
+73: Timestep is 3.21906
+11: Timestep is 3.21906
+105: Timestep is 3.21906
+41: Timestep is 3.21906
+74: Timestep is 3.21906
+12: Timestep is 3.21906
+106: Timestep is 3.21906
+42: Timestep is 3.21906
+75: Timestep is 3.21906
+13: Timestep is 3.21906
+107: Timestep is 3.21906
+43: Timestep is 3.21906
+76: Timestep is 3.21906
+14: Timestep is 3.21906
+108: Timestep is 3.21906
+44: Timestep is 3.21906
+77: Timestep is 3.21906
+15: Timestep is 3.21906
+109: Timestep is 3.21906
+45: Timestep is 3.21906
+78: Timestep is 3.21906
+16: Timestep is 3.21906
+110: Timestep is 3.21906
+46: Timestep is 3.21906
+79: Timestep is 3.21906
+17: Timestep is 3.21906
+111: Timestep is 3.21906
+47: Timestep is 3.21906
+80: Timestep is 3.21906
+18: Timestep is 3.21906
+112: Timestep is 3.21906
+48: Timestep is 3.21906
+81: Timestep is 3.21906
+19: Timestep is 3.21906
+113: Timestep is 3.21906
+49: Timestep is 3.21906
+82: Timestep is 3.21906
+20: Timestep is 3.21906
+114: Timestep is 3.21906
+50: Timestep is 3.21906
+83: Timestep is 3.21906
+21: Timestep is 3.21906
+51: Timestep is 3.21906
+84: Timestep is 3.21906
+22: Timestep is 3.21906
+115: Timestep is 3.21906
+52: Timestep is 3.21906
+85: Timestep is 3.21906
+23: Timestep is 3.21906
+116: Timestep is 3.21906
+53: Timestep is 3.21906
+86: Timestep is 3.21906
+24: Timestep is 3.21906
+117: Timestep is 3.21906
+54: Timestep is 3.21906
+87: Timestep is 3.21906
+25: Timestep is 3.21906
+118: Timestep is 3.21906
+55: Timestep is 3.21906
+88: Timestep is 3.21906
+26: Timestep is 3.21906
+119: Timestep is 3.21906
+56: Timestep is 3.21906
+89: Timestep is 3.21906
+27: Timestep is 3.21906
+120: Timestep is 3.21906
+57: Timestep is 3.21906
+90: Timestep is 3.21906
+28: Timestep is 3.21906
+121: Timestep is 3.21906
+58: Timestep is 3.21906
+91: Timestep is 3.21906
+29: Timestep is 3.21906
+122: Timestep is 3.21906
+59: Timestep is 3.21906
+92: Timestep is 3.21906
+30: Timestep is 3.21906
+123: Timestep is 3.21906
+60: Timestep is 3.21906
+31: Timestep is 3.21906
+124: Timestep is 3.21906
+61: Timestep is 3.21906
+93: Timestep is 3.21906
+125: Timestep is 3.21906
+62: Timestep is 3.21906
+94: Timestep is 3.21906
+126: Timestep is 3.21906
+63: Timestep is 3.21906
+95: Timestep is 3.21906
+127: Timestep is 3.21906
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+energy derivative -0.59387243 +/- 0.0006295107367
+energy derivative -1.061141704 +/- 0.002702479514
+eigenvals (0.1404275646,0) (2.316222136,0) (1.515937948,0) 
+i 0 stab 1.05399556e-07 p0 0.9971653416 eigenval (0.1404275646,0)
+i 1 stab 1.05399556e-07 p0 0.1677902522 eigenval (2.316222136,0)
+i 2 stab 1.05399556e-07 p0 0.3075183344 eigenval (1.515937948,0)
+chose 0 eigenval 0.1404275646
+eigenvals (0.1404275562,0) (2.316222787,0) (1.515937962,0) 
+i 0 stab 5.269977801e-07 p0 0.9971653432 eigenval (0.1404275562,0)
+i 1 stab 5.269977801e-07 p0 0.1677902055 eigenval (2.316222787,0)
+i 2 stab 5.269977801e-07 p0 0.3075183273 eigenval (1.515937962,0)
+chose 0 eigenval 0.1404275562
+eigenvals (0.1404275142,0) (2.316226043,0) (1.515938032,0) 
+i 0 stab 2.634988901e-06 p0 0.9971653512 eigenval (0.1404275142,0)
+i 1 stab 2.634988901e-06 p0 0.1677899719 eigenval (2.316226043,0)
+i 2 stab 2.634988901e-06 p0 0.3075182917 eigenval (1.515938032,0)
+chose 0 eigenval 0.1404275142
+eigenvals (0.1404273042,0) (2.316242325,0) (1.515938378,0) 
+i 0 stab 1.31749445e-05 p0 0.9971653912 eigenval (0.1404273042,0)
+i 1 stab 1.31749445e-05 p0 0.1677888044 eigenval (2.316242325,0)
+i 2 stab 1.31749445e-05 p0 0.3075181138 eigenval (1.515938378,0)
+chose 0 eigenval 0.1404273042
+eigenvals (0.1404262544,0) (2.316323733,0) (1.515940112,0) 
+i 0 stab 6.587472252e-05 p0 0.9971655913 eigenval (0.1404262544,0)
+i 1 stab 6.587472252e-05 p0 0.1677829667 eigenval (2.316323733,0)
+i 2 stab 6.587472252e-05 p0 0.3075172242 eigenval (1.515940112,0)
+chose 0 eigenval 0.1404262544
+eigenvals (0.1404210064,0) (2.316730772,0) (1.51594878,0) 
+i 0 stab 0.0003293736126 p0 0.9971665911 eigenval (0.1404210064,0)
+i 1 stab 0.0003293736126 p0 0.1677537839 eigenval (2.316730772,0)
+i 2 stab 0.0003293736126 p0 0.3075127782 eigenval (1.51594878,0)
+chose 0 eigenval 0.1404210064
+eigenvals (0.1403947956,0) (2.318765942,0) (1.515992119,0) 
+i 0 stab 0.001646868063 p0 0.9971715818 eigenval (0.1403947956,0)
+i 1 stab 0.001646868063 p0 0.167608013 eigenval (2.318765942,0)
+i 2 stab 0.001646868063 p0 0.3074905894 eigenval (1.515992119,0)
+chose 0 eigenval 0.1403947956
+eigenvals (0.1402644676,0) (2.3289411,0) (1.516208781,0) 
+i 0 stab 0.008234340314 p0 0.9971963294 eigenval (0.1402644676,0)
+i 1 stab 0.008234340314 p0 0.1668827204 eigenval (2.3289411,0)
+i 2 stab 0.008234340314 p0 0.3073806604 eigenval (1.516208781,0)
+chose 0 eigenval 0.1402644676
+eigenvals (0.1396304577,0) (2.379800063,0) (1.517291286,0) 
+i 0 stab 0.04117170157 p0 0.9973151044 eigenval (0.1396304577,0)
+i 1 stab 0.04117170157 p0 0.1633434825 eigenval (2.379800063,0)
+i 2 stab 0.04117170157 p0 0.3068546045 eigenval (1.517291286,0)
+chose 0 eigenval 0.1396304577
+eigenvals (0.1368448799,0) (2.633724939,0) (1.522689278,0) 
+i 0 stab 0.2058585079 p0 0.9978051602 eigenval (0.1368448799,0)
+i 1 stab 0.2058585079 p0 0.1476102645 eigenval (2.633724939,0)
+i 2 stab 0.2058585079 p0 0.3046526477 eigenval (1.522689278,0)
+chose 0 eigenval 0.1368448799
+eigenvals (0.1284906181,0) (3.897902206,0) (1.549552726,0) 
+i 0 stab 1.029292539 p0 0.9989632488 eigenval (0.1284906181,0)
+i 2 stab 1.029292539 p0 0.2974257048 eigenval (1.549552726,0)
+chose 0 eigenval 0.1284906181
+eigenvals (10.18820031,0) (0.117680572,0) (1.683496934,0) 
+i 1 stab 5.146462697 p0 0.9997749418 eigenval (0.117680572,0)
+i 2 stab 5.146462697 p0 0.2729093057 eigenval (1.683496934,0)
+chose 1 eigenval 0.117680572
+eigenvals (41.59335573,0) (0.1111944716,0) (2.351988922,0) 
+i 1 stab 25.73231348 p0 0.9999459262 eigenval (0.1111944716,0)
+i 2 stab 25.73231348 p0 0.1951793147 eigenval (2.351988922,0)
+chose 1 eigenval 0.1111944716
+eigenvals (198.597048,0) (0.1074424613,0) (5.687855247,0) 
+i 1 stab 128.6615674 p0 0.9999921652 eigenval (0.1074424613,0)
+chose 1 eigenval 0.1074424613
+eigenvals (0.105896809,0) (983.6098517,0) (22.35563008,0) 
+i 0 stab 643.3078371 p0 0.9999995144 eigenval (0.105896809,0)
+chose 0 eigenval 0.105896809
+eigenvals (0.1404275646,0) (2.316222136,0) (1.515937948,0) 
+i 0 stab 1.05399556e-07 p0 0.9971653416 eigenval (0.1404275646,0)
+i 1 stab 1.05399556e-07 p0 0.1677902522 eigenval (2.316222136,0)
+i 2 stab 1.05399556e-07 p0 0.3075183344 eigenval (1.515937948,0)
+chose 0 eigenval 0.1404275646
+eigenvals (0.1404275562,0) (2.316222787,0) (1.515937962,0) 
+i 0 stab 5.269977801e-07 p0 0.9971653432 eigenval (0.1404275562,0)
+i 1 stab 5.269977801e-07 p0 0.1677902055 eigenval (2.316222787,0)
+i 2 stab 5.269977801e-07 p0 0.3075183273 eigenval (1.515937962,0)
+chose 0 eigenval 0.1404275562
+eigenvals (0.1404275142,0) (2.316226043,0) (1.515938032,0) 
+i 0 stab 2.634988901e-06 p0 0.9971653512 eigenval (0.1404275142,0)
+i 1 stab 2.634988901e-06 p0 0.1677899719 eigenval (2.316226043,0)
+i 2 stab 2.634988901e-06 p0 0.3075182917 eigenval (1.515938032,0)
+chose 0 eigenval 0.1404275142
+eigenvals (0.1404273042,0) (2.316242325,0) (1.515938378,0) 
+i 0 stab 1.31749445e-05 p0 0.9971653912 eigenval (0.1404273042,0)
+i 1 stab 1.31749445e-05 p0 0.1677888044 eigenval (2.316242325,0)
+i 2 stab 1.31749445e-05 p0 0.3075181138 eigenval (1.515938378,0)
+chose 0 eigenval 0.1404273042
+eigenvals (0.1404262544,0) (2.316323733,0) (1.515940112,0) 
+i 0 stab 6.587472252e-05 p0 0.9971655913 eigenval (0.1404262544,0)
+i 1 stab 6.587472252e-05 p0 0.1677829667 eigenval (2.316323733,0)
+i 2 stab 6.587472252e-05 p0 0.3075172242 eigenval (1.515940112,0)
+chose 0 eigenval 0.1404262544
+eigenvals (0.1404210064,0) (2.316730772,0) (1.51594878,0) 
+i 0 stab 0.0003293736126 p0 0.9971665911 eigenval (0.1404210064,0)
+i 1 stab 0.0003293736126 p0 0.1677537839 eigenval (2.316730772,0)
+i 2 stab 0.0003293736126 p0 0.3075127782 eigenval (1.51594878,0)
+chose 0 eigenval 0.1404210064
+eigenvals (0.1403947956,0) (2.318765942,0) (1.515992119,0) 
+i 0 stab 0.001646868063 p0 0.9971715818 eigenval (0.1403947956,0)
+i 1 stab 0.001646868063 p0 0.167608013 eigenval (2.318765942,0)
+i 2 stab 0.001646868063 p0 0.3074905894 eigenval (1.515992119,0)
+chose 0 eigenval 0.1403947956
+eigenvals (0.1402644676,0) (2.3289411,0) (1.516208781,0) 
+i 0 stab 0.008234340314 p0 0.9971963294 eigenval (0.1402644676,0)
+i 1 stab 0.008234340314 p0 0.1668827204 eigenval (2.3289411,0)
+i 2 stab 0.008234340314 p0 0.3073806604 eigenval (1.516208781,0)
+chose 0 eigenval 0.1402644676
+eigenvals (0.1396304577,0) (2.379800063,0) (1.517291286,0) 
+i 0 stab 0.04117170157 p0 0.9973151044 eigenval (0.1396304577,0)
+i 1 stab 0.04117170157 p0 0.1633434825 eigenval (2.379800063,0)
+i 2 stab 0.04117170157 p0 0.3068546045 eigenval (1.517291286,0)
+chose 0 eigenval 0.1396304577
+eigenvals (0.1368448799,0) (2.633724939,0) (1.522689278,0) 
+i 0 stab 0.2058585079 p0 0.9978051602 eigenval (0.1368448799,0)
+i 1 stab 0.2058585079 p0 0.1476102645 eigenval (2.633724939,0)
+i 2 stab 0.2058585079 p0 0.3046526477 eigenval (1.522689278,0)
+64: Timestep is 1.74796875
+chose 0 eigenval 0.1368448799
+96: Timestep is 1.74796875
+32: Timestep is 1.74796875
+65: Timestep is 1.74796875
+eigenvals (0.1284906181,0) (3.897902206,0) (1.549552726,0) 
+i 0 stab 1.029292539 p0 0.9989632488 eigenval (0.1284906181,0)
+i 2 stab 1.029292539 p0 0.2974257048 eigenval (1.549552726,0)
+chose 0 eigenval 0.1284906181
+97: Timestep is 1.74796875
+33: Timestep is 1.74796875
+66: Timestep is 1.74796875
+eigenvals (10.18820031,0) (0.117680572,0) (1.683496934,0) 
+67: Timestep is 1.74796875
+i 1 stab 5.146462697 p0 0.9997749418 eigenval (0.117680572,0)
+i 2 stab 5.146462697 p0 0.2729093057 eigenval (1.683496934,0)
+chose 1 eigenval 0.117680572
+98: Timestep is 1.74796875
+34: Timestep is 1.74796875
+68: Timestep is 1.74796875
+eigenvals (41.59335573,0) (0.1111944716,0) (2.351988922,0) 
+i 1 stab 25.73231348 p0 0.9999459262 eigenval (0.1111944716,0)
+i 2 stab 25.73231348 p0 0.1951793147 eigenval (2.351988922,0)
+99: Timestep is 1.74796875
+35: Timestep is 1.74796875
+69: Timestep is 1.74796875
+chose 1 eigenval 0.1111944716
+100: Timestep is 1.74796875
+36: Timestep is 1.74796875
+70: Timestep is 1.74796875
+eigenvals (198.597048,0) (0.1074424613,0) (5.687855247,0) 
+i 1 stab 128.6615674 p0 0.9999921652 eigenval (0.1074424613,0)
+chose 1 eigenval 0.1074424613
+101: Timestep is 1.74796875
+37: Timestep is 1.74796875
+71: Timestep is 1.74796875
+eigenvals (0.105896809,0) (983.6098517,0) (22.35563008,0) 
+i 0 stab 643.3078371 p0 0.9999995144 eigenval (0.105896809,0)
+chose 0 eigenval 0.105896809
+102: Timestep is 1.74796875
+38: Timestep is 1.74796875
+72: Timestep is 1.74796875
+103: Timestep is 1.74796875
+39: Timestep is 1.74796875
+73: Timestep is 1.74796875
+104: Timestep is 1.74796875
+40: Timestep is 1.74796875
+74: Timestep is 1.74796875
+105: Timestep is 1.74796875
+41: Timestep is 1.74796875
+75: Timestep is 1.74796875
+106: Timestep is 1.74796875
+42: Timestep is 1.74796875
+76: Timestep is 1.74796875
+107: Timestep is 1.74796875
+43: Timestep is 1.74796875
+77: Timestep is 1.74796875
+108: Timestep is 1.74796875
+44: Timestep is 1.74796875
+78: Timestep is 1.74796875
+109: Timestep is 1.74796875
+45: Timestep is 1.74796875
+79: Timestep is 1.74796875
+110: Timestep is 1.74796875
+46: Timestep is 1.74796875
+80: Timestep is 1.74796875
+111: Timestep is 1.74796875
+47: Timestep is 1.74796875
+81: Timestep is 1.74796875
+112: Timestep is 1.74796875
+48: Timestep is 1.74796875
+82: Timestep is 1.74796875
+113: Timestep is 1.74796875
+49: Timestep is 1.74796875
+83: Timestep is 1.74796875
+114: Timestep is 1.74796875
+50: Timestep is 1.74796875
+84: Timestep is 1.74796875
+115: Timestep is 1.74796875
+51: Timestep is 1.74796875
+85: Timestep is 1.74796875
+116: Timestep is 1.74796875
+52: Timestep is 1.74796875
+86: Timestep is 1.74796875
+117: Timestep is 1.74796875
+53: Timestep is 1.74796875
+87: Timestep is 1.74796875
+118: Timestep is 1.74796875
+54: Timestep is 1.74796875
+88: Timestep is 1.74796875
+119: Timestep is 1.74796875
+55: Timestep is 1.74796875
+120: Timestep is 1.74796875
+56: Timestep is 1.74796875
+89: Timestep is 1.74796875
+90: Timestep is 1.74796875
+121: Timestep is 1.74796875
+57: Timestep is 1.74796875
+91: Timestep is 1.74796875
+122: Timestep is 1.74796875
+58: Timestep is 1.74796875
+92: Timestep is 1.74796875
+123: Timestep is 1.74796875
+59: Timestep is 1.74796875
+93: Timestep is 1.74796875
+124: Timestep is 1.74796875
+60: Timestep is 1.74796875
+94: Timestep is 1.74796875
+125: Timestep is 1.74796875
+61: Timestep is 1.74796875
+95: Timestep is 1.74796875
+126: Timestep is 1.74796875
+62: Timestep is 1.74796875
+127: Timestep is 1.74796875
+63: Timestep is 1.74796875
+0: Timestep is 1.74796875
+2: Timestep is 1.74796875
+4: Timestep is 1.74796875
+6: Timestep is 1.74796875
+8: Timestep is 1.74796875
+9: Timestep is 1.74796875
+10: Timestep is 1.74796875
+11: Timestep is 1.74796875
+12: Timestep is 1.74796875
+13: Timestep is 1.74796875
+14: Timestep is 1.74796875
+15: Timestep is 1.74796875
+16: Timestep is 1.74796875
+17: Timestep is 1.74796875
+18: Timestep is 1.74796875
+19: Timestep is 1.74796875
+20: Timestep is 1.74796875
+21: Timestep is 1.74796875
+22: Timestep is 1.74796875
+23: Timestep is 1.74796875
+24: Timestep is 1.74796875
+25: Timestep is 1.74796875
+26: Timestep is 1.74796875
+27: Timestep is 1.74796875
+28: Timestep is 1.74796875
+29: Timestep is 1.74796875
+30: Timestep is 1.74796875
+31: Timestep is 1.74796875
+1: Timestep is 1.74796875
+3: Timestep is 1.74796875
+5: Timestep is 1.74796875
+7: Timestep is 1.74796875
+fitting to -0.01922224483 1.05399556e-07
+fitting to -0.01922224378 5.269977801e-07
+fitting to -0.01922223851 2.634988901e-06
+fitting to -0.01922221219 1.31749445e-05
+fitting to -0.01922208059 6.587472252e-05
+fit r2 1 curvature 0.001970017824
+eigenvals (0.1404275646,0) (2.316222136,0) (1.515937948,0) 
+i 0 stab 1.05399556e-07 p0 0.9971653416 eigenval (0.1404275646,0)
+i 1 stab 1.05399556e-07 p0 0.1677902522 eigenval (2.316222136,0)
+i 2 stab 1.05399556e-07 p0 0.3075183344 eigenval (1.515937948,0)
+chose 0 eigenval 0.1404275646
+32: Timestep is 1.7503125
+64: Timestep is 1.7503125
+0: Timestep is 1.7503125
+96: Timestep is 1.7503125
+33: Timestep is 1.7503125
+65: Timestep is 1.7503125
+1: Timestep is 1.7503125
+66: Timestep is 1.7503125
+2: Timestep is 1.7503125
+97: Timestep is 1.7503125
+34: Timestep is 1.7503125
+67: Timestep is 1.7503125
+3: Timestep is 1.7503125
+98: Timestep is 1.7503125
+35: Timestep is 1.7503125
+68: Timestep is 1.7503125
+4: Timestep is 1.7503125
+99: Timestep is 1.7503125
+36: Timestep is 1.7503125
+69: Timestep is 1.7503125
+5: Timestep is 1.7503125
+100: Timestep is 1.7503125
+37: Timestep is 1.7503125
+70: Timestep is 1.7503125
+6: Timestep is 1.7503125
+101: Timestep is 1.7503125
+38: Timestep is 1.7503125
+71: Timestep is 1.7503125
+7: Timestep is 1.7503125
+102: Timestep is 1.7503125
+39: Timestep is 1.7503125
+72: Timestep is 1.7503125
+8: Timestep is 1.7503125
+103: Timestep is 1.7503125
+40: Timestep is 1.7503125
+73: Timestep is 1.7503125
+9: Timestep is 1.7503125
+74: Timestep is 1.7503125
+10: Timestep is 1.7503125
+104: Timestep is 1.7503125
+41: Timestep is 1.7503125
+75: Timestep is 1.7503125
+11: Timestep is 1.7503125
+105: Timestep is 1.7503125
+42: Timestep is 1.7503125
+76: Timestep is 1.7503125
+12: Timestep is 1.7503125
+106: Timestep is 1.7503125
+43: Timestep is 1.7503125
+77: Timestep is 1.7503125
+13: Timestep is 1.7503125
+107: Timestep is 1.7503125
+44: Timestep is 1.7503125
+78: Timestep is 1.7503125
+14: Timestep is 1.7503125
+108: Timestep is 1.7503125
+45: Timestep is 1.7503125
+79: Timestep is 1.7503125
+15: Timestep is 1.7503125
+109: Timestep is 1.7503125
+46: Timestep is 1.7503125
+80: Timestep is 1.7503125
+16: Timestep is 1.7503125
+110: Timestep is 1.7503125
+47: Timestep is 1.7503125
+81: Timestep is 1.7503125
+17: Timestep is 1.7503125
+111: Timestep is 1.7503125
+48: Timestep is 1.7503125
+82: Timestep is 1.7503125
+18: Timestep is 1.7503125
+112: Timestep is 1.7503125
+49: Timestep is 1.7503125
+83: Timestep is 1.7503125
+19: Timestep is 1.7503125
+113: Timestep is 1.7503125
+50: Timestep is 1.7503125
+84: Timestep is 1.7503125
+20: Timestep is 1.7503125
+114: Timestep is 1.7503125
+51: Timestep is 1.7503125
+85: Timestep is 1.7503125
+21: Timestep is 1.7503125
+115: Timestep is 1.7503125
+52: Timestep is 1.7503125
+86: Timestep is 1.7503125
+22: Timestep is 1.7503125
+116: Timestep is 1.7503125
+53: Timestep is 1.7503125
+87: Timestep is 1.7503125
+23: Timestep is 1.7503125
+117: Timestep is 1.7503125
+54: Timestep is 1.7503125
+88: Timestep is 1.7503125
+24: Timestep is 1.7503125
+118: Timestep is 1.7503125
+55: Timestep is 1.7503125
+89: Timestep is 1.7503125
+25: Timestep is 1.7503125
+119: Timestep is 1.7503125
+56: Timestep is 1.7503125
+90: Timestep is 1.7503125
+26: Timestep is 1.7503125
+120: Timestep is 1.7503125
+57: Timestep is 1.7503125
+91: Timestep is 1.7503125
+27: Timestep is 1.7503125
+121: Timestep is 1.7503125
+58: Timestep is 1.7503125
+92: Timestep is 1.7503125
+28: Timestep is 1.7503125
+122: Timestep is 1.7503125
+59: Timestep is 1.7503125
+93: Timestep is 1.7503125
+29: Timestep is 1.7503125
+123: Timestep is 1.7503125
+60: Timestep is 1.7503125
+94: Timestep is 1.7503125
+30: Timestep is 1.7503125
+124: Timestep is 1.7503125
+61: Timestep is 1.7503125
+95: Timestep is 1.7503125
+31: Timestep is 1.7503125
+125: Timestep is 1.7503125
+62: Timestep is 1.7503125
+126: Timestep is 1.7503125
+63: Timestep is 1.7503125
+127: Timestep is 1.7503125
+Read took 0 seconds
+0: Timestep is 3.06859375
+64: Timestep is 3.06859375
+1: Timestep is 3.06859375
+96: Timestep is 3.06859375
+32: Timestep is 3.06859375
+65: Timestep is 3.06859375
+2: Timestep is 3.06859375
+66: Timestep is 3.06859375
+3: Timestep is 3.06859375
+97: Timestep is 3.06859375
+33: Timestep is 3.06859375
+67: Timestep is 3.06859375
+4: Timestep is 3.06859375
+98: Timestep is 3.06859375
+34: Timestep is 3.06859375
+68: Timestep is 3.06859375
+5: Timestep is 3.06859375
+99: Timestep is 3.06859375
+35: Timestep is 3.06859375
+69: Timestep is 3.06859375
+6: Timestep is 3.06859375
+100: Timestep is 3.06859375
+36: Timestep is 3.06859375
+70: Timestep is 3.06859375
+7: Timestep is 3.06859375
+71: Timestep is 3.06859375
+8: Timestep is 3.06859375
+101: Timestep is 3.06859375
+37: Timestep is 3.06859375
+72: Timestep is 3.06859375
+9: Timestep is 3.06859375
+102: Timestep is 3.06859375
+38: Timestep is 3.06859375
+73: Timestep is 3.06859375
+10: Timestep is 3.06859375
+103: Timestep is 3.06859375
+39: Timestep is 3.06859375
+74: Timestep is 3.06859375
+11: Timestep is 3.06859375
+104: Timestep is 3.06859375
+40: Timestep is 3.06859375
+75: Timestep is 3.06859375
+12: Timestep is 3.06859375
+105: Timestep is 3.06859375
+41: Timestep is 3.06859375
+76: Timestep is 3.06859375
+13: Timestep is 3.06859375
+106: Timestep is 3.06859375
+42: Timestep is 3.06859375
+77: Timestep is 3.06859375
+14: Timestep is 3.06859375
+107: Timestep is 3.06859375
+43: Timestep is 3.06859375
+78: Timestep is 3.06859375
+15: Timestep is 3.06859375
+108: Timestep is 3.06859375
+44: Timestep is 3.06859375
+79: Timestep is 3.06859375
+16: Timestep is 3.06859375
+109: Timestep is 3.06859375
+45: Timestep is 3.06859375
+80: Timestep is 3.06859375
+17: Timestep is 3.06859375
+110: Timestep is 3.06859375
+46: Timestep is 3.06859375
+81: Timestep is 3.06859375
+18: Timestep is 3.06859375
+111: Timestep is 3.06859375
+47: Timestep is 3.06859375
+82: Timestep is 3.06859375
+19: Timestep is 3.06859375
+112: Timestep is 3.06859375
+48: Timestep is 3.06859375
+83: Timestep is 3.06859375
+20: Timestep is 3.06859375
+113: Timestep is 3.06859375
+49: Timestep is 3.06859375
+84: Timestep is 3.06859375
+21: Timestep is 3.06859375
+114: Timestep is 3.06859375
+50: Timestep is 3.06859375
+85: Timestep is 3.06859375
+22: Timestep is 3.06859375
+115: Timestep is 3.06859375
+51: Timestep is 3.06859375
+86: Timestep is 3.06859375
+23: Timestep is 3.06859375
+87: Timestep is 3.06859375
+24: Timestep is 3.06859375
+116: Timestep is 3.06859375
+52: Timestep is 3.06859375
+88: Timestep is 3.06859375
+25: Timestep is 3.06859375
+117: Timestep is 3.06859375
+53: Timestep is 3.06859375
+89: Timestep is 3.06859375
+26: Timestep is 3.06859375
+118: Timestep is 3.06859375
+54: Timestep is 3.06859375
+90: Timestep is 3.06859375
+27: Timestep is 3.06859375
+119: Timestep is 3.06859375
+55: Timestep is 3.06859375
+91: Timestep is 3.06859375
+28: Timestep is 3.06859375
+120: Timestep is 3.06859375
+56: Timestep is 3.06859375
+92: Timestep is 3.06859375
+29: Timestep is 3.06859375
+121: Timestep is 3.06859375
+57: Timestep is 3.06859375
+93: Timestep is 3.06859375
+30: Timestep is 3.06859375
+122: Timestep is 3.06859375
+58: Timestep is 3.06859375
+94: Timestep is 3.06859375
+31: Timestep is 3.06859375
+123: Timestep is 3.06859375
+59: Timestep is 3.06859375
+95: Timestep is 3.06859375
+124: Timestep is 3.06859375
+60: Timestep is 3.06859375
+125: Timestep is 3.06859375
+61: Timestep is 3.06859375
+126: Timestep is 3.06859375
+62: Timestep is 3.06859375
+127: Timestep is 3.06859375
+63: Timestep is 3.06859375
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+energy derivative -0.558878648 +/- 0.0005303019245
+energy derivative -0.9487411382 +/- 0.001610088053
+eigenvals (0.08493047188,0) (2.32991561,0) (1.506536787,0) 
+i 0 stab 8.887677483e-08 p0 0.9999802458 eigenval (0.08493047188,0)
+i 1 stab 8.887677483e-08 p0 0.2047113727 eigenval (2.32991561,0)
+i 2 stab 8.887677483e-08 p0 0.5911223746 eigenval (1.506536787,0)
+chose 0 eigenval 0.08493047188
+eigenvals (0.08493047264,0) (2.329916185,0) (1.506536801,0) 
+i 0 stab 4.443838742e-07 p0 0.9999802458 eigenval (0.08493047264,0)
+i 1 stab 4.443838742e-07 p0 0.2047113231 eigenval (2.329916185,0)
+i 2 stab 4.443838742e-07 p0 0.5911223698 eigenval (1.506536801,0)
+chose 0 eigenval 0.08493047264
+eigenvals (0.08493047646,0) (2.329919063,0) (1.50653687,0) 
+i 0 stab 2.221919371e-06 p0 0.9999802458 eigenval (0.08493047646,0)
+i 1 stab 2.221919371e-06 p0 0.2047110751 eigenval (2.329919063,0)
+i 2 stab 2.221919371e-06 p0 0.5911223459 eigenval (1.50653687,0)
+chose 0 eigenval 0.08493047646
+eigenvals (0.08493049555,0) (2.329933451,0) (1.506537215,0) 
+i 0 stab 1.110959685e-05 p0 0.9999802461 eigenval (0.08493049555,0)
+i 1 stab 1.110959685e-05 p0 0.204709835 eigenval (2.329933451,0)
+i 2 stab 1.110959685e-05 p0 0.5911222264 eigenval (1.506537215,0)
+chose 0 eigenval 0.08493049555
+eigenvals (0.08493059101,0) (2.33000539,0) (1.50653894,0) 
+i 0 stab 5.554798427e-05 p0 0.9999802473 eigenval (0.08493059101,0)
+i 1 stab 5.554798427e-05 p0 0.2047036345 eigenval (2.33000539,0)
+i 2 stab 5.554798427e-05 p0 0.5911216288 eigenval (1.50653894,0)
+chose 0 eigenval 0.08493059101
+eigenvals (0.0849310682,0) (2.330365089,0) (1.506547565,0) 
+i 0 stab 0.0002777399213 p0 0.9999802535 eigenval (0.0849310682,0)
+i 1 stab 0.0002777399213 p0 0.2046726374 eigenval (2.330365089,0)
+i 2 stab 0.0002777399213 p0 0.591118641 eigenval (1.506547565,0)
+chose 0 eigenval 0.0849310682
+eigenvals (0.08493345191,0) (2.332163582,0) (1.50659069,0) 
+i 0 stab 0.001388699607 p0 0.9999802844 eigenval (0.08493345191,0)
+i 1 stab 0.001388699607 p0 0.2045177858 eigenval (2.332163582,0)
+i 2 stab 0.001388699607 p0 0.5911037106 eigenval (1.50659069,0)
+chose 0 eigenval 0.08493345191
+eigenvals (0.08494531415,0) (2.341156108,0) (1.506806316,0) 
+i 0 stab 0.006943498034 p0 0.9999804378 eigenval (0.08494531415,0)
+i 1 stab 0.006943498034 p0 0.2037468579 eigenval (2.341156108,0)
+i 2 stab 0.006943498034 p0 0.5910292653 eigenval (1.506806316,0)
+chose 0 eigenval 0.08494531415
+eigenvals (0.08500325192,0) (2.386120165,0) (1.507884388,0) 
+i 0 stab 0.03471749017 p0 0.9999811779 eigenval (0.08500325192,0)
+i 1 stab 0.03471749017 p0 0.1999738337 eigenval (2.386120165,0)
+i 2 stab 0.03471749017 p0 0.5906619035 eigenval (1.507884388,0)
+chose 0 eigenval 0.08500325192
+eigenvals (0.08526238869,0) (2.610972068,0) (1.513273682,0) 
+i 0 stab 0.1735874508 p0 0.9999843053 eigenval (0.08526238869,0)
+i 1 stab 0.1735874508 p0 0.1829591716 eigenval (2.610972068,0)
+i 2 stab 0.1735874508 p0 0.5889176336 eigenval (1.513273682,0)
+chose 0 eigenval 0.08526238869
+eigenvals (0.08608567567,0) (3.735713831,0) (1.540210302,0) 
+i 0 stab 0.8679372542 p0 0.9999922616 eigenval (0.08608567567,0)
+i 1 stab 0.8679372542 p0 0.1279269387 eigenval (3.735713831,0)
+i 2 stab 0.8679372542 p0 0.5811314923 eigenval (1.540210302,0)
+chose 0 eigenval 0.08608567567
+eigenvals (0.0872644804,0) (9.36238017,0) (1.674873511,0) 
+64: Timestep is 1.72328125
+i 0 stab 4.339686271 p0 0.9999984919 eigenval (0.0872644804,0)
+i 2 stab 4.339686271 p0 0.5466041485 eigenval (1.674873511,0)
+chose 0 eigenval 0.0872644804
+96: Timestep is 1.72328125
+32: Timestep is 1.72328125
+65: Timestep is 1.72328125
+eigenvals (37.50067628,0) (0.08806740274,0) (2.348316246,0) 
+i 1 stab 21.69843136 p0 0.9999997431 eigenval (0.08806740274,0)
+97: Timestep is 1.72328125
+33: Timestep is 1.72328125
+66: Timestep is 1.72328125
+i 2 stab 21.69843136 p0 0.4164232965 eigenval (2.348316246,0)
+chose 1 eigenval 0.08806740274
+67: Timestep is 1.72328125
+eigenvals (0.08858551796,0) (178.1946949,0) (5.716488313,0) 
+i 0 stab 108.4921568 p0 0.9999999667 eigenval (0.08858551796,0)
+i 2 stab 108.4921568 p0 0.18084218 eigenval (5.716488313,0)
+chose 0 eigenval 0.08858551796
+98: Timestep is 1.72328125
+34: Timestep is 1.72328125
+68: Timestep is 1.72328125
+eigenvals (0.08880562101,0) (881.6654553,0) (22.55905185,0) 
+99: Timestep is 1.72328125
+35: Timestep is 1.72328125
+69: Timestep is 1.72328125
+i 0 stab 542.4607839 p0 0.999999998 eigenval (0.08880562101,0)
+chose 0 eigenval 0.08880562101
+100: Timestep is 1.72328125
+36: Timestep is 1.72328125
+70: Timestep is 1.72328125
+eigenvals (0.08493047188,0) (2.32991561,0) (1.506536787,0) 
+i 0 stab 8.887677483e-08 p0 0.9999802458 eigenval (0.08493047188,0)
+i 1 stab 8.887677483e-08 p0 0.2047113727 eigenval (2.32991561,0)
+101: Timestep is 1.72328125
+37: Timestep is 1.72328125
+71: Timestep is 1.72328125
+i 2 stab 8.887677483e-08 p0 0.5911223746 eigenval (1.506536787,0)
+chose 0 eigenval 0.08493047188
+102: Timestep is 1.72328125
+38: Timestep is 1.72328125
+72: Timestep is 1.72328125
+eigenvals (0.08493047264,0) (2.329916185,0) (1.506536801,0) 
+i 0 stab 4.443838742e-07 p0 0.9999802458 eigenval (0.08493047264,0)
+i 1 stab 4.443838742e-07 p0 0.2047113231 eigenval (2.329916185,0)
+103: Timestep is 1.72328125
+39: Timestep is 1.72328125
+73: Timestep is 1.72328125
+i 2 stab 4.443838742e-07 p0 0.5911223698 eigenval (1.506536801,0)
+chose 0 eigenval 0.08493047264
+104: Timestep is 1.72328125
+40: Timestep is 1.72328125
+74: Timestep is 1.72328125
+eigenvals (0.08493047646,0) (2.329919063,0) (1.50653687,0) 
+i 0 stab 2.221919371e-06 p0 0.9999802458 eigenval (0.08493047646,0)
+i 1 stab 2.221919371e-06 p0 0.2047110751 eigenval (2.329919063,0)
+105: Timestep is 1.72328125
+41: Timestep is 1.72328125
+i 2 stab 2.221919371e-06 p0 0.5911223459 eigenval (1.50653687,0)
+chose 0 eigenval 0.08493047646
+106: Timestep is 1.72328125
+42: Timestep is 1.72328125
+75: Timestep is 1.72328125
+eigenvals (0.08493049555,0) (2.329933451,0) (1.506537215,0) 
+i 0 stab 1.110959685e-05 p0 0.9999802461 eigenval (0.08493049555,0)
+i 1 stab 1.110959685e-05 p0 0.204709835 eigenval (2.329933451,0)
+i 2 stab 1.110959685e-05 p0 0.5911222264 eigenval (1.506537215,0)
+chose 0 eigenval 0.08493049555
+107: Timestep is 1.72328125
+76: Timestep is 1.72328125
+eigenvals (0.08493059101,0) (2.33000539,0) (1.50653894,0) 
+43: Timestep is 1.72328125
+77: Timestep is 1.72328125
+i 0 stab 5.554798427e-05 p0 0.9999802473 eigenval (0.08493059101,0)
+i 1 stab 5.554798427e-05 p0 0.2047036345 eigenval (2.33000539,0)
+i 2 stab 5.554798427e-05 p0 0.5911216288 eigenval (1.50653894,0)
+chose 0 eigenval 0.08493059101
+108: Timestep is 1.72328125
+44: Timestep is 1.72328125
+78: Timestep is 1.72328125
+eigenvals (0.0849310682,0) (2.330365089,0) (1.506547565,0) 
+109: Timestep is 1.72328125
+45: Timestep is 1.72328125
+79: Timestep is 1.72328125
+i 0 stab 0.0002777399213 p0 0.9999802535 eigenval (0.0849310682,0)
+i 1 stab 0.0002777399213 p0 0.2046726374 eigenval (2.330365089,0)
+i 2 stab 0.0002777399213 p0 0.591118641 eigenval (1.506547565,0)
+chose 0 eigenval 0.0849310682
+110: Timestep is 1.72328125
+46: Timestep is 1.72328125
+80: Timestep is 1.72328125
+eigenvals (0.08493345191,0) (2.332163582,0) (1.50659069,0) 
+111: Timestep is 1.72328125
+47: Timestep is 1.72328125
+81: Timestep is 1.72328125
+i 0 stab 0.001388699607 p0 0.9999802844 eigenval (0.08493345191,0)
+i 1 stab 0.001388699607 p0 0.2045177858 eigenval (2.332163582,0)
+i 2 stab 0.001388699607 p0 0.5911037106 eigenval (1.50659069,0)
+chose 0 eigenval 0.08493345191
+112: Timestep is 1.72328125
+48: Timestep is 1.72328125
+82: Timestep is 1.72328125
+eigenvals (0.08494531415,0) (2.341156108,0) (1.506806316,0) 
+113: Timestep is 1.72328125
+49: Timestep is 1.72328125
+83: Timestep is 1.72328125
+i 0 stab 0.006943498034 p0 0.9999804378 eigenval (0.08494531415,0)
+i 1 stab 0.006943498034 p0 0.2037468579 eigenval (2.341156108,0)
+i 2 stab 0.006943498034 p0 0.5910292653 eigenval (1.506806316,0)
+114: Timestep is 1.72328125
+50: Timestep is 1.72328125
+84: Timestep is 1.72328125
+chose 0 eigenval 0.08494531415
+115: Timestep is 1.72328125
+51: Timestep is 1.72328125
+85: Timestep is 1.72328125
+eigenvals (0.08500325192,0) (2.386120165,0) (1.507884388,0) 
+i 0 stab 0.03471749017 p0 0.9999811779 eigenval (0.08500325192,0)
+i 1 stab 0.03471749017 p0 0.1999738337 eigenval (2.386120165,0)
+i 2 stab 0.03471749017 p0 0.5906619035 eigenval (1.507884388,0)
+chose 0 eigenval 0.08500325192
+116: Timestep is 1.72328125
+52: Timestep is 1.72328125
+86: Timestep is 1.72328125
+eigenvals (0.08526238869,0) (2.610972068,0) (1.513273682,0) 
+117: Timestep is 1.72328125
+53: Timestep is 1.72328125
+87: Timestep is 1.72328125
+i 0 stab 0.1735874508 p0 0.9999843053 eigenval (0.08526238869,0)
+i 1 stab 0.1735874508 p0 0.1829591716 eigenval (2.610972068,0)
+i 2 stab 0.1735874508 p0 0.5889176336 eigenval (1.513273682,0)
+chose 0 eigenval 0.08526238869
+118: Timestep is 1.72328125
+54: Timestep is 1.72328125
+88: Timestep is 1.72328125
+eigenvals (0.08608567567,0) (3.735713831,0) (1.540210302,0) 
+119: Timestep is 1.72328125
+55: Timestep is 1.72328125
+89: Timestep is 1.72328125
+i 0 stab 0.8679372542 p0 0.9999922616 eigenval (0.08608567567,0)
+i 1 stab 0.8679372542 p0 0.1279269387 eigenval (3.735713831,0)
+i 2 stab 0.8679372542 p0 0.5811314923 eigenval (1.540210302,0)
+chose 0 eigenval 0.08608567567
+120: Timestep is 1.72328125
+56: Timestep is 1.72328125
+90: Timestep is 1.72328125
+eigenvals (0.0872644804,0) (9.36238017,0) (1.674873511,0) 
+121: Timestep is 1.72328125
+57: Timestep is 1.72328125
+91: Timestep is 1.72328125
+i 0 stab 4.339686271 p0 0.9999984919 eigenval (0.0872644804,0)
+i 2 stab 4.339686271 p0 0.5466041485 eigenval (1.674873511,0)
+chose 0 eigenval 0.0872644804
+122: Timestep is 1.72328125
+58: Timestep is 1.72328125
+92: Timestep is 1.72328125
+eigenvals (37.50067628,0) (0.08806740274,0) (2.348316246,0) 
+i 1 stab 21.69843136 p0 0.9999997431 eigenval (0.08806740274,0)
+123: Timestep is 1.72328125
+59: Timestep is 1.72328125
+93: Timestep is 1.72328125
+i 2 stab 21.69843136 p0 0.4164232965 eigenval (2.348316246,0)
+chose 1 eigenval 0.08806740274
+124: Timestep is 1.72328125
+60: Timestep is 1.72328125
+94: Timestep is 1.72328125
+eigenvals (0.08858551796,0) (178.1946949,0) (5.716488313,0) 
+i 0 stab 108.4921568 p0 0.9999999667 eigenval (0.08858551796,0)
+i 2 stab 108.4921568 p0 0.18084218 eigenval (5.716488313,0)
+chose 0 eigenval 0.08858551796
+125: Timestep is 1.72328125
+61: Timestep is 1.72328125
+95: Timestep is 1.72328125
+eigenvals (0.08880562101,0) (881.6654553,0) (22.55905185,0) 
+126: Timestep is 1.72328125
+62: Timestep is 1.72328125
+i 0 stab 542.4607839 p0 0.999999998 eigenval (0.08880562101,0)
+chose 0 eigenval 0.08880562101
+127: Timestep is 1.72328125
+63: Timestep is 1.72328125
+0: Timestep is 1.72328125
+1: Timestep is 1.72328125
+2: Timestep is 1.72328125
+3: Timestep is 1.72328125
+4: Timestep is 1.72328125
+5: Timestep is 1.72328125
+6: Timestep is 1.72328125
+7: Timestep is 1.72328125
+8: Timestep is 1.72328125
+9: Timestep is 1.72328125
+10: Timestep is 1.72328125
+11: Timestep is 1.72328125
+12: Timestep is 1.72328125
+13: Timestep is 1.72328125
+14: Timestep is 1.72328125
+15: Timestep is 1.72328125
+16: Timestep is 1.72328125
+17: Timestep is 1.72328125
+18: Timestep is 1.72328125
+19: Timestep is 1.72328125
+20: Timestep is 1.72328125
+21: Timestep is 1.72328125
+22: Timestep is 1.72328125
+23: Timestep is 1.72328125
+24: Timestep is 1.72328125
+25: Timestep is 1.72328125
+26: Timestep is 1.72328125
+27: Timestep is 1.72328125
+28: Timestep is 1.72328125
+29: Timestep is 1.72328125
+30: Timestep is 1.72328125
+31: Timestep is 1.72328125
+fitting to -0.0007774601426 8.887677483e-08
+fitting to -0.0007774600277 4.443838742e-07
+fitting to -0.0007774594529 2.221919371e-06
+fitting to -0.0007774565794 1.110959685e-05
+fitting to -0.0007774422122 5.554798427e-05
+fit r2 1 curvature -0.0001980905227
+eigenvals (0.08493047188,0) (2.32991561,0) (1.506536787,0) 
+i 0 stab 8.887677483e-08 p0 0.9999802458 eigenval (0.08493047188,0)
+i 1 stab 8.887677483e-08 p0 0.2047113727 eigenval (2.32991561,0)
+i 2 stab 8.887677483e-08 p0 0.5911223746 eigenval (1.506536787,0)
+chose 0 eigenval 0.08493047188
+64: Timestep is 1.7296875
+0: Timestep is 1.7296875
+96: Timestep is 1.7296875
+32: Timestep is 1.7296875
+65: Timestep is 1.7296875
+1: Timestep is 1.7296875
+66: Timestep is 1.7296875
+2: Timestep is 1.7296875
+97: Timestep is 1.7296875
+33: Timestep is 1.7296875
+67: Timestep is 1.7296875
+3: Timestep is 1.7296875
+98: Timestep is 1.7296875
+34: Timestep is 1.7296875
+68: Timestep is 1.7296875
+4: Timestep is 1.7296875
+69: Timestep is 1.7296875
+5: Timestep is 1.7296875
+99: Timestep is 1.7296875
+35: Timestep is 1.7296875
+70: Timestep is 1.7296875
+6: Timestep is 1.7296875
+100: Timestep is 1.7296875
+36: Timestep is 1.7296875
+71: Timestep is 1.7296875
+7: Timestep is 1.7296875
+101: Timestep is 1.7296875
+37: Timestep is 1.7296875
+72: Timestep is 1.7296875
+8: Timestep is 1.7296875
+102: Timestep is 1.7296875
+38: Timestep is 1.7296875
+73: Timestep is 1.7296875
+9: Timestep is 1.7296875
+103: Timestep is 1.7296875
+39: Timestep is 1.7296875
+74: Timestep is 1.7296875
+10: Timestep is 1.7296875
+104: Timestep is 1.7296875
+40: Timestep is 1.7296875
+75: Timestep is 1.7296875
+11: Timestep is 1.7296875
+105: Timestep is 1.7296875
+41: Timestep is 1.7296875
+76: Timestep is 1.7296875
+12: Timestep is 1.7296875
+106: Timestep is 1.7296875
+42: Timestep is 1.7296875
+77: Timestep is 1.7296875
+13: Timestep is 1.7296875
+107: Timestep is 1.7296875
+43: Timestep is 1.7296875
+78: Timestep is 1.7296875
+14: Timestep is 1.7296875
+108: Timestep is 1.7296875
+44: Timestep is 1.7296875
+79: Timestep is 1.7296875
+15: Timestep is 1.7296875
+80: Timestep is 1.7296875
+16: Timestep is 1.7296875
+109: Timestep is 1.7296875
+45: Timestep is 1.7296875
+81: Timestep is 1.7296875
+17: Timestep is 1.7296875
+110: Timestep is 1.7296875
+46: Timestep is 1.7296875
+82: Timestep is 1.7296875
+18: Timestep is 1.7296875
+111: Timestep is 1.7296875
+47: Timestep is 1.7296875
+83: Timestep is 1.7296875
+19: Timestep is 1.7296875
+112: Timestep is 1.7296875
+48: Timestep is 1.7296875
+84: Timestep is 1.7296875
+20: Timestep is 1.7296875
+113: Timestep is 1.7296875
+49: Timestep is 1.7296875
+85: Timestep is 1.7296875
+21: Timestep is 1.7296875
+114: Timestep is 1.7296875
+50: Timestep is 1.7296875
+86: Timestep is 1.7296875
+22: Timestep is 1.7296875
+115: Timestep is 1.7296875
+51: Timestep is 1.7296875
+87: Timestep is 1.7296875
+23: Timestep is 1.7296875
+116: Timestep is 1.7296875
+52: Timestep is 1.7296875
+88: Timestep is 1.7296875
+24: Timestep is 1.7296875
+117: Timestep is 1.7296875
+53: Timestep is 1.7296875
+89: Timestep is 1.7296875
+25: Timestep is 1.7296875
+118: Timestep is 1.7296875
+54: Timestep is 1.7296875
+90: Timestep is 1.7296875
+26: Timestep is 1.7296875
+119: Timestep is 1.7296875
+55: Timestep is 1.7296875
+91: Timestep is 1.7296875
+27: Timestep is 1.7296875
+120: Timestep is 1.7296875
+56: Timestep is 1.7296875
+92: Timestep is 1.7296875
+28: Timestep is 1.7296875
+121: Timestep is 1.7296875
+57: Timestep is 1.7296875
+93: Timestep is 1.7296875
+29: Timestep is 1.7296875
+122: Timestep is 1.7296875
+58: Timestep is 1.7296875
+94: Timestep is 1.7296875
+30: Timestep is 1.7296875
+123: Timestep is 1.7296875
+59: Timestep is 1.7296875
+95: Timestep is 1.7296875
+31: Timestep is 1.7296875
+124: Timestep is 1.7296875
+60: Timestep is 1.7296875
+125: Timestep is 1.7296875
+61: Timestep is 1.7296875
+126: Timestep is 1.7296875
+62: Timestep is 1.7296875
+127: Timestep is 1.7296875
+63: Timestep is 1.7296875
+Read took 0 seconds
+0: Timestep is 3.0940625
+96: Timestep is 3.0940625
+32: Timestep is 3.0940625
+64: Timestep is 3.0940625
+1: Timestep is 3.0940625
+65: Timestep is 3.0940625
+2: Timestep is 3.0940625
+97: Timestep is 3.0940625
+33: Timestep is 3.0940625
+66: Timestep is 3.0940625
+3: Timestep is 3.0940625
+67: Timestep is 3.0940625
+4: Timestep is 3.0940625
+98: Timestep is 3.0940625
+34: Timestep is 3.0940625
+68: Timestep is 3.0940625
+5: Timestep is 3.0940625
+99: Timestep is 3.0940625
+35: Timestep is 3.0940625
+69: Timestep is 3.0940625
+6: Timestep is 3.0940625
+100: Timestep is 3.0940625
+36: Timestep is 3.0940625
+70: Timestep is 3.0940625
+7: Timestep is 3.0940625
+101: Timestep is 3.0940625
+37: Timestep is 3.0940625
+71: Timestep is 3.0940625
+8: Timestep is 3.0940625
+102: Timestep is 3.0940625
+38: Timestep is 3.0940625
+72: Timestep is 3.0940625
+9: Timestep is 3.0940625
+103: Timestep is 3.0940625
+39: Timestep is 3.0940625
+73: Timestep is 3.0940625
+10: Timestep is 3.0940625
+104: Timestep is 3.0940625
+74: Timestep is 3.0940625
+11: Timestep is 3.0940625
+40: Timestep is 3.0940625
+75: Timestep is 3.0940625
+12: Timestep is 3.0940625
+105: Timestep is 3.0940625
+41: Timestep is 3.0940625
+76: Timestep is 3.0940625
+13: Timestep is 3.0940625
+106: Timestep is 3.0940625
+42: Timestep is 3.0940625
+77: Timestep is 3.0940625
+14: Timestep is 3.0940625
+107: Timestep is 3.0940625
+43: Timestep is 3.0940625
+78: Timestep is 3.0940625
+15: Timestep is 3.0940625
+108: Timestep is 3.0940625
+44: Timestep is 3.0940625
+79: Timestep is 3.0940625
+16: Timestep is 3.0940625
+109: Timestep is 3.0940625
+45: Timestep is 3.0940625
+80: Timestep is 3.0940625
+17: Timestep is 3.0940625
+110: Timestep is 3.0940625
+46: Timestep is 3.0940625
+81: Timestep is 3.0940625
+18: Timestep is 3.0940625
+111: Timestep is 3.0940625
+47: Timestep is 3.0940625
+82: Timestep is 3.0940625
+19: Timestep is 3.0940625
+112: Timestep is 3.0940625
+48: Timestep is 3.0940625
+83: Timestep is 3.0940625
+20: Timestep is 3.0940625
+113: Timestep is 3.0940625
+49: Timestep is 3.0940625
+84: Timestep is 3.0940625
+21: Timestep is 3.0940625
+114: Timestep is 3.0940625
+50: Timestep is 3.0940625
+85: Timestep is 3.0940625
+22: Timestep is 3.0940625
+115: Timestep is 3.0940625
+51: Timestep is 3.0940625
+86: Timestep is 3.0940625
+23: Timestep is 3.0940625
+116: Timestep is 3.0940625
+52: Timestep is 3.0940625
+87: Timestep is 3.0940625
+24: Timestep is 3.0940625
+117: Timestep is 3.0940625
+53: Timestep is 3.0940625
+88: Timestep is 3.0940625
+25: Timestep is 3.0940625
+118: Timestep is 3.0940625
+54: Timestep is 3.0940625
+89: Timestep is 3.0940625
+26: Timestep is 3.0940625
+119: Timestep is 3.0940625
+55: Timestep is 3.0940625
+90: Timestep is 3.0940625
+27: Timestep is 3.0940625
+120: Timestep is 3.0940625
+56: Timestep is 3.0940625
+91: Timestep is 3.0940625
+28: Timestep is 3.0940625
+121: Timestep is 3.0940625
+57: Timestep is 3.0940625
+92: Timestep is 3.0940625
+29: Timestep is 3.0940625
+122: Timestep is 3.0940625
+58: Timestep is 3.0940625
+93: Timestep is 3.0940625
+30: Timestep is 3.0940625
+123: Timestep is 3.0940625
+59: Timestep is 3.0940625
+94: Timestep is 3.0940625
+31: Timestep is 3.0940625
+124: Timestep is 3.0940625
+60: Timestep is 3.0940625
+95: Timestep is 3.0940625
+125: Timestep is 3.0940625
+126: Timestep is 3.0940625
+61: Timestep is 3.0940625
+127: Timestep is 3.0940625
+62: Timestep is 3.0940625
+63: Timestep is 3.0940625
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+energy derivative -0.561691229 +/- 0.0005751179163
+energy derivative -0.9565238425 +/- 0.001611404094
+eigenvals (0.08922221801,0) (2.326615522,0) (1.504518914,0) 
+i 0 stab 8.883821137e-08 p0 0.999999835 eigenval (0.08922221801,0)
+i 1 stab 8.883821137e-08 p0 0.2018081406 eigenval (2.326615522,0)
+i 2 stab 8.883821137e-08 p0 0.5809048178 eigenval (1.504518914,0)
+chose 0 eigenval 0.08922221801
+eigenvals (0.08922221794,0) (2.326616095,0) (1.504518927,0) 
+i 0 stab 4.441910569e-07 p0 0.999999835 eigenval (0.08922221794,0)
+i 1 stab 4.441910569e-07 p0 0.2018080919 eigenval (2.326616095,0)
+i 2 stab 4.441910569e-07 p0 0.5809048121 eigenval (1.504518927,0)
+chose 0 eigenval 0.08922221794
+eigenvals (0.0892222176,0) (2.326618963,0) (1.504518996,0) 
+i 0 stab 2.220955284e-06 p0 0.999999835 eigenval (0.0892222176,0)
+i 1 stab 2.220955284e-06 p0 0.2018078482 eigenval (2.326618963,0)
+i 2 stab 2.220955284e-06 p0 0.5809047837 eigenval (1.504518996,0)
+chose 0 eigenval 0.0892222176
+eigenvals (0.0892222159,0) (2.326633302,0) (1.504519338,0) 
+i 0 stab 1.110477642e-05 p0 0.999999835 eigenval (0.0892222159,0)
+i 1 stab 1.110477642e-05 p0 0.2018066299 eigenval (2.326633302,0)
+i 2 stab 1.110477642e-05 p0 0.5809046415 eigenval (1.504519338,0)
+chose 0 eigenval 0.0892222159
+eigenvals (0.08922220737,0) (2.326704999,0) (1.504521047,0) 
+i 0 stab 5.552388211e-05 p0 0.999999835 eigenval (0.08922220737,0)
+i 1 stab 5.552388211e-05 p0 0.2018005388 eigenval (2.326704999,0)
+i 2 stab 5.552388211e-05 p0 0.5809039307 eigenval (1.504521047,0)
+chose 0 eigenval 0.08922220737
+eigenvals (0.08922216474,0) (2.327063479,0) (1.504529593,0) 
+i 0 stab 0.0002776194105 p0 0.999999835 eigenval (0.08922216474,0)
+i 1 stab 0.0002776194105 p0 0.2017700882 eigenval (2.327063479,0)
+i 2 stab 0.0002776194105 p0 0.5809003771 eigenval (1.504529593,0)
+chose 0 eigenval 0.08922216474
+eigenvals (0.0892219518,0) (2.328855882,0) (1.504572324,0) 
+i 0 stab 0.001388097053 p0 0.9999998353 eigenval (0.0892219518,0)
+i 1 stab 0.001388097053 p0 0.2016179657 eigenval (2.328855882,0)
+i 2 stab 0.001388097053 p0 0.5808826247 eigenval (1.504572324,0)
+chose 0 eigenval 0.0892219518
+eigenvals (0.08922089211,0) (2.337817899,0) (1.504785971,0) 
+i 0 stab 0.006940485264 p0 0.9999998365 eigenval (0.08922089211,0)
+i 1 stab 0.006940485264 p0 0.2008605993 eigenval (2.337817899,0)
+i 2 stab 0.006940485264 p0 0.5807942473 eigenval (1.504785971,0)
+chose 0 eigenval 0.08922089211
+eigenvals (0.08921571582,0) (2.382627998,0) (1.505854073,0) 
+i 0 stab 0.03470242632 p0 0.9999998426 eigenval (0.08921571582,0)
+i 1 stab 0.03470242632 p0 0.197153375 eigenval (2.382627998,0)
+i 2 stab 0.03470242632 p0 0.5803613991 eigenval (1.505854073,0)
+chose 0 eigenval 0.08921571582
+eigenvals (0.08919255152,0) (2.606678331,0) (1.511192026,0) 
+i 0 stab 0.1735121316 p0 0.9999998681 eigenval (0.08919255152,0)
+i 1 stab 0.1735121316 p0 0.1804256748 eigenval (2.606678331,0)
+i 2 stab 0.1735121316 p0 0.5783689648 eigenval (1.511192026,0)
+chose 0 eigenval 0.08919255152
+eigenvals (0.08911873543,0) (3.726912342,0) (1.537857435,0) 
+i 0 stab 0.867560658 p0 0.9999999332 eigenval (0.08911873543,0)
+i 1 stab 0.867560658 p0 0.126252906 eigenval (3.726912342,0)
+i 2 stab 0.867560658 p0 0.5701144588 eigenval (1.537857435,0)
+chose 0 eigenval 0.08911873543
+eigenvals (0.0890111409,0) (9.327891609,0) (1.671113786,0) 
+i 0 stab 4.33780329 p0 0.9999999848 eigenval (0.0890111409,0)
+i 2 stab 4.33780329 p0 0.5355569899 eigenval (1.671113786,0)
+chose 0 eigenval 0.0890111409
+eigenvals (0.08893104398,0) (37.33240242,0) (2.337323197,0) 
+i 0 stab 21.68901645 p0 0.9999999965 eigenval (0.08893104398,0)
+i 2 stab 21.68901645 p0 0.4073081063 eigenval (2.337323197,0)
+chose 0 eigenval 0.08893104398
+eigenvals (0.08887259194,0) (177.3547481,0) (5.668236588,0) 
+i 0 stab 108.4450822 p0 0.9999999995 eigenval (0.08887259194,0)
+i 2 stab 108.4450822 p0 0.1768693046 eigenval (5.668236588,0)
+chose 0 eigenval 0.08887259194
+eigenvals (0.0888466775,0) (877.4664208,0) (22.32259274,0) 
+i 0 stab 542.2254112 p0 1 eigenval (0.0888466775,0)
+chose 0 eigenval 0.0888466775
+eigenvals (0.08922221801,0) (2.326615522,0) (1.504518914,0) 
+i 0 stab 8.883821137e-08 p0 0.999999835 eigenval (0.08922221801,0)
+64: Timestep is 1.71265625
+i 1 stab 8.883821137e-08 p0 0.2018081406 eigenval (2.326615522,0)
+i 2 stab 8.883821137e-08 p0 0.5809048178 eigenval (1.504518914,0)
+chose 0 eigenval 0.08922221801
+96: Timestep is 1.71265625
+32: Timestep is 1.71265625
+65: Timestep is 1.71265625
+eigenvals (0.08922221794,0) (2.326616095,0) (1.504518927,0) 
+i 0 stab 4.441910569e-07 p0 0.999999835 eigenval (0.08922221794,0)
+97: Timestep is 1.71265625
+33: Timestep is 1.71265625
+66: Timestep is 1.71265625
+i 1 stab 4.441910569e-07 p0 0.2018080919 eigenval (2.326616095,0)
+i 2 stab 4.441910569e-07 p0 0.5809048121 eigenval (1.504518927,0)
+chose 0 eigenval 0.08922221794
+67: Timestep is 1.71265625
+eigenvals (0.0892222176,0) (2.326618963,0) (1.504518996,0) 
+i 0 stab 2.220955284e-06 p0 0.999999835 eigenval (0.0892222176,0)
+i 1 stab 2.220955284e-06 p0 0.2018078482 eigenval (2.326618963,0)
+98: Timestep is 1.71265625
+34: Timestep is 1.71265625
+68: Timestep is 1.71265625
+i 2 stab 2.220955284e-06 p0 0.5809047837 eigenval (1.504518996,0)
+chose 0 eigenval 0.0892222176
+99: Timestep is 1.71265625
+35: Timestep is 1.71265625
+69: Timestep is 1.71265625
+eigenvals (0.0892222159,0) (2.326633302,0) (1.504519338,0) 
+i 0 stab 1.110477642e-05 p0 0.999999835 eigenval (0.0892222159,0)
+i 1 stab 1.110477642e-05 p0 0.2018066299 eigenval (2.326633302,0)
+100: Timestep is 1.71265625
+36: Timestep is 1.71265625
+70: Timestep is 1.71265625
+i 2 stab 1.110477642e-05 p0 0.5809046415 eigenval (1.504519338,0)
+chose 0 eigenval 0.0892222159
+101: Timestep is 1.71265625
+37: Timestep is 1.71265625
+71: Timestep is 1.71265625
+eigenvals (0.08922220737,0) (2.326704999,0) (1.504521047,0) 
+i 0 stab 5.552388211e-05 p0 0.999999835 eigenval (0.08922220737,0)
+i 1 stab 5.552388211e-05 p0 0.2018005388 eigenval (2.326704999,0)
+i 2 stab 5.552388211e-05 p0 0.5809039307 eigenval (1.504521047,0)
+chose 0 eigenval 0.08922220737
+102: Timestep is 1.71265625
+38: Timestep is 1.71265625
+72: Timestep is 1.71265625
+eigenvals (0.08922216474,0) (2.327063479,0) (1.504529593,0) 
+103: Timestep is 1.71265625
+39: Timestep is 1.71265625
+73: Timestep is 1.71265625
+i 0 stab 0.0002776194105 p0 0.999999835 eigenval (0.08922216474,0)
+i 1 stab 0.0002776194105 p0 0.2017700882 eigenval (2.327063479,0)
+i 2 stab 0.0002776194105 p0 0.5809003771 eigenval (1.504529593,0)
+chose 0 eigenval 0.08922216474
+104: Timestep is 1.71265625
+40: Timestep is 1.71265625
+74: Timestep is 1.71265625
+eigenvals (0.0892219518,0) (2.328855882,0) (1.504572324,0) 
+105: Timestep is 1.71265625
+41: Timestep is 1.71265625
+75: Timestep is 1.71265625
+i 0 stab 0.001388097053 p0 0.9999998353 eigenval (0.0892219518,0)
+i 1 stab 0.001388097053 p0 0.2016179657 eigenval (2.328855882,0)
+i 2 stab 0.001388097053 p0 0.5808826247 eigenval (1.504572324,0)
+chose 0 eigenval 0.0892219518
+106: Timestep is 1.71265625
+42: Timestep is 1.71265625
+76: Timestep is 1.71265625
+eigenvals (0.08922089211,0) (2.337817899,0) (1.504785971,0) 
+107: Timestep is 1.71265625
+43: Timestep is 1.71265625
+77: Timestep is 1.71265625
+i 0 stab 0.006940485264 p0 0.9999998365 eigenval (0.08922089211,0)
+i 1 stab 0.006940485264 p0 0.2008605993 eigenval (2.337817899,0)
+i 2 stab 0.006940485264 p0 0.5807942473 eigenval (1.504785971,0)
+chose 0 eigenval 0.08922089211
+108: Timestep is 1.71265625
+44: Timestep is 1.71265625
+78: Timestep is 1.71265625
+eigenvals (0.08921571582,0) (2.382627998,0) (1.505854073,0) 
+i 0 stab 0.03470242632 p0 0.9999998426 eigenval (0.08921571582,0)
+109: Timestep is 1.71265625
+45: Timestep is 1.71265625
+i 1 stab 0.03470242632 p0 0.197153375 eigenval (2.382627998,0)
+i 2 stab 0.03470242632 p0 0.5803613991 eigenval (1.505854073,0)
+chose 0 eigenval 0.08921571582
+110: Timestep is 1.71265625
+46: Timestep is 1.71265625
+79: Timestep is 1.71265625
+eigenvals (0.08919255152,0) (2.606678331,0) (1.511192026,0) 
+i 0 stab 0.1735121316 p0 0.9999998681 eigenval (0.08919255152,0)
+111: Timestep is 1.71265625
+47: Timestep is 1.71265625
+80: Timestep is 1.71265625
+i 1 stab 0.1735121316 p0 0.1804256748 eigenval (2.606678331,0)
+i 2 stab 0.1735121316 p0 0.5783689648 eigenval (1.511192026,0)
+chose 0 eigenval 0.08919255152
+81: Timestep is 1.71265625
+eigenvals (0.08911873543,0) (3.726912342,0) (1.537857435,0) 
+i 0 stab 0.867560658 p0 0.9999999332 eigenval (0.08911873543,0)
+i 1 stab 0.867560658 p0 0.126252906 eigenval (3.726912342,0)
+112: Timestep is 1.71265625
+48: Timestep is 1.71265625
+82: Timestep is 1.71265625
+i 2 stab 0.867560658 p0 0.5701144588 eigenval (1.537857435,0)
+chose 0 eigenval 0.08911873543
+113: Timestep is 1.71265625
+49: Timestep is 1.71265625
+83: Timestep is 1.71265625
+eigenvals (0.0890111409,0) (9.327891609,0) (1.671113786,0) 
+i 0 stab 4.33780329 p0 0.9999999848 eigenval (0.0890111409,0)
+i 2 stab 4.33780329 p0 0.5355569899 eigenval (1.671113786,0)
+chose 0 eigenval 0.0890111409
+114: Timestep is 1.71265625
+50: Timestep is 1.71265625
+84: Timestep is 1.71265625
+eigenvals (0.08893104398,0) (37.33240242,0) (2.337323197,0) 
+115: Timestep is 1.71265625
+51: Timestep is 1.71265625
+85: Timestep is 1.71265625
+i 0 stab 21.68901645 p0 0.9999999965 eigenval (0.08893104398,0)
+i 2 stab 21.68901645 p0 0.4073081063 eigenval (2.337323197,0)
+chose 0 eigenval 0.08893104398
+116: Timestep is 1.71265625
+52: Timestep is 1.71265625
+86: Timestep is 1.71265625
+eigenvals (0.08887259194,0) (177.3547481,0) (5.668236588,0) 
+i 0 stab 108.4450822 p0 0.9999999995 eigenval (0.08887259194,0)
+117: Timestep is 1.71265625
+53: Timestep is 1.71265625
+87: Timestep is 1.71265625
+i 2 stab 108.4450822 p0 0.1768693046 eigenval (5.668236588,0)
+chose 0 eigenval 0.08887259194
+118: Timestep is 1.71265625
+54: Timestep is 1.71265625
+88: Timestep is 1.71265625
+eigenvals (0.0888466775,0) (877.4664208,0) (22.32259274,0) 
+i 0 stab 542.2254112 p0 1 eigenval (0.0888466775,0)
+chose 0 eigenval 0.0888466775
+119: Timestep is 1.71265625
+55: Timestep is 1.71265625
+89: Timestep is 1.71265625
+0: Timestep is 1.71265625
+120: Timestep is 1.71265625
+56: Timestep is 1.71265625
+90: Timestep is 1.71265625
+1: Timestep is 1.71265625
+121: Timestep is 1.71265625
+57: Timestep is 1.71265625
+91: Timestep is 1.71265625
+2: Timestep is 1.71265625
+122: Timestep is 1.71265625
+58: Timestep is 1.71265625
+92: Timestep is 1.71265625
+3: Timestep is 1.71265625
+123: Timestep is 1.71265625
+59: Timestep is 1.71265625
+93: Timestep is 1.71265625
+4: Timestep is 1.71265625
+124: Timestep is 1.71265625
+60: Timestep is 1.71265625
+94: Timestep is 1.71265625
+5: Timestep is 1.71265625
+125: Timestep is 1.71265625
+61: Timestep is 1.71265625
+95: Timestep is 1.71265625
+6: Timestep is 1.71265625
+126: Timestep is 1.71265625
+62: Timestep is 1.71265625
+7: Timestep is 1.71265625
+127: Timestep is 1.71265625
+63: Timestep is 1.71265625
+8: Timestep is 1.71265625
+9: Timestep is 1.71265625
+10: Timestep is 1.71265625
+11: Timestep is 1.71265625
+12: Timestep is 1.71265625
+13: Timestep is 1.71265625
+14: Timestep is 1.71265625
+15: Timestep is 1.71265625
+16: Timestep is 1.71265625
+17: Timestep is 1.71265625
+18: Timestep is 1.71265625
+19: Timestep is 1.71265625
+20: Timestep is 1.71265625
+21: Timestep is 1.71265625
+22: Timestep is 1.71265625
+23: Timestep is 1.71265625
+24: Timestep is 1.71265625
+25: Timestep is 1.71265625
+26: Timestep is 1.71265625
+27: Timestep is 1.71265625
+28: Timestep is 1.71265625
+29: Timestep is 1.71265625
+30: Timestep is 1.71265625
+31: Timestep is 1.71265625
+fitting to -6.10755834e-07 21.68901645
+fitting to -3.74074559e-07 108.4450822
+fitting to -1.044085481e-07 542.2254112
+fitting to 3.198349858e-07 4.33780329
+fitting to 2.859049191e-06 0.867560658
+fit r2 0.3190736999 curvature 3.418137104e-11
+eigenvals (0.08893104398,0) (37.33240242,0) (2.337323197,0) 
+i 0 stab 21.68901645 p0 0.9999999965 eigenval (0.08893104398,0)
+i 2 stab 21.68901645 p0 0.4073081063 eigenval (2.337323197,0)
+chose 0 eigenval 0.08893104398
+96: Timestep is 1.7115625
+64: Timestep is 1.7115625
+0: Timestep is 1.7115625
+1: Timestep is 1.7115625
+97: Timestep is 1.7115625
+32: Timestep is 1.7115625
+65: Timestep is 1.7115625
+2: Timestep is 1.7115625
+66: Timestep is 1.7115625
+3: Timestep is 1.7115625
+98: Timestep is 1.7115625
+33: Timestep is 1.7115625
+67: Timestep is 1.7115625
+4: Timestep is 1.7115625
+99: Timestep is 1.7115625
+34: Timestep is 1.7115625
+5: Timestep is 1.7115625
+100: Timestep is 1.7115625
+35: Timestep is 1.7115625
+68: Timestep is 1.7115625
+6: Timestep is 1.7115625
+101: Timestep is 1.7115625
+36: Timestep is 1.7115625
+69: Timestep is 1.7115625
+7: Timestep is 1.7115625
+102: Timestep is 1.7115625
+37: Timestep is 1.7115625
+70: Timestep is 1.7115625
+8: Timestep is 1.7115625
+103: Timestep is 1.7115625
+71: Timestep is 1.7115625
+9: Timestep is 1.7115625
+104: Timestep is 1.7115625
+38: Timestep is 1.7115625
+72: Timestep is 1.7115625
+10: Timestep is 1.7115625
+39: Timestep is 1.7115625
+73: Timestep is 1.7115625
+11: Timestep is 1.7115625
+105: Timestep is 1.7115625
+40: Timestep is 1.7115625
+74: Timestep is 1.7115625
+12: Timestep is 1.7115625
+106: Timestep is 1.7115625
+41: Timestep is 1.7115625
+75: Timestep is 1.7115625
+13: Timestep is 1.7115625
+107: Timestep is 1.7115625
+42: Timestep is 1.7115625
+76: Timestep is 1.7115625
+14: Timestep is 1.7115625
+108: Timestep is 1.7115625
+43: Timestep is 1.7115625
+77: Timestep is 1.7115625
+15: Timestep is 1.7115625
+109: Timestep is 1.7115625
+44: Timestep is 1.7115625
+78: Timestep is 1.7115625
+16: Timestep is 1.7115625
+110: Timestep is 1.7115625
+45: Timestep is 1.7115625
+79: Timestep is 1.7115625
+17: Timestep is 1.7115625
+111: Timestep is 1.7115625
+46: Timestep is 1.7115625
+80: Timestep is 1.7115625
+18: Timestep is 1.7115625
+112: Timestep is 1.7115625
+47: Timestep is 1.7115625
+81: Timestep is 1.7115625
+19: Timestep is 1.7115625
+113: Timestep is 1.7115625
+48: Timestep is 1.7115625
+20: Timestep is 1.7115625
+114: Timestep is 1.7115625
+49: Timestep is 1.7115625
+82: Timestep is 1.7115625
+21: Timestep is 1.7115625
+115: Timestep is 1.7115625
+50: Timestep is 1.7115625
+83: Timestep is 1.7115625
+22: Timestep is 1.7115625
+116: Timestep is 1.7115625
+51: Timestep is 1.7115625
+84: Timestep is 1.7115625
+23: Timestep is 1.7115625
+117: Timestep is 1.7115625
+52: Timestep is 1.7115625
+85: Timestep is 1.7115625
+24: Timestep is 1.7115625
+118: Timestep is 1.7115625
+53: Timestep is 1.7115625
+86: Timestep is 1.7115625
+25: Timestep is 1.7115625
+119: Timestep is 1.7115625
+54: Timestep is 1.7115625
+87: Timestep is 1.7115625
+26: Timestep is 1.7115625
+120: Timestep is 1.7115625
+55: Timestep is 1.7115625
+88: Timestep is 1.7115625
+27: Timestep is 1.7115625
+121: Timestep is 1.7115625
+56: Timestep is 1.7115625
+89: Timestep is 1.7115625
+28: Timestep is 1.7115625
+122: Timestep is 1.7115625
+90: Timestep is 1.7115625
+29: Timestep is 1.7115625
+123: Timestep is 1.7115625
+57: Timestep is 1.7115625
+91: Timestep is 1.7115625
+30: Timestep is 1.7115625
+124: Timestep is 1.7115625
+58: Timestep is 1.7115625
+92: Timestep is 1.7115625
+31: Timestep is 1.7115625
+125: Timestep is 1.7115625
+59: Timestep is 1.7115625
+93: Timestep is 1.7115625
+126: Timestep is 1.7115625
+60: Timestep is 1.7115625
+94: Timestep is 1.7115625
+127: Timestep is 1.7115625
+61: Timestep is 1.7115625
+95: Timestep is 1.7115625
+62: Timestep is 1.7115625
+63: Timestep is 1.7115625
+Read took 0 seconds
+0: Timestep is 3.10703125
+96: Timestep is 3.10703125
+64: Timestep is 3.10703125
+1: Timestep is 3.10703125
+97: Timestep is 3.10703125
+32: Timestep is 3.10703125
+65: Timestep is 3.10703125
+2: Timestep is 3.10703125
+66: Timestep is 3.10703125
+3: Timestep is 3.10703125
+98: Timestep is 3.10703125
+33: Timestep is 3.10703125
+67: Timestep is 3.10703125
+4: Timestep is 3.10703125
+99: Timestep is 3.10703125
+34: Timestep is 3.10703125
+68: Timestep is 3.10703125
+5: Timestep is 3.10703125
+100: Timestep is 3.10703125
+35: Timestep is 3.10703125
+6: Timestep is 3.10703125
+101: Timestep is 3.10703125
+36: Timestep is 3.10703125
+69: Timestep is 3.10703125
+7: Timestep is 3.10703125
+102: Timestep is 3.10703125
+37: Timestep is 3.10703125
+70: Timestep is 3.10703125
+8: Timestep is 3.10703125
+103: Timestep is 3.10703125
+38: Timestep is 3.10703125
+71: Timestep is 3.10703125
+9: Timestep is 3.10703125
+104: Timestep is 3.10703125
+39: Timestep is 3.10703125
+72: Timestep is 3.10703125
+10: Timestep is 3.10703125
+105: Timestep is 3.10703125
+73: Timestep is 3.10703125
+11: Timestep is 3.10703125
+40: Timestep is 3.10703125
+74: Timestep is 3.10703125
+12: Timestep is 3.10703125
+106: Timestep is 3.10703125
+41: Timestep is 3.10703125
+75: Timestep is 3.10703125
+13: Timestep is 3.10703125
+107: Timestep is 3.10703125
+42: Timestep is 3.10703125
+76: Timestep is 3.10703125
+14: Timestep is 3.10703125
+108: Timestep is 3.10703125
+43: Timestep is 3.10703125
+77: Timestep is 3.10703125
+15: Timestep is 3.10703125
+109: Timestep is 3.10703125
+44: Timestep is 3.10703125
+78: Timestep is 3.10703125
+16: Timestep is 3.10703125
+110: Timestep is 3.10703125
+45: Timestep is 3.10703125
+79: Timestep is 3.10703125
+17: Timestep is 3.10703125
+111: Timestep is 3.10703125
+46: Timestep is 3.10703125
+80: Timestep is 3.10703125
+18: Timestep is 3.10703125
+112: Timestep is 3.10703125
+47: Timestep is 3.10703125
+81: Timestep is 3.10703125
+19: Timestep is 3.10703125
+113: Timestep is 3.10703125
+48: Timestep is 3.10703125
+82: Timestep is 3.10703125
+20: Timestep is 3.10703125
+114: Timestep is 3.10703125
+49: Timestep is 3.10703125
+83: Timestep is 3.10703125
+21: Timestep is 3.10703125
+115: Timestep is 3.10703125
+50: Timestep is 3.10703125
+84: Timestep is 3.10703125
+22: Timestep is 3.10703125
+116: Timestep is 3.10703125
+51: Timestep is 3.10703125
+85: Timestep is 3.10703125
+23: Timestep is 3.10703125
+117: Timestep is 3.10703125
+52: Timestep is 3.10703125
+24: Timestep is 3.10703125
+118: Timestep is 3.10703125
+53: Timestep is 3.10703125
+86: Timestep is 3.10703125
+25: Timestep is 3.10703125
+119: Timestep is 3.10703125
+54: Timestep is 3.10703125
+87: Timestep is 3.10703125
+26: Timestep is 3.10703125
+120: Timestep is 3.10703125
+55: Timestep is 3.10703125
+88: Timestep is 3.10703125
+27: Timestep is 3.10703125
+121: Timestep is 3.10703125
+56: Timestep is 3.10703125
+89: Timestep is 3.10703125
+28: Timestep is 3.10703125
+122: Timestep is 3.10703125
+57: Timestep is 3.10703125
+90: Timestep is 3.10703125
+29: Timestep is 3.10703125
+123: Timestep is 3.10703125
+58: Timestep is 3.10703125
+91: Timestep is 3.10703125
+30: Timestep is 3.10703125
+124: Timestep is 3.10703125
+59: Timestep is 3.10703125
+92: Timestep is 3.10703125
+31: Timestep is 3.10703125
+125: Timestep is 3.10703125
+60: Timestep is 3.10703125
+93: Timestep is 3.10703125
+126: Timestep is 3.10703125
+61: Timestep is 3.10703125
+94: Timestep is 3.10703125
+127: Timestep is 3.10703125
+62: Timestep is 3.10703125
+95: Timestep is 3.10703125
+63: Timestep is 3.10703125
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+energy derivative -0.5623954133 +/- 0.0002560966047
+energy derivative -0.9557111783 +/- 0.0007371973504
+eigenvals (0.08911313927,0) (2.326423593,0) (1.504983005,0) 
+i 0 stab 8.875064406e-08 p0 0.9999998344 eigenval (0.08911313927,0)
+i 1 stab 8.875064406e-08 p0 0.2021529332 eigenval (2.326423593,0)
+i 2 stab 8.875064406e-08 p0 0.5807718928 eigenval (1.504983005,0)
+chose 0 eigenval 0.08911313927
+eigenvals (0.0891131392,0) (2.326424165,0) (1.504983019,0) 
+i 0 stab 4.437532203e-07 p0 0.9999998344 eigenval (0.0891131392,0)
+i 1 stab 4.437532203e-07 p0 0.2021528844 eigenval (2.326424165,0)
+i 2 stab 4.437532203e-07 p0 0.5807718872 eigenval (1.504983019,0)
+chose 0 eigenval 0.0891131392
+eigenvals (0.08911313886,0) (2.32642703,0) (1.504983087,0) 
+i 0 stab 2.218766101e-06 p0 0.9999998344 eigenval (0.08911313886,0)
+i 1 stab 2.218766101e-06 p0 0.2021526407 eigenval (2.32642703,0)
+i 2 stab 2.218766101e-06 p0 0.5807718589 eigenval (1.504983087,0)
+chose 0 eigenval 0.08911313886
+eigenvals (0.08911313714,0) (2.326441352,0) (1.504983429,0) 
+i 0 stab 1.109383051e-05 p0 0.9999998344 eigenval (0.08911313714,0)
+i 1 stab 1.109383051e-05 p0 0.2021514223 eigenval (2.326441352,0)
+i 2 stab 1.109383051e-05 p0 0.5807717173 eigenval (1.504983429,0)
+chose 0 eigenval 0.08911313714
+eigenvals (0.08911312855,0) (2.326512965,0) (1.504985137,0) 
+i 0 stab 5.546915254e-05 p0 0.9999998345 eigenval (0.08911312855,0)
+i 1 stab 5.546915254e-05 p0 0.2021453303 eigenval (2.326512965,0)
+i 2 stab 5.546915254e-05 p0 0.5807710097 eigenval (1.504985137,0)
+chose 0 eigenval 0.08911312855
+eigenvals (0.0891130856,0) (2.326871029,0) (1.504993677,0) 
+i 0 stab 0.0002773457627 p0 0.9999998345 eigenval (0.0891130856,0)
+i 1 stab 0.0002773457627 p0 0.2021148756 eigenval (2.326871029,0)
+i 2 stab 0.0002773457627 p0 0.5807674723 eigenval (1.504993677,0)
+chose 0 eigenval 0.0891130856
+eigenvals (0.08911287108,0) (2.328661346,0) (1.505036379,0) 
+i 0 stab 0.001386728813 p0 0.9999998348 eigenval (0.08911287108,0)
+i 1 stab 0.001386728813 p0 0.2019627319 eigenval (2.328661346,0)
+i 2 stab 0.001386728813 p0 0.5807498004 eigenval (1.505036379,0)
+chose 0 eigenval 0.08911287108
+eigenvals (0.08911180355,0) (2.337612934,0) (1.505249885,0) 
+i 0 stab 0.006933644067 p0 0.999999836 eigenval (0.08911180355,0)
+i 1 stab 0.006933644067 p0 0.2012052531 eigenval (2.337612934,0)
+i 2 stab 0.006933644067 p0 0.5806618212 eigenval (1.505249885,0)
+chose 0 eigenval 0.08911180355
+eigenvals (0.08910658923,0) (2.382370887,0) (1.506317277,0) 
+i 0 stab 0.03466822034 p0 0.9999998422 eigenval (0.08910658923,0)
+i 1 stab 0.03466822034 p0 0.1974973051 eigenval (2.382370887,0)
+i 2 stab 0.03466822034 p0 0.5802308648 eigenval (1.506317277,0)
+chose 0 eigenval 0.08910658923
+eigenvals (0.08908326191,0) (2.606160472,0) (1.511651676,0) 
+i 0 stab 0.1733411017 p0 0.9999998682 eigenval (0.08908326191,0)
+i 1 stab 0.1733411017 p0 0.18076298 eigenval (2.606160472,0)
+i 2 stab 0.1733411017 p0 0.5782460153 eigenval (1.511651676,0)
+chose 0 eigenval 0.08908326191
+eigenvals (0.0890090639,0) (3.725090357,0) (1.538299264,0) 
+i 0 stab 0.8667055084 p0 0.9999999346 eigenval (0.0890090639,0)
+i 1 stab 0.8667055084 p0 0.1265362978 eigenval (3.725090357,0)
+64: Timestep is 1.71796875
+i 2 stab 0.8667055084 p0 0.5700112719 eigenval (1.538299264,0)
+chose 0 eigenval 0.0890090639
+96: Timestep is 1.71796875
+32: Timestep is 1.71796875
+65: Timestep is 1.71796875
+eigenvals (0.08890229905,0) (9.319546221,0) (1.671466545,0) 
+i 0 stab 4.333527542 p0 0.9999999867 eigenval (0.08890229905,0)
+i 2 stab 4.333527542 p0 0.5354966352 eigenval (1.671466545,0)
+chose 0 eigenval 0.08890229905
+97: Timestep is 1.71796875
+33: Timestep is 1.71796875
+66: Timestep is 1.71796875
+eigenvals (0.08882814718,0) (37.29143474,0) (2.337234074,0) 
+i 0 stab 21.66763771 p0 0.9999999975 eigenval (0.08882814718,0)
+67: Timestep is 1.71796875
+i 2 stab 21.66763771 p0 0.407351664 eigenval (2.337234074,0)
+chose 0 eigenval 0.08882814718
+98: Timestep is 1.71796875
+34: Timestep is 1.71796875
+68: Timestep is 1.71796875
+eigenvals (0.08877881634,0) (177.1506661,0) (5.665961551,0) 
+i 0 stab 108.3381885 p0 0.9999999997 eigenval (0.08877881634,0)
+99: Timestep is 1.71796875
+35: Timestep is 1.71796875
+69: Timestep is 1.71796875
+i 2 stab 108.3381885 p0 0.1769586449 eigenval (5.665961551,0)
+chose 0 eigenval 0.08877881634
+100: Timestep is 1.71796875
+36: Timestep is 1.71796875
+70: Timestep is 1.71796875
+eigenvals (0.08875755133,0) (876.4467666,0) (22.30942986,0) 
+i 0 stab 541.6909427 p0 1 eigenval (0.08875755133,0)
+chose 0 eigenval 0.08875755133
+101: Timestep is 1.71796875
+37: Timestep is 1.71796875
+71: Timestep is 1.71796875
+eigenvals (0.08911313927,0) (2.326423593,0) (1.504983005,0) 
+i 0 stab 8.875064406e-08 p0 0.9999998344 eigenval (0.08911313927,0)
+102: Timestep is 1.71796875
+38: Timestep is 1.71796875
+72: Timestep is 1.71796875
+i 1 stab 8.875064406e-08 p0 0.2021529332 eigenval (2.326423593,0)
+i 2 stab 8.875064406e-08 p0 0.5807718928 eigenval (1.504983005,0)
+chose 0 eigenval 0.08911313927
+103: Timestep is 1.71796875
+39: Timestep is 1.71796875
+73: Timestep is 1.71796875
+eigenvals (0.0891131392,0) (2.326424165,0) (1.504983019,0) 
+i 0 stab 4.437532203e-07 p0 0.9999998344 eigenval (0.0891131392,0)
+104: Timestep is 1.71796875
+40: Timestep is 1.71796875
+74: Timestep is 1.71796875
+i 1 stab 4.437532203e-07 p0 0.2021528844 eigenval (2.326424165,0)
+i 2 stab 4.437532203e-07 p0 0.5807718872 eigenval (1.504983019,0)
+chose 0 eigenval 0.0891131392
+105: Timestep is 1.71796875
+41: Timestep is 1.71796875
+75: Timestep is 1.71796875
+eigenvals (0.08911313886,0) (2.32642703,0) (1.504983087,0) 
+i 0 stab 2.218766101e-06 p0 0.9999998344 eigenval (0.08911313886,0)
+i 1 stab 2.218766101e-06 p0 0.2021526407 eigenval (2.32642703,0)
+106: Timestep is 1.71796875
+42: Timestep is 1.71796875
+i 2 stab 2.218766101e-06 p0 0.5807718589 eigenval (1.504983087,0)
+chose 0 eigenval 0.08911313886
+107: Timestep is 1.71796875
+43: Timestep is 1.71796875
+76: Timestep is 1.71796875
+eigenvals (0.08911313714,0) (2.326441352,0) (1.504983429,0) 
+i 0 stab 1.109383051e-05 p0 0.9999998344 eigenval (0.08911313714,0)
+i 1 stab 1.109383051e-05 p0 0.2021514223 eigenval (2.326441352,0)
+77: Timestep is 1.71796875
+i 2 stab 1.109383051e-05 p0 0.5807717173 eigenval (1.504983429,0)
+chose 0 eigenval 0.08911313714
+eigenvals (0.08911312855,0) (2.326512965,0) (1.504985137,0) 
+108: Timestep is 1.71796875
+44: Timestep is 1.71796875
+78: Timestep is 1.71796875
+i 0 stab 5.546915254e-05 p0 0.9999998345 eigenval (0.08911312855,0)
+i 1 stab 5.546915254e-05 p0 0.2021453303 eigenval (2.326512965,0)
+i 2 stab 5.546915254e-05 p0 0.5807710097 eigenval (1.504985137,0)
+chose 0 eigenval 0.08911312855
+109: Timestep is 1.71796875
+45: Timestep is 1.71796875
+79: Timestep is 1.71796875
+eigenvals (0.0891130856,0) (2.326871029,0) (1.504993677,0) 
+110: Timestep is 1.71796875
+46: Timestep is 1.71796875
+80: Timestep is 1.71796875
+i 0 stab 0.0002773457627 p0 0.9999998345 eigenval (0.0891130856,0)
+i 1 stab 0.0002773457627 p0 0.2021148756 eigenval (2.326871029,0)
+i 2 stab 0.0002773457627 p0 0.5807674723 eigenval (1.504993677,0)
+chose 0 eigenval 0.0891130856
+111: Timestep is 1.71796875
+47: Timestep is 1.71796875
+81: Timestep is 1.71796875
+eigenvals (0.08911287108,0) (2.328661346,0) (1.505036379,0) 
+112: Timestep is 1.71796875
+48: Timestep is 1.71796875
+82: Timestep is 1.71796875
+i 0 stab 0.001386728813 p0 0.9999998348 eigenval (0.08911287108,0)
+i 1 stab 0.001386728813 p0 0.2019627319 eigenval (2.328661346,0)
+i 2 stab 0.001386728813 p0 0.5807498004 eigenval (1.505036379,0)
+chose 0 eigenval 0.08911287108
+113: Timestep is 1.71796875
+49: Timestep is 1.71796875
+83: Timestep is 1.71796875
+eigenvals (0.08911180355,0) (2.337612934,0) (1.505249885,0) 
+114: Timestep is 1.71796875
+50: Timestep is 1.71796875
+84: Timestep is 1.71796875
+i 0 stab 0.006933644067 p0 0.999999836 eigenval (0.08911180355,0)
+i 1 stab 0.006933644067 p0 0.2012052531 eigenval (2.337612934,0)
+i 2 stab 0.006933644067 p0 0.5806618212 eigenval (1.505249885,0)
+chose 0 eigenval 0.08911180355
+115: Timestep is 1.71796875
+51: Timestep is 1.71796875
+85: Timestep is 1.71796875
+eigenvals (0.08910658923,0) (2.382370887,0) (1.506317277,0) 
+i 0 stab 0.03466822034 p0 0.9999998422 eigenval (0.08910658923,0)
+116: Timestep is 1.71796875
+52: Timestep is 1.71796875
+86: Timestep is 1.71796875
+i 1 stab 0.03466822034 p0 0.1974973051 eigenval (2.382370887,0)
+i 2 stab 0.03466822034 p0 0.5802308648 eigenval (1.506317277,0)
+chose 0 eigenval 0.08910658923
+117: Timestep is 1.71796875
+53: Timestep is 1.71796875
+87: Timestep is 1.71796875
+eigenvals (0.08908326191,0) (2.606160472,0) (1.511651676,0) 
+i 0 stab 0.1733411017 p0 0.9999998682 eigenval (0.08908326191,0)
+118: Timestep is 1.71796875
+54: Timestep is 1.71796875
+88: Timestep is 1.71796875
+i 1 stab 0.1733411017 p0 0.18076298 eigenval (2.606160472,0)
+i 2 stab 0.1733411017 p0 0.5782460153 eigenval (1.511651676,0)
+chose 0 eigenval 0.08908326191
+119: Timestep is 1.71796875
+55: Timestep is 1.71796875
+89: Timestep is 1.71796875
+eigenvals (0.0890090639,0) (3.725090357,0) (1.538299264,0) 
+i 0 stab 0.8667055084 p0 0.9999999346 eigenval (0.0890090639,0)
+i 1 stab 0.8667055084 p0 0.1265362978 eigenval (3.725090357,0)
+120: Timestep is 1.71796875
+56: Timestep is 1.71796875
+90: Timestep is 1.71796875
+i 2 stab 0.8667055084 p0 0.5700112719 eigenval (1.538299264,0)
+chose 0 eigenval 0.0890090639
+121: Timestep is 1.71796875
+57: Timestep is 1.71796875
+91: Timestep is 1.71796875
+eigenvals (0.08890229905,0) (9.319546221,0) (1.671466545,0) 
+i 0 stab 4.333527542 p0 0.9999999867 eigenval (0.08890229905,0)
+i 2 stab 4.333527542 p0 0.5354966352 eigenval (1.671466545,0)
+chose 0 eigenval 0.08890229905
+122: Timestep is 1.71796875
+58: Timestep is 1.71796875
+92: Timestep is 1.71796875
+eigenvals (0.08882814718,0) (37.29143474,0) (2.337234074,0) 
+123: Timestep is 1.71796875
+59: Timestep is 1.71796875
+93: Timestep is 1.71796875
+i 0 stab 21.66763771 p0 0.9999999975 eigenval (0.08882814718,0)
+i 2 stab 21.66763771 p0 0.407351664 eigenval (2.337234074,0)
+chose 0 eigenval 0.08882814718
+124: Timestep is 1.71796875
+60: Timestep is 1.71796875
+94: Timestep is 1.71796875
+eigenvals (0.08877881634,0) (177.1506661,0) (5.665961551,0) 
+i 0 stab 108.3381885 p0 0.9999999997 eigenval (0.08877881634,0)
+125: Timestep is 1.71796875
+61: Timestep is 1.71796875
+95: Timestep is 1.71796875
+i 2 stab 108.3381885 p0 0.1769586449 eigenval (5.665961551,0)
+chose 0 eigenval 0.08877881634
+126: Timestep is 1.71796875
+62: Timestep is 1.71796875
+eigenvals (0.08875755133,0) (876.4467666,0) (22.30942986,0) 
+i 0 stab 541.6909427 p0 1 eigenval (0.08875755133,0)
+chose 0 eigenval 0.08875755133
+127: Timestep is 1.71796875
+63: Timestep is 1.71796875
+0: Timestep is 1.71796875
+1: Timestep is 1.71796875
+2: Timestep is 1.71796875
+3: Timestep is 1.71796875
+4: Timestep is 1.71796875
+5: Timestep is 1.71796875
+6: Timestep is 1.71796875
+7: Timestep is 1.71796875
+8: Timestep is 1.71796875
+9: Timestep is 1.71796875
+10: Timestep is 1.71796875
+11: Timestep is 1.71796875
+12: Timestep is 1.71796875
+13: Timestep is 1.71796875
+14: Timestep is 1.71796875
+15: Timestep is 1.71796875
+16: Timestep is 1.71796875
+17: Timestep is 1.71796875
+18: Timestep is 1.71796875
+19: Timestep is 1.71796875
+20: Timestep is 1.71796875
+21: Timestep is 1.71796875
+22: Timestep is 1.71796875
+23: Timestep is 1.71796875
+24: Timestep is 1.71796875
+25: Timestep is 1.71796875
+26: Timestep is 1.71796875
+27: Timestep is 1.71796875
+28: Timestep is 1.71796875
+29: Timestep is 1.71796875
+30: Timestep is 1.71796875
+31: Timestep is 1.71796875
+fitting to -2.058147612e-05 4.333527542
+fitting to -1.715807207e-05 21.66763771
+fitting to -1.407896657e-05 0.8667055084
+fitting to -8.009294894e-06 0.1733411017
+fitting to -7.22694558e-06 108.3381885
+fit r2 0.5018069115 curvature 3.505531843e-09
+eigenvals (0.08880173009,0) (76.93567224,0) (3.280796959,0) 
+i 0 stab 46.2351081 p0 0.9999999989 eigenval (0.08880173009,0)
+i 2 stab 46.2351081 p0 0.2997163192 eigenval (3.280796959,0)
+chose 0 eigenval 0.08880173009
+64: Timestep is 1.71453125
+0: Timestep is 1.71453125
+96: Timestep is 1.71453125
+32: Timestep is 1.71453125
+65: Timestep is 1.71453125
+1: Timestep is 1.71453125
+66: Timestep is 1.71453125
+2: Timestep is 1.71453125
+97: Timestep is 1.71453125
+33: Timestep is 1.71453125
+67: Timestep is 1.71453125
+3: Timestep is 1.71453125
+98: Timestep is 1.71453125
+34: Timestep is 1.71453125
+68: Timestep is 1.71453125
+4: Timestep is 1.71453125
+99: Timestep is 1.71453125
+35: Timestep is 1.71453125
+69: Timestep is 1.71453125
+5: Timestep is 1.71453125
+100: Timestep is 1.71453125
+36: Timestep is 1.71453125
+70: Timestep is 1.71453125
+6: Timestep is 1.71453125
+101: Timestep is 1.71453125
+37: Timestep is 1.71453125
+71: Timestep is 1.71453125
+7: Timestep is 1.71453125
+102: Timestep is 1.71453125
+38: Timestep is 1.71453125
+72: Timestep is 1.71453125
+8: Timestep is 1.71453125
+103: Timestep is 1.71453125
+39: Timestep is 1.71453125
+73: Timestep is 1.71453125
+9: Timestep is 1.71453125
+104: Timestep is 1.71453125
+40: Timestep is 1.71453125
+74: Timestep is 1.71453125
+10: Timestep is 1.71453125
+105: Timestep is 1.71453125
+41: Timestep is 1.71453125
+11: Timestep is 1.71453125
+106: Timestep is 1.71453125
+42: Timestep is 1.71453125
+75: Timestep is 1.71453125
+12: Timestep is 1.71453125
+107: Timestep is 1.71453125
+43: Timestep is 1.71453125
+76: Timestep is 1.71453125
+13: Timestep is 1.71453125
+77: Timestep is 1.71453125
+14: Timestep is 1.71453125
+108: Timestep is 1.71453125
+44: Timestep is 1.71453125
+78: Timestep is 1.71453125
+15: Timestep is 1.71453125
+109: Timestep is 1.71453125
+45: Timestep is 1.71453125
+79: Timestep is 1.71453125
+16: Timestep is 1.71453125
+110: Timestep is 1.71453125
+46: Timestep is 1.71453125
+80: Timestep is 1.71453125
+17: Timestep is 1.71453125
+111: Timestep is 1.71453125
+47: Timestep is 1.71453125
+81: Timestep is 1.71453125
+18: Timestep is 1.71453125
+112: Timestep is 1.71453125
+48: Timestep is 1.71453125
+82: Timestep is 1.71453125
+19: Timestep is 1.71453125
+113: Timestep is 1.71453125
+49: Timestep is 1.71453125
+83: Timestep is 1.71453125
+20: Timestep is 1.71453125
+114: Timestep is 1.71453125
+50: Timestep is 1.71453125
+84: Timestep is 1.71453125
+21: Timestep is 1.71453125
+115: Timestep is 1.71453125
+51: Timestep is 1.71453125
+85: Timestep is 1.71453125
+22: Timestep is 1.71453125
+116: Timestep is 1.71453125
+52: Timestep is 1.71453125
+86: Timestep is 1.71453125
+23: Timestep is 1.71453125
+117: Timestep is 1.71453125
+53: Timestep is 1.71453125
+87: Timestep is 1.71453125
+24: Timestep is 1.71453125
+118: Timestep is 1.71453125
+54: Timestep is 1.71453125
+88: Timestep is 1.71453125
+25: Timestep is 1.71453125
+119: Timestep is 1.71453125
+55: Timestep is 1.71453125
+89: Timestep is 1.71453125
+26: Timestep is 1.71453125
+120: Timestep is 1.71453125
+56: Timestep is 1.71453125
+90: Timestep is 1.71453125
+27: Timestep is 1.71453125
+121: Timestep is 1.71453125
+57: Timestep is 1.71453125
+91: Timestep is 1.71453125
+28: Timestep is 1.71453125
+122: Timestep is 1.71453125
+58: Timestep is 1.71453125
+92: Timestep is 1.71453125
+29: Timestep is 1.71453125
+123: Timestep is 1.71453125
+59: Timestep is 1.71453125
+93: Timestep is 1.71453125
+30: Timestep is 1.71453125
+124: Timestep is 1.71453125
+60: Timestep is 1.71453125
+94: Timestep is 1.71453125
+31: Timestep is 1.71453125
+125: Timestep is 1.71453125
+61: Timestep is 1.71453125
+95: Timestep is 1.71453125
+126: Timestep is 1.71453125
+62: Timestep is 1.71453125
+127: Timestep is 1.71453125
+63: Timestep is 1.71453125
+Read took 0 seconds
+96: Timestep is 3.095
+64: Timestep is 3.095
+0: Timestep is 3.095
+97: Timestep is 3.095
+32: Timestep is 3.095
+65: Timestep is 3.095
+1: Timestep is 3.095
+66: Timestep is 3.095
+2: Timestep is 3.095
+98: Timestep is 3.095
+33: Timestep is 3.095
+67: Timestep is 3.095
+3: Timestep is 3.095
+99: Timestep is 3.095
+34: Timestep is 3.095
+68: Timestep is 3.095
+4: Timestep is 3.095
+100: Timestep is 3.095
+35: Timestep is 3.095
+5: Timestep is 3.095
+101: Timestep is 3.095
+36: Timestep is 3.095
+69: Timestep is 3.095
+6: Timestep is 3.095
+102: Timestep is 3.095
+37: Timestep is 3.095
+70: Timestep is 3.095
+7: Timestep is 3.095
+103: Timestep is 3.095
+38: Timestep is 3.095
+71: Timestep is 3.095
+8: Timestep is 3.095
+104: Timestep is 3.095
+39: Timestep is 3.095
+72: Timestep is 3.095
+9: Timestep is 3.095
+105: Timestep is 3.095
+40: Timestep is 3.095
+73: Timestep is 3.095
+10: Timestep is 3.095
+74: Timestep is 3.095
+11: Timestep is 3.095
+106: Timestep is 3.095
+41: Timestep is 3.095
+75: Timestep is 3.095
+12: Timestep is 3.095
+107: Timestep is 3.095
+42: Timestep is 3.095
+76: Timestep is 3.095
+13: Timestep is 3.095
+108: Timestep is 3.095
+43: Timestep is 3.095
+77: Timestep is 3.095
+14: Timestep is 3.095
+109: Timestep is 3.095
+44: Timestep is 3.095
+78: Timestep is 3.095
+15: Timestep is 3.095
+110: Timestep is 3.095
+45: Timestep is 3.095
+79: Timestep is 3.095
+16: Timestep is 3.095
+111: Timestep is 3.095
+46: Timestep is 3.095
+80: Timestep is 3.095
+17: Timestep is 3.095
+112: Timestep is 3.095
+47: Timestep is 3.095
+81: Timestep is 3.095
+18: Timestep is 3.095
+113: Timestep is 3.095
+48: Timestep is 3.095
+82: Timestep is 3.095
+19: Timestep is 3.095
+114: Timestep is 3.095
+49: Timestep is 3.095
+83: Timestep is 3.095
+20: Timestep is 3.095
+115: Timestep is 3.095
+50: Timestep is 3.095
+21: Timestep is 3.095
+116: Timestep is 3.095
+51: Timestep is 3.095
+84: Timestep is 3.095
+22: Timestep is 3.095
+117: Timestep is 3.095
+52: Timestep is 3.095
+85: Timestep is 3.095
+23: Timestep is 3.095
+118: Timestep is 3.095
+53: Timestep is 3.095
+86: Timestep is 3.095
+24: Timestep is 3.095
+119: Timestep is 3.095
+54: Timestep is 3.095
+87: Timestep is 3.095
+25: Timestep is 3.095
+120: Timestep is 3.095
+55: Timestep is 3.095
+88: Timestep is 3.095
+26: Timestep is 3.095
+121: Timestep is 3.095
+56: Timestep is 3.095
+89: Timestep is 3.095
+27: Timestep is 3.095
+122: Timestep is 3.095
+57: Timestep is 3.095
+90: Timestep is 3.095
+28: Timestep is 3.095
+123: Timestep is 3.095
+58: Timestep is 3.095
+91: Timestep is 3.095
+29: Timestep is 3.095
+124: Timestep is 3.095
+59: Timestep is 3.095
+92: Timestep is 3.095
+30: Timestep is 3.095
+125: Timestep is 3.095
+60: Timestep is 3.095
+93: Timestep is 3.095
+31: Timestep is 3.095
+126: Timestep is 3.095
+61: Timestep is 3.095
+94: Timestep is 3.095
+127: Timestep is 3.095
+62: Timestep is 3.095
+95: Timestep is 3.095
+63: Timestep is 3.095
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+energy derivative -0.5619227631 +/- 0.0002528865882
+energy derivative -0.9567239197 +/- 0.00101252591
+eigenvals (0.0891301869,0) (2.326418712,0) (1.505144,0) 
+i 0 stab 8.883342336e-08 p0 0.9999998645 eigenval (0.0891301869,0)
+i 1 stab 8.883342336e-08 p0 0.2019379831 eigenval (2.326418712,0)
+i 2 stab 8.883342336e-08 p0 0.5815590353 eigenval (1.505144,0)
+chose 0 eigenval 0.0891301869
+eigenvals (0.08913018684,0) (2.326419285,0) (1.505144013,0) 
+i 0 stab 4.441671168e-07 p0 0.9999998645 eigenval (0.08913018684,0)
+i 1 stab 4.441671168e-07 p0 0.2019379343 eigenval (2.326419285,0)
+i 2 stab 4.441671168e-07 p0 0.5815590298 eigenval (1.505144013,0)
+chose 0 eigenval 0.08913018684
+eigenvals (0.08913018653,0) (2.326422153,0) (1.505144082,0) 
+i 0 stab 2.220835584e-06 p0 0.9999998645 eigenval (0.08913018653,0)
+i 1 stab 2.220835584e-06 p0 0.2019376906 eigenval (2.326422153,0)
+i 2 stab 2.220835584e-06 p0 0.581559002 eigenval (1.505144082,0)
+chose 0 eigenval 0.08913018653
+eigenvals (0.08913018497,0) (2.326436489,0) (1.505144424,0) 
+i 0 stab 1.110417792e-05 p0 0.9999998645 eigenval (0.08913018497,0)
+i 1 stab 1.110417792e-05 p0 0.2019364721 eigenval (2.326436489,0)
+i 2 stab 1.110417792e-05 p0 0.581558863 eigenval (1.505144424,0)
+chose 0 eigenval 0.08913018497
+eigenvals (0.08913017716,0) (2.32650817,0) (1.505146134,0) 
+i 0 stab 5.55208896e-05 p0 0.9999998645 eigenval (0.08913017716,0)
+i 1 stab 5.55208896e-05 p0 0.20193038 eigenval (2.32650817,0)
+i 2 stab 5.55208896e-05 p0 0.5815581682 eigenval (1.505146134,0)
+chose 0 eigenval 0.08913017716
+eigenvals (0.08913013816,0) (2.326866574,0) (1.505154683,0) 
+i 0 stab 0.000277604448 p0 0.9999998645 eigenval (0.08913013816,0)
+i 1 stab 0.000277604448 p0 0.2018999244 eigenval (2.326866574,0)
+i 2 stab 0.000277604448 p0 0.5815546949 eigenval (1.505154683,0)
+chose 0 eigenval 0.08913013816
+eigenvals (0.08912994335,0) (2.328658594,0) (1.50519743,0) 
+i 0 stab 0.00138802224 p0 0.9999998647 eigenval (0.08912994335,0)
+i 1 stab 0.00138802224 p0 0.2017477766 eigenval (2.328658594,0)
+i 2 stab 0.00138802224 p0 0.5815373428 eigenval (1.50519743,0)
+chose 0 eigenval 0.08912994335
+eigenvals (0.08912897392,0) (2.337618697,0) (1.505411158,0) 
+i 0 stab 0.0069401112 p0 0.9999998658 eigenval (0.08912897392,0)
+i 1 stab 0.0069401112 p0 0.200990281 eigenval (2.337618697,0)
+i 2 stab 0.0069401112 p0 0.581450943 eigenval (1.505411158,0)
+chose 0 eigenval 0.08912897392
+eigenvals (0.08912423943,0) (2.382419226,0) (1.506479673,0) 
+i 0 stab 0.034700556 p0 0.9999998709 eigenval (0.08912423943,0)
+i 1 stab 0.034700556 p0 0.1972823436 eigenval (2.382419226,0)
+i 2 stab 0.034700556 p0 0.5810274208 eigenval (1.506479673,0)
+chose 0 eigenval 0.08912423943
+eigenvals (0.08910307366,0) (2.60642178,0) (1.511819834,0) 
+i 0 stab 0.17350278 p0 0.9999998926 eigenval (0.08910307366,0)
+64: Timestep is 1.70796875
+i 1 stab 0.17350278 p0 0.1805499838 eigenval (2.60642178,0)
+i 2 stab 0.17350278 p0 0.5790708933 eigenval (1.511819834,0)
+chose 0 eigenval 0.08910307366
+96: Timestep is 1.70796875
+32: Timestep is 1.70796875
+65: Timestep is 1.70796875
+eigenvals (0.08903599016,0) (3.726418763,0) (1.538497683,0) 
+i 0 stab 0.8675139 p0 0.9999999478 eigenval (0.08903599016,0)
+i 1 stab 0.8675139 p0 0.1263509846 eigenval (3.726418763,0)
+97: Timestep is 1.70796875
+33: Timestep is 1.70796875
+i 2 stab 0.8675139 p0 0.5708900982 eigenval (1.538497683,0)
+chose 0 eigenval 0.08903599016
+66: Timestep is 1.70796875
+eigenvals (0.08894140922,0) (9.326228954,0) (1.671820809,0) 
+i 0 stab 4.3375695 p0 0.9999999909 eigenval (0.08894140922,0)
+i 2 stab 4.3375695 p0 0.5363795456 eigenval (1.671820809,0)
+chose 0 eigenval 0.08894140922
+98: Timestep is 1.70796875
+34: Timestep is 1.70796875
+67: Timestep is 1.70796875
+eigenvals (0.08888276784,0) (37.32492505,0) (2.338377041,0) 
+99: Timestep is 1.70796875
+35: Timestep is 1.70796875
+68: Timestep is 1.70796875
+i 0 stab 21.6878475 p0 0.9999999989 eigenval (0.08888276784,0)
+i 2 stab 21.6878475 p0 0.4080483003 eigenval (2.338377041,0)
+chose 0 eigenval 0.08888276784
+100: Timestep is 1.70796875
+36: Timestep is 1.70796875
+69: Timestep is 1.70796875
+eigenvals (0.0888505101,0) (177.3182135,0) (5.671089307,0) 
+i 0 stab 108.4392375 p0 0.9999999999 eigenval (0.0888505101,0)
+101: Timestep is 1.70796875
+37: Timestep is 1.70796875
+70: Timestep is 1.70796875
+i 2 stab 108.4392375 p0 0.177237384 eigenval (5.671089307,0)
+chose 0 eigenval 0.0888505101
+102: Timestep is 1.70796875
+38: Timestep is 1.70796875
+71: Timestep is 1.70796875
+eigenvals (0.08883756201,0) (877.2846043,0) (22.3345535,0) 
+i 0 stab 542.1961875 p0 1 eigenval (0.08883756201,0)
+chose 0 eigenval 0.08883756201
+103: Timestep is 1.70796875
+39: Timestep is 1.70796875
+72: Timestep is 1.70796875
+eigenvals (0.0891301869,0) (2.326418712,0) (1.505144,0) 
+104: Timestep is 1.70796875
+40: Timestep is 1.70796875
+73: Timestep is 1.70796875
+i 0 stab 8.883342336e-08 p0 0.9999998645 eigenval (0.0891301869,0)
+i 1 stab 8.883342336e-08 p0 0.2019379831 eigenval (2.326418712,0)
+i 2 stab 8.883342336e-08 p0 0.5815590353 eigenval (1.505144,0)
+chose 0 eigenval 0.0891301869
+105: Timestep is 1.70796875
+41: Timestep is 1.70796875
+74: Timestep is 1.70796875
+eigenvals (0.08913018684,0) (2.326419285,0) (1.505144013,0) 
+106: Timestep is 1.70796875
+42: Timestep is 1.70796875
+i 0 stab 4.441671168e-07 p0 0.9999998645 eigenval (0.08913018684,0)
+i 1 stab 4.441671168e-07 p0 0.2019379343 eigenval (2.326419285,0)
+i 2 stab 4.441671168e-07 p0 0.5815590298 eigenval (1.505144013,0)
+chose 0 eigenval 0.08913018684
+107: Timestep is 1.70796875
+43: Timestep is 1.70796875
+75: Timestep is 1.70796875
+eigenvals (0.08913018653,0) (2.326422153,0) (1.505144082,0) 
+i 0 stab 2.220835584e-06 p0 0.9999998645 eigenval (0.08913018653,0)
+76: Timestep is 1.70796875
+i 1 stab 2.220835584e-06 p0 0.2019376906 eigenval (2.326422153,0)
+i 2 stab 2.220835584e-06 p0 0.581559002 eigenval (1.505144082,0)
+chose 0 eigenval 0.08913018653
+108: Timestep is 1.70796875
+44: Timestep is 1.70796875
+77: Timestep is 1.70796875
+eigenvals (0.08913018497,0) (2.326436489,0) (1.505144424,0) 
+i 0 stab 1.110417792e-05 p0 0.9999998645 eigenval (0.08913018497,0)
+109: Timestep is 1.70796875
+45: Timestep is 1.70796875
+78: Timestep is 1.70796875
+i 1 stab 1.110417792e-05 p0 0.2019364721 eigenval (2.326436489,0)
+i 2 stab 1.110417792e-05 p0 0.581558863 eigenval (1.505144424,0)
+chose 0 eigenval 0.08913018497
+110: Timestep is 1.70796875
+46: Timestep is 1.70796875
+79: Timestep is 1.70796875
+eigenvals (0.08913017716,0) (2.32650817,0) (1.505146134,0) 
+i 0 stab 5.55208896e-05 p0 0.9999998645 eigenval (0.08913017716,0)
+i 1 stab 5.55208896e-05 p0 0.20193038 eigenval (2.32650817,0)
+111: Timestep is 1.70796875
+47: Timestep is 1.70796875
+80: Timestep is 1.70796875
+i 2 stab 5.55208896e-05 p0 0.5815581682 eigenval (1.505146134,0)
+chose 0 eigenval 0.08913017716
+112: Timestep is 1.70796875
+48: Timestep is 1.70796875
+81: Timestep is 1.70796875
+eigenvals (0.08913013816,0) (2.326866574,0) (1.505154683,0) 
+i 0 stab 0.000277604448 p0 0.9999998645 eigenval (0.08913013816,0)
+i 1 stab 0.000277604448 p0 0.2018999244 eigenval (2.326866574,0)
+113: Timestep is 1.70796875
+49: Timestep is 1.70796875
+82: Timestep is 1.70796875
+i 2 stab 0.000277604448 p0 0.5815546949 eigenval (1.505154683,0)
+chose 0 eigenval 0.08913013816
+114: Timestep is 1.70796875
+50: Timestep is 1.70796875
+83: Timestep is 1.70796875
+eigenvals (0.08912994335,0) (2.328658594,0) (1.50519743,0) 
+i 0 stab 0.00138802224 p0 0.9999998647 eigenval (0.08912994335,0)
+i 1 stab 0.00138802224 p0 0.2017477766 eigenval (2.328658594,0)
+i 2 stab 0.00138802224 p0 0.5815373428 eigenval (1.50519743,0)
+chose 0 eigenval 0.08912994335
+115: Timestep is 1.70796875
+51: Timestep is 1.70796875
+84: Timestep is 1.70796875
+eigenvals (0.08912897392,0) (2.337618697,0) (1.505411158,0) 
+116: Timestep is 1.70796875
+52: Timestep is 1.70796875
+85: Timestep is 1.70796875
+i 0 stab 0.0069401112 p0 0.9999998658 eigenval (0.08912897392,0)
+i 1 stab 0.0069401112 p0 0.200990281 eigenval (2.337618697,0)
+i 2 stab 0.0069401112 p0 0.581450943 eigenval (1.505411158,0)
+chose 0 eigenval 0.08912897392
+117: Timestep is 1.70796875
+53: Timestep is 1.70796875
+86: Timestep is 1.70796875
+eigenvals (0.08912423943,0) (2.382419226,0) (1.506479673,0) 
+i 0 stab 0.034700556 p0 0.9999998709 eigenval (0.08912423943,0)
+118: Timestep is 1.70796875
+54: Timestep is 1.70796875
+87: Timestep is 1.70796875
+i 1 stab 0.034700556 p0 0.1972823436 eigenval (2.382419226,0)
+i 2 stab 0.034700556 p0 0.5810274208 eigenval (1.506479673,0)
+chose 0 eigenval 0.08912423943
+119: Timestep is 1.70796875
+55: Timestep is 1.70796875
+88: Timestep is 1.70796875
+eigenvals (0.08910307366,0) (2.60642178,0) (1.511819834,0) 
+i 0 stab 0.17350278 p0 0.9999998926 eigenval (0.08910307366,0)
+120: Timestep is 1.70796875
+56: Timestep is 1.70796875
+89: Timestep is 1.70796875
+i 1 stab 0.17350278 p0 0.1805499838 eigenval (2.60642178,0)
+i 2 stab 0.17350278 p0 0.5790708933 eigenval (1.511819834,0)
+chose 0 eigenval 0.08910307366
+121: Timestep is 1.70796875
+57: Timestep is 1.70796875
+90: Timestep is 1.70796875
+eigenvals (0.08903599016,0) (3.726418763,0) (1.538497683,0) 
+i 0 stab 0.8675139 p0 0.9999999478 eigenval (0.08903599016,0)
+122: Timestep is 1.70796875
+58: Timestep is 1.70796875
+91: Timestep is 1.70796875
+i 1 stab 0.8675139 p0 0.1263509846 eigenval (3.726418763,0)
+i 2 stab 0.8675139 p0 0.5708900982 eigenval (1.538497683,0)
+chose 0 eigenval 0.08903599016
+123: Timestep is 1.70796875
+59: Timestep is 1.70796875
+92: Timestep is 1.70796875
+eigenvals (0.08894140922,0) (9.326228954,0) (1.671820809,0) 
+i 0 stab 4.3375695 p0 0.9999999909 eigenval (0.08894140922,0)
+i 2 stab 4.3375695 p0 0.5363795456 eigenval (1.671820809,0)
+124: Timestep is 1.70796875
+60: Timestep is 1.70796875
+93: Timestep is 1.70796875
+chose 0 eigenval 0.08894140922
+eigenvals (0.08888276784,0) (37.32492505,0) (2.338377041,0) 
+125: Timestep is 1.70796875
+61: Timestep is 1.70796875
+94: Timestep is 1.70796875
+i 0 stab 21.6878475 p0 0.9999999989 eigenval (0.08888276784,0)
+i 2 stab 21.6878475 p0 0.4080483003 eigenval (2.338377041,0)
+chose 0 eigenval 0.08888276784
+126: Timestep is 1.70796875
+62: Timestep is 1.70796875
+95: Timestep is 1.70796875
+eigenvals (0.0888505101,0) (177.3182135,0) (5.671089307,0) 
+127: Timestep is 1.70796875
+63: Timestep is 1.70796875
+i 0 stab 108.4392375 p0 0.9999999999 eigenval (0.0888505101,0)
+i 2 stab 108.4392375 p0 0.177237384 eigenval (5.671089307,0)
+chose 0 eigenval 0.0888505101
+eigenvals (0.08883756201,0) (877.2846043,0) (22.3345535,0) 
+i 0 stab 542.1961875 p0 1 eigenval (0.08883756201,0)
+chose 0 eigenval 0.08883756201
+0: Timestep is 1.70796875
+1: Timestep is 1.70796875
+2: Timestep is 1.70796875
+3: Timestep is 1.70796875
+4: Timestep is 1.70796875
+5: Timestep is 1.70796875
+6: Timestep is 1.70796875
+7: Timestep is 1.70796875
+8: Timestep is 1.70796875
+9: Timestep is 1.70796875
+10: Timestep is 1.70796875
+11: Timestep is 1.70796875
+12: Timestep is 1.70796875
+13: Timestep is 1.70796875
+14: Timestep is 1.70796875
+15: Timestep is 1.70796875
+16: Timestep is 1.70796875
+17: Timestep is 1.70796875
+18: Timestep is 1.70796875
+19: Timestep is 1.70796875
+20: Timestep is 1.70796875
+21: Timestep is 1.70796875
+22: Timestep is 1.70796875
+23: Timestep is 1.70796875
+24: Timestep is 1.70796875
+25: Timestep is 1.70796875
+26: Timestep is 1.70796875
+27: Timestep is 1.70796875
+28: Timestep is 1.70796875
+29: Timestep is 1.70796875
+30: Timestep is 1.70796875
+31: Timestep is 1.70796875
+fitting to 3.888691483e-07 542.1961875
+fitting to 1.664722286e-06 108.4392375
+fitting to 5.437628776e-06 21.6878475
+fitting to 1.473994469e-05 4.3375695
+fitting to 3.179359159e-05 0.8675139
+fit r2 0.6119073911 curvature 3.614448387e-10
+64: Timestep is 1.725
+eigenvals (0.08884015665,0) (520.7824305,0) (13.84763323,0) 
+i 0 stab 321.2780149 p0 1 eigenval (0.08884015665,0)
+chose 0 eigenval 0.08884015665
+96: Timestep is 1.725
+32: Timestep is 1.725
+65: Timestep is 1.725
+0: Timestep is 1.725
+66: Timestep is 1.725
+1: Timestep is 1.725
+97: Timestep is 1.725
+33: Timestep is 1.725
+67: Timestep is 1.725
+2: Timestep is 1.725
+98: Timestep is 1.725
+34: Timestep is 1.725
+68: Timestep is 1.725
+3: Timestep is 1.725
+99: Timestep is 1.725
+35: Timestep is 1.725
+69: Timestep is 1.725
+4: Timestep is 1.725
+100: Timestep is 1.725
+36: Timestep is 1.725
+70: Timestep is 1.725
+5: Timestep is 1.725
+101: Timestep is 1.725
+37: Timestep is 1.725
+71: Timestep is 1.725
+6: Timestep is 1.725
+102: Timestep is 1.725
+38: Timestep is 1.725
+72: Timestep is 1.725
+7: Timestep is 1.725
+103: Timestep is 1.725
+39: Timestep is 1.725
+73: Timestep is 1.725
+8: Timestep is 1.725
+104: Timestep is 1.725
+40: Timestep is 1.725
+74: Timestep is 1.725
+9: Timestep is 1.725
+105: Timestep is 1.725
+41: Timestep is 1.725
+75: Timestep is 1.725
+10: Timestep is 1.725
+76: Timestep is 1.725
+11: Timestep is 1.725
+106: Timestep is 1.725
+42: Timestep is 1.725
+77: Timestep is 1.725
+12: Timestep is 1.725
+107: Timestep is 1.725
+43: Timestep is 1.725
+78: Timestep is 1.725
+13: Timestep is 1.725
+108: Timestep is 1.725
+44: Timestep is 1.725
+79: Timestep is 1.725
+14: Timestep is 1.725
+109: Timestep is 1.725
+45: Timestep is 1.725
+80: Timestep is 1.725
+15: Timestep is 1.725
+110: Timestep is 1.725
+46: Timestep is 1.725
+81: Timestep is 1.725
+16: Timestep is 1.725
+111: Timestep is 1.725
+47: Timestep is 1.725
+82: Timestep is 1.725
+17: Timestep is 1.725
+112: Timestep is 1.725
+48: Timestep is 1.725
+83: Timestep is 1.725
+18: Timestep is 1.725
+113: Timestep is 1.725
+49: Timestep is 1.725
+84: Timestep is 1.725
+19: Timestep is 1.725
+114: Timestep is 1.725
+50: Timestep is 1.725
+85: Timestep is 1.725
+20: Timestep is 1.725
+115: Timestep is 1.725
+51: Timestep is 1.725
+86: Timestep is 1.725
+21: Timestep is 1.725
+116: Timestep is 1.725
+52: Timestep is 1.725
+87: Timestep is 1.725
+22: Timestep is 1.725
+117: Timestep is 1.725
+53: Timestep is 1.725
+88: Timestep is 1.725
+23: Timestep is 1.725
+118: Timestep is 1.725
+54: Timestep is 1.725
+89: Timestep is 1.725
+24: Timestep is 1.725
+119: Timestep is 1.725
+55: Timestep is 1.725
+90: Timestep is 1.725
+25: Timestep is 1.725
+120: Timestep is 1.725
+56: Timestep is 1.725
+91: Timestep is 1.725
+26: Timestep is 1.725
+121: Timestep is 1.725
+57: Timestep is 1.725
+92: Timestep is 1.725
+27: Timestep is 1.725
+122: Timestep is 1.725
+58: Timestep is 1.725
+93: Timestep is 1.725
+28: Timestep is 1.725
+123: Timestep is 1.725
+59: Timestep is 1.725
+94: Timestep is 1.725
+29: Timestep is 1.725
+124: Timestep is 1.725
+60: Timestep is 1.725
+95: Timestep is 1.725
+30: Timestep is 1.725
+125: Timestep is 1.725
+61: Timestep is 1.725
+31: Timestep is 1.725
+126: Timestep is 1.725
+62: Timestep is 1.725
+127: Timestep is 1.725
+63: Timestep is 1.725
+Read took 0 seconds
+0: Timestep is 3.09125
+64: Timestep is 3.09125
+96: Timestep is 3.09125
+32: Timestep is 3.09125
+1: Timestep is 3.09125
+65: Timestep is 3.09125
+2: Timestep is 3.09125
+97: Timestep is 3.09125
+33: Timestep is 3.09125
+66: Timestep is 3.09125
+3: Timestep is 3.09125
+98: Timestep is 3.09125
+34: Timestep is 3.09125
+67: Timestep is 3.09125
+4: Timestep is 3.09125
+99: Timestep is 3.09125
+35: Timestep is 3.09125
+68: Timestep is 3.09125
+5: Timestep is 3.09125
+100: Timestep is 3.09125
+36: Timestep is 3.09125
+69: Timestep is 3.09125
+6: Timestep is 3.09125
+101: Timestep is 3.09125
+37: Timestep is 3.09125
+70: Timestep is 3.09125
+7: Timestep is 3.09125
+71: Timestep is 3.09125
+8: Timestep is 3.09125
+102: Timestep is 3.09125
+38: Timestep is 3.09125
+72: Timestep is 3.09125
+9: Timestep is 3.09125
+103: Timestep is 3.09125
+39: Timestep is 3.09125
+73: Timestep is 3.09125
+10: Timestep is 3.09125
+104: Timestep is 3.09125
+40: Timestep is 3.09125
+74: Timestep is 3.09125
+11: Timestep is 3.09125
+105: Timestep is 3.09125
+41: Timestep is 3.09125
+75: Timestep is 3.09125
+12: Timestep is 3.09125
+106: Timestep is 3.09125
+42: Timestep is 3.09125
+76: Timestep is 3.09125
+13: Timestep is 3.09125
+107: Timestep is 3.09125
+43: Timestep is 3.09125
+77: Timestep is 3.09125
+14: Timestep is 3.09125
+108: Timestep is 3.09125
+44: Timestep is 3.09125
+78: Timestep is 3.09125
+15: Timestep is 3.09125
+109: Timestep is 3.09125
+45: Timestep is 3.09125
+79: Timestep is 3.09125
+16: Timestep is 3.09125
+110: Timestep is 3.09125
+46: Timestep is 3.09125
+80: Timestep is 3.09125
+17: Timestep is 3.09125
+111: Timestep is 3.09125
+47: Timestep is 3.09125
+81: Timestep is 3.09125
+18: Timestep is 3.09125
+112: Timestep is 3.09125
+48: Timestep is 3.09125
+82: Timestep is 3.09125
+19: Timestep is 3.09125
+113: Timestep is 3.09125
+49: Timestep is 3.09125
+83: Timestep is 3.09125
+20: Timestep is 3.09125
+114: Timestep is 3.09125
+50: Timestep is 3.09125
+84: Timestep is 3.09125
+21: Timestep is 3.09125
+115: Timestep is 3.09125
+51: Timestep is 3.09125
+85: Timestep is 3.09125
+22: Timestep is 3.09125
+116: Timestep is 3.09125
+52: Timestep is 3.09125
+86: Timestep is 3.09125
+23: Timestep is 3.09125
+117: Timestep is 3.09125
+53: Timestep is 3.09125
+24: Timestep is 3.09125
+118: Timestep is 3.09125
+54: Timestep is 3.09125
+87: Timestep is 3.09125
+25: Timestep is 3.09125
+119: Timestep is 3.09125
+55: Timestep is 3.09125
+88: Timestep is 3.09125
+26: Timestep is 3.09125
+120: Timestep is 3.09125
+56: Timestep is 3.09125
+89: Timestep is 3.09125
+27: Timestep is 3.09125
+121: Timestep is 3.09125
+57: Timestep is 3.09125
+90: Timestep is 3.09125
+28: Timestep is 3.09125
+122: Timestep is 3.09125
+58: Timestep is 3.09125
+91: Timestep is 3.09125
+29: Timestep is 3.09125
+92: Timestep is 3.09125
+30: Timestep is 3.09125
+123: Timestep is 3.09125
+59: Timestep is 3.09125
+93: Timestep is 3.09125
+31: Timestep is 3.09125
+124: Timestep is 3.09125
+60: Timestep is 3.09125
+94: Timestep is 3.09125
+125: Timestep is 3.09125
+61: Timestep is 3.09125
+95: Timestep is 3.09125
+126: Timestep is 3.09125
+62: Timestep is 3.09125
+127: Timestep is 3.09125
+63: Timestep is 3.09125
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+energy derivative -0.5622724982 +/- 0.0002887737373
+energy derivative -0.9556576229 +/- 0.001212036011
+eigenvals (0.08906945605,0) (2.326691294,0) (1.50503765,0) 
+i 0 stab 8.879787774e-08 p0 0.9999998782 eigenval (0.08906945605,0)
+i 1 stab 8.879787774e-08 p0 0.2021253212 eigenval (2.326691294,0)
+i 2 stab 8.879787774e-08 p0 0.5816442058 eigenval (1.50503765,0)
+chose 0 eigenval 0.08906945605
+eigenvals (0.08906945599,0) (2.326691868,0) (1.505037664,0) 
+i 0 stab 4.439893887e-07 p0 0.9999998782 eigenval (0.08906945599,0)
+i 1 stab 4.439893887e-07 p0 0.2021252724 eigenval (2.326691868,0)
+i 2 stab 4.439893887e-07 p0 0.5816442001 eigenval (1.505037664,0)
+chose 0 eigenval 0.08906945599
+eigenvals (0.08906945569,0) (2.326694735,0) (1.505037732,0) 
+i 0 stab 2.219946943e-06 p0 0.9999998782 eigenval (0.08906945569,0)
+i 1 stab 2.219946943e-06 p0 0.2021250283 eigenval (2.326694735,0)
+i 2 stab 2.219946943e-06 p0 0.5816441714 eigenval (1.505037732,0)
+chose 0 eigenval 0.08906945569
+eigenvals (0.08906945421,0) (2.326709074,0) (1.505038074,0) 
+i 0 stab 1.109973472e-05 p0 0.9999998782 eigenval (0.08906945421,0)
+i 1 stab 1.109973472e-05 p0 0.2021238082 eigenval (2.326709074,0)
+i 2 stab 1.109973472e-05 p0 0.5816440282 eigenval (1.505038074,0)
+chose 0 eigenval 0.08906945421
+eigenvals (0.08906944681,0) (2.326780767,0) (1.505039783,0) 
+i 0 stab 5.549867359e-05 p0 0.9999998783 eigenval (0.08906944681,0)
+i 1 stab 5.549867359e-05 p0 0.2021177079 eigenval (2.326780767,0)
+i 2 stab 5.549867359e-05 p0 0.5816433121 eigenval (1.505039783,0)
+chose 0 eigenval 0.08906944681
+eigenvals (0.0890694098,0) (2.327139233,0) (1.50504833,0) 
+i 0 stab 0.0002774933679 p0 0.9999998783 eigenval (0.0890694098,0)
+i 1 stab 0.0002774933679 p0 0.2020872116 eigenval (2.327139233,0)
+i 2 stab 0.0002774933679 p0 0.5816397321 eigenval (1.50504833,0)
+chose 0 eigenval 0.0890694098
+eigenvals (0.08906922495,0) (2.328931562,0) (1.505091063,0) 
+i 0 stab 0.00138746684 p0 0.9999998785 eigenval (0.08906922495,0)
+i 1 stab 0.00138746684 p0 0.2019348608 eigenval (2.328931562,0)
+i 2 stab 0.00138746684 p0 0.5816218484 eigenval (1.505091063,0)
+chose 0 eigenval 0.08906922495
+eigenvals (0.08906830504,0) (2.33789321,0) (1.505304723,0) 
+i 0 stab 0.006937334198 p0 0.9999998794 eigenval (0.08906830504,0)
+i 1 stab 0.006937334198 p0 0.2011763581 eigenval (2.33789321,0)
+i 2 stab 0.006937334198 p0 0.5815328223 eigenval (1.505304723,0)
+chose 0 eigenval 0.08906830504
+eigenvals (0.08906381265,0) (2.382701478,0) (1.506372886,0) 
+i 0 stab 0.03468667099 p0 0.9999998841 eigenval (0.08906381265,0)
+i 1 stab 0.03468667099 p0 0.1974635841 eigenval (2.382701478,0)
+i 2 stab 0.03468667099 p0 0.5810969254 eigenval (1.506372886,0)
+chose 0 eigenval 0.08906381265
+eigenvals (0.08904373324,0) (2.606743023,0) (1.511711114,0) 
+i 0 stab 0.173433355 p0 0.9999999036 eigenval (0.08904373324,0)
+i 1 stab 0.173433355 p0 0.1807109827 eigenval (2.606743023,0)
+i 2 stab 0.173433355 p0 0.5790929364 eigenval (1.511711114,0)
+chose 0 eigenval 0.08904373324
+eigenvals (0.08898016132,0) (3.726938516,0) (1.538377663,0) 
+64: Timestep is 1.71296875
+i 0 stab 0.8671667748 p0 0.9999999534 eigenval (0.08898016132,0)
+i 1 stab 0.8671667748 p0 0.1264566824 eigenval (3.726938516,0)
+i 2 stab 0.8671667748 p0 0.570816213 eigenval (1.538377663,0)
+chose 0 eigenval 0.08898016132
+96: Timestep is 1.71296875
+32: Timestep is 1.71296875
+65: Timestep is 1.71296875
+eigenvals (0.08889112693,0) (9.327757863,0) (1.671639698,0) 
+97: Timestep is 1.71296875
+33: Timestep is 1.71296875
+66: Timestep is 1.71296875
+i 0 stab 4.335833874 p0 0.9999999922 eigenval (0.08889112693,0)
+i 2 stab 4.335833874 p0 0.5362469269 eigenval (1.671639698,0)
+chose 0 eigenval 0.08889112693
+67: Timestep is 1.71296875
+eigenvals (0.08883817439,0) (37.33152354,0) (2.337888716,0) 
+i 0 stab 21.67916937 p0 0.9999999992 eigenval (0.08883817439,0)
+98: Timestep is 1.71296875
+34: Timestep is 1.71296875
+68: Timestep is 1.71296875
+i 2 stab 21.67916937 p0 0.4079469991 eigenval (2.337888716,0)
+chose 0 eigenval 0.08883817439
+99: Timestep is 1.71296875
+35: Timestep is 1.71296875
+69: Timestep is 1.71296875
+eigenvals (0.08881145859,0) (177.3501713,0) (5.669076319,0) 
+i 0 stab 108.3958469 p0 0.9999999999 eigenval (0.08881145859,0)
+i 2 stab 108.3958469 p0 0.1772101876 eigenval (5.669076319,0)
+chose 0 eigenval 0.08881145859
+100: Timestep is 1.71296875
+36: Timestep is 1.71296875
+70: Timestep is 1.71296875
+eigenvals (0.08880114422,0) (877.4433622,0) (22.32493929,0) 
+101: Timestep is 1.71296875
+37: Timestep is 1.71296875
+71: Timestep is 1.71296875
+i 0 stab 541.9792343 p0 1 eigenval (0.08880114422,0)
+chose 0 eigenval 0.08880114422
+102: Timestep is 1.71296875
+38: Timestep is 1.71296875
+72: Timestep is 1.71296875
+eigenvals (0.08906945605,0) (2.326691294,0) (1.50503765,0) 
+i 0 stab 8.879787774e-08 p0 0.9999998782 eigenval (0.08906945605,0)
+i 1 stab 8.879787774e-08 p0 0.2021253212 eigenval (2.326691294,0)
+103: Timestep is 1.71296875
+39: Timestep is 1.71296875
+73: Timestep is 1.71296875
+i 2 stab 8.879787774e-08 p0 0.5816442058 eigenval (1.50503765,0)
+chose 0 eigenval 0.08906945605
+104: Timestep is 1.71296875
+40: Timestep is 1.71296875
+74: Timestep is 1.71296875
+eigenvals (0.08906945599,0) (2.326691868,0) (1.505037664,0) 
+i 0 stab 4.439893887e-07 p0 0.9999998782 eigenval (0.08906945599,0)
+i 1 stab 4.439893887e-07 p0 0.2021252724 eigenval (2.326691868,0)
+105: Timestep is 1.71296875
+41: Timestep is 1.71296875
+75: Timestep is 1.71296875
+i 2 stab 4.439893887e-07 p0 0.5816442001 eigenval (1.505037664,0)
+chose 0 eigenval 0.08906945599
+106: Timestep is 1.71296875
+42: Timestep is 1.71296875
+76: Timestep is 1.71296875
+eigenvals (0.08906945569,0) (2.326694735,0) (1.505037732,0) 
+i 0 stab 2.219946943e-06 p0 0.9999998782 eigenval (0.08906945569,0)
+i 1 stab 2.219946943e-06 p0 0.2021250283 eigenval (2.326694735,0)
+107: Timestep is 1.71296875
+43: Timestep is 1.71296875
+77: Timestep is 1.71296875
+i 2 stab 2.219946943e-06 p0 0.5816441714 eigenval (1.505037732,0)
+chose 0 eigenval 0.08906945569
+108: Timestep is 1.71296875
+44: Timestep is 1.71296875
+78: Timestep is 1.71296875
+eigenvals (0.08906945421,0) (2.326709074,0) (1.505038074,0) 
+i 0 stab 1.109973472e-05 p0 0.9999998782 eigenval (0.08906945421,0)
+i 1 stab 1.109973472e-05 p0 0.2021238082 eigenval (2.326709074,0)
+i 2 stab 1.109973472e-05 p0 0.5816440282 eigenval (1.505038074,0)
+109: Timestep is 1.71296875
+45: Timestep is 1.71296875
+chose 0 eigenval 0.08906945421
+110: Timestep is 1.71296875
+46: Timestep is 1.71296875
+79: Timestep is 1.71296875
+eigenvals (0.08906944681,0) (2.326780767,0) (1.505039783,0) 
+i 0 stab 5.549867359e-05 p0 0.9999998783 eigenval (0.08906944681,0)
+i 1 stab 5.549867359e-05 p0 0.2021177079 eigenval (2.326780767,0)
+i 2 stab 5.549867359e-05 p0 0.5816433121 eigenval (1.505039783,0)
+chose 0 eigenval 0.08906944681
+111: Timestep is 1.71296875
+47: Timestep is 1.71296875
+80: Timestep is 1.71296875
+eigenvals (0.0890694098,0) (2.327139233,0) (1.50504833,0) 
+81: Timestep is 1.71296875
+i 0 stab 0.0002774933679 p0 0.9999998783 eigenval (0.0890694098,0)
+i 1 stab 0.0002774933679 p0 0.2020872116 eigenval (2.327139233,0)
+i 2 stab 0.0002774933679 p0 0.5816397321 eigenval (1.50504833,0)
+112: Timestep is 1.71296875
+48: Timestep is 1.71296875
+82: Timestep is 1.71296875
+chose 0 eigenval 0.0890694098
+eigenvals (0.08906922495,0) (2.328931562,0) (1.505091063,0) 
+113: Timestep is 1.71296875
+49: Timestep is 1.71296875
+83: Timestep is 1.71296875
+i 0 stab 0.00138746684 p0 0.9999998785 eigenval (0.08906922495,0)
+i 1 stab 0.00138746684 p0 0.2019348608 eigenval (2.328931562,0)
+i 2 stab 0.00138746684 p0 0.5816218484 eigenval (1.505091063,0)
+chose 0 eigenval 0.08906922495
+114: Timestep is 1.71296875
+50: Timestep is 1.71296875
+84: Timestep is 1.71296875
+eigenvals (0.08906830504,0) (2.33789321,0) (1.505304723,0) 
+i 0 stab 0.006937334198 p0 0.9999998794 eigenval (0.08906830504,0)
+i 1 stab 0.006937334198 p0 0.2011763581 eigenval (2.33789321,0)
+115: Timestep is 1.71296875
+51: Timestep is 1.71296875
+85: Timestep is 1.71296875
+i 2 stab 0.006937334198 p0 0.5815328223 eigenval (1.505304723,0)
+chose 0 eigenval 0.08906830504
+116: Timestep is 1.71296875
+52: Timestep is 1.71296875
+86: Timestep is 1.71296875
+eigenvals (0.08906381265,0) (2.382701478,0) (1.506372886,0) 
+i 0 stab 0.03468667099 p0 0.9999998841 eigenval (0.08906381265,0)
+i 1 stab 0.03468667099 p0 0.1974635841 eigenval (2.382701478,0)
+117: Timestep is 1.71296875
+53: Timestep is 1.71296875
+87: Timestep is 1.71296875
+i 2 stab 0.03468667099 p0 0.5810969254 eigenval (1.506372886,0)
+chose 0 eigenval 0.08906381265
+118: Timestep is 1.71296875
+54: Timestep is 1.71296875
+88: Timestep is 1.71296875
+eigenvals (0.08904373324,0) (2.606743023,0) (1.511711114,0) 
+i 0 stab 0.173433355 p0 0.9999999036 eigenval (0.08904373324,0)
+i 1 stab 0.173433355 p0 0.1807109827 eigenval (2.606743023,0)
+119: Timestep is 1.71296875
+55: Timestep is 1.71296875
+89: Timestep is 1.71296875
+i 2 stab 0.173433355 p0 0.5790929364 eigenval (1.511711114,0)
+chose 0 eigenval 0.08904373324
+120: Timestep is 1.71296875
+56: Timestep is 1.71296875
+90: Timestep is 1.71296875
+eigenvals (0.08898016132,0) (3.726938516,0) (1.538377663,0) 
+i 0 stab 0.8671667748 p0 0.9999999534 eigenval (0.08898016132,0)
+i 1 stab 0.8671667748 p0 0.1264566824 eigenval (3.726938516,0)
+121: Timestep is 1.71296875
+57: Timestep is 1.71296875
+91: Timestep is 1.71296875
+i 2 stab 0.8671667748 p0 0.570816213 eigenval (1.538377663,0)
+chose 0 eigenval 0.08898016132
+122: Timestep is 1.71296875
+58: Timestep is 1.71296875
+92: Timestep is 1.71296875
+eigenvals (0.08889112693,0) (9.327757863,0) (1.671639698,0) 
+i 0 stab 4.335833874 p0 0.9999999922 eigenval (0.08889112693,0)
+i 2 stab 4.335833874 p0 0.5362469269 eigenval (1.671639698,0)
+chose 0 eigenval 0.08889112693
+123: Timestep is 1.71296875
+59: Timestep is 1.71296875
+93: Timestep is 1.71296875
+eigenvals (0.08883817439,0) (37.33152354,0) (2.337888716,0) 
+i 0 stab 21.67916937 p0 0.9999999992 eigenval (0.08883817439,0)
+124: Timestep is 1.71296875
+60: Timestep is 1.71296875
+94: Timestep is 1.71296875
+i 2 stab 21.67916937 p0 0.4079469991 eigenval (2.337888716,0)
+chose 0 eigenval 0.08883817439
+125: Timestep is 1.71296875
+61: Timestep is 1.71296875
+95: Timestep is 1.71296875
+eigenvals (0.08881145859,0) (177.3501713,0) (5.669076319,0) 
+i 0 stab 108.3958469 p0 0.9999999999 eigenval (0.08881145859,0)
+i 2 stab 108.3958469 p0 0.1772101876 eigenval (5.669076319,0)
+chose 0 eigenval 0.08881145859
+126: Timestep is 1.71296875
+62: Timestep is 1.71296875
+eigenvals (0.08880114422,0) (877.4433622,0) (22.32493929,0) 
+127: Timestep is 1.71296875
+63: Timestep is 1.71296875
+i 0 stab 541.9792343 p0 1 eigenval (0.08880114422,0)
+chose 0 eigenval 0.08880114422
+0: Timestep is 1.71296875
+1: Timestep is 1.71296875
+2: Timestep is 1.71296875
+3: Timestep is 1.71296875
+4: Timestep is 1.71296875
+5: Timestep is 1.71296875
+6: Timestep is 1.71296875
+7: Timestep is 1.71296875
+8: Timestep is 1.71296875
+9: Timestep is 1.71296875
+10: Timestep is 1.71296875
+11: Timestep is 1.71296875
+12: Timestep is 1.71296875
+13: Timestep is 1.71296875
+14: Timestep is 1.71296875
+15: Timestep is 1.71296875
+16: Timestep is 1.71296875
+17: Timestep is 1.71296875
+18: Timestep is 1.71296875
+19: Timestep is 1.71296875
+20: Timestep is 1.71296875
+21: Timestep is 1.71296875
+22: Timestep is 1.71296875
+23: Timestep is 1.71296875
+24: Timestep is 1.71296875
+25: Timestep is 1.71296875
+26: Timestep is 1.71296875
+27: Timestep is 1.71296875
+28: Timestep is 1.71296875
+29: Timestep is 1.71296875
+30: Timestep is 1.71296875
+31: Timestep is 1.71296875
+fitting to 5.275920312e-07 541.9792343
+fitting to 2.104052418e-06 108.3958469
+fitting to 5.216713924e-06 21.67916937
+fitting to 7.325438533e-06 4.335833874
+fitting to 7.832076892e-06 0.8671667748
+fit r2 0.9719358419 curvature 8.741347431e-11
+eigenvals (0.08880288364,0) (556.5406778,0) (14.69037064,0) 
+i 0 stab 343.2370167 p0 1 eigenval (0.08880288364,0)
+chose 0 eigenval 0.08880288364
+64: Timestep is 1.7246875
+0: Timestep is 1.7246875
+96: Timestep is 1.7246875
+65: Timestep is 1.7246875
+1: Timestep is 1.7246875
+66: Timestep is 1.7246875
+2: Timestep is 1.7246875
+97: Timestep is 1.7246875
+32: Timestep is 1.7246875
+67: Timestep is 1.7246875
+3: Timestep is 1.7246875
+98: Timestep is 1.7246875
+68: Timestep is 1.7246875
+4: Timestep is 1.7246875
+33: Timestep is 1.7246875
+69: Timestep is 1.7246875
+5: Timestep is 1.7246875
+99: Timestep is 1.7246875
+34: Timestep is 1.7246875
+70: Timestep is 1.7246875
+6: Timestep is 1.7246875
+100: Timestep is 1.7246875
+35: Timestep is 1.7246875
+71: Timestep is 1.7246875
+7: Timestep is 1.7246875
+101: Timestep is 1.7246875
+36: Timestep is 1.7246875
+72: Timestep is 1.7246875
+8: Timestep is 1.7246875
+102: Timestep is 1.7246875
+37: Timestep is 1.7246875
+73: Timestep is 1.7246875
+9: Timestep is 1.7246875
+103: Timestep is 1.7246875
+38: Timestep is 1.7246875
+74: Timestep is 1.7246875
+10: Timestep is 1.7246875
+104: Timestep is 1.7246875
+75: Timestep is 1.7246875
+11: Timestep is 1.7246875
+105: Timestep is 1.7246875
+39: Timestep is 1.7246875
+76: Timestep is 1.7246875
+12: Timestep is 1.7246875
+106: Timestep is 1.7246875
+40: Timestep is 1.7246875
+77: Timestep is 1.7246875
+13: Timestep is 1.7246875
+107: Timestep is 1.7246875
+41: Timestep is 1.7246875
+78: Timestep is 1.7246875
+14: Timestep is 1.7246875
+108: Timestep is 1.7246875
+42: Timestep is 1.7246875
+79: Timestep is 1.7246875
+15: Timestep is 1.7246875
+43: Timestep is 1.7246875
+80: Timestep is 1.7246875
+16: Timestep is 1.7246875
+109: Timestep is 1.7246875
+44: Timestep is 1.7246875
+81: Timestep is 1.7246875
+17: Timestep is 1.7246875
+110: Timestep is 1.7246875
+45: Timestep is 1.7246875
+82: Timestep is 1.7246875
+18: Timestep is 1.7246875
+111: Timestep is 1.7246875
+46: Timestep is 1.7246875
+83: Timestep is 1.7246875
+19: Timestep is 1.7246875
+112: Timestep is 1.7246875
+47: Timestep is 1.7246875
+84: Timestep is 1.7246875
+20: Timestep is 1.7246875
+113: Timestep is 1.7246875
+48: Timestep is 1.7246875
+85: Timestep is 1.7246875
+21: Timestep is 1.7246875
+114: Timestep is 1.7246875
+49: Timestep is 1.7246875
+86: Timestep is 1.7246875
+22: Timestep is 1.7246875
+115: Timestep is 1.7246875
+50: Timestep is 1.7246875
+87: Timestep is 1.7246875
+23: Timestep is 1.7246875
+116: Timestep is 1.7246875
+51: Timestep is 1.7246875
+88: Timestep is 1.7246875
+24: Timestep is 1.7246875
+117: Timestep is 1.7246875
+52: Timestep is 1.7246875
+89: Timestep is 1.7246875
+25: Timestep is 1.7246875
+118: Timestep is 1.7246875
+53: Timestep is 1.7246875
+90: Timestep is 1.7246875
+26: Timestep is 1.7246875
+119: Timestep is 1.7246875
+54: Timestep is 1.7246875
+91: Timestep is 1.7246875
+27: Timestep is 1.7246875
+120: Timestep is 1.7246875
+55: Timestep is 1.7246875
+92: Timestep is 1.7246875
+28: Timestep is 1.7246875
+121: Timestep is 1.7246875
+56: Timestep is 1.7246875
+93: Timestep is 1.7246875
+29: Timestep is 1.7246875
+122: Timestep is 1.7246875
+57: Timestep is 1.7246875
+94: Timestep is 1.7246875
+30: Timestep is 1.7246875
+123: Timestep is 1.7246875
+58: Timestep is 1.7246875
+95: Timestep is 1.7246875
+31: Timestep is 1.7246875
+124: Timestep is 1.7246875
+59: Timestep is 1.7246875
+125: Timestep is 1.7246875
+60: Timestep is 1.7246875
+126: Timestep is 1.7246875
+61: Timestep is 1.7246875
+127: Timestep is 1.7246875
+62: Timestep is 1.7246875
+63: Timestep is 1.7246875
+Read took 0 seconds
+64: Timestep is 3.09765625
+0: Timestep is 3.09765625
+96: Timestep is 3.09765625
+32: Timestep is 3.09765625
+65: Timestep is 3.09765625
+1: Timestep is 3.09765625
+66: Timestep is 3.09765625
+2: Timestep is 3.09765625
+97: Timestep is 3.09765625
+33: Timestep is 3.09765625
+67: Timestep is 3.09765625
+3: Timestep is 3.09765625
+98: Timestep is 3.09765625
+68: Timestep is 3.09765625
+4: Timestep is 3.09765625
+34: Timestep is 3.09765625
+5: Timestep is 3.09765625
+99: Timestep is 3.09765625
+35: Timestep is 3.09765625
+69: Timestep is 3.09765625
+6: Timestep is 3.09765625
+100: Timestep is 3.09765625
+36: Timestep is 3.09765625
+70: Timestep is 3.09765625
+7: Timestep is 3.09765625
+101: Timestep is 3.09765625
+37: Timestep is 3.09765625
+71: Timestep is 3.09765625
+8: Timestep is 3.09765625
+102: Timestep is 3.09765625
+38: Timestep is 3.09765625
+72: Timestep is 3.09765625
+9: Timestep is 3.09765625
+103: Timestep is 3.09765625
+39: Timestep is 3.09765625
+73: Timestep is 3.09765625
+10: Timestep is 3.09765625
+104: Timestep is 3.09765625
+40: Timestep is 3.09765625
+74: Timestep is 3.09765625
+11: Timestep is 3.09765625
+105: Timestep is 3.09765625
+41: Timestep is 3.09765625
+75: Timestep is 3.09765625
+12: Timestep is 3.09765625
+106: Timestep is 3.09765625
+76: Timestep is 3.09765625
+13: Timestep is 3.09765625
+107: Timestep is 3.09765625
+42: Timestep is 3.09765625
+77: Timestep is 3.09765625
+14: Timestep is 3.09765625
+108: Timestep is 3.09765625
+43: Timestep is 3.09765625
+78: Timestep is 3.09765625
+15: Timestep is 3.09765625
+109: Timestep is 3.09765625
+44: Timestep is 3.09765625
+79: Timestep is 3.09765625
+16: Timestep is 3.09765625
+45: Timestep is 3.09765625
+80: Timestep is 3.09765625
+17: Timestep is 3.09765625
+110: Timestep is 3.09765625
+46: Timestep is 3.09765625
+81: Timestep is 3.09765625
+18: Timestep is 3.09765625
+111: Timestep is 3.09765625
+47: Timestep is 3.09765625
+82: Timestep is 3.09765625
+19: Timestep is 3.09765625
+112: Timestep is 3.09765625
+48: Timestep is 3.09765625
+83: Timestep is 3.09765625
+20: Timestep is 3.09765625
+113: Timestep is 3.09765625
+49: Timestep is 3.09765625
+84: Timestep is 3.09765625
+21: Timestep is 3.09765625
+114: Timestep is 3.09765625
+50: Timestep is 3.09765625
+85: Timestep is 3.09765625
+22: Timestep is 3.09765625
+115: Timestep is 3.09765625
+51: Timestep is 3.09765625
+86: Timestep is 3.09765625
+23: Timestep is 3.09765625
+116: Timestep is 3.09765625
+52: Timestep is 3.09765625
+87: Timestep is 3.09765625
+24: Timestep is 3.09765625
+117: Timestep is 3.09765625
+53: Timestep is 3.09765625
+88: Timestep is 3.09765625
+25: Timestep is 3.09765625
+118: Timestep is 3.09765625
+54: Timestep is 3.09765625
+89: Timestep is 3.09765625
+26: Timestep is 3.09765625
+119: Timestep is 3.09765625
+55: Timestep is 3.09765625
+90: Timestep is 3.09765625
+27: Timestep is 3.09765625
+120: Timestep is 3.09765625
+56: Timestep is 3.09765625
+91: Timestep is 3.09765625
+28: Timestep is 3.09765625
+121: Timestep is 3.09765625
+57: Timestep is 3.09765625
+92: Timestep is 3.09765625
+29: Timestep is 3.09765625
+122: Timestep is 3.09765625
+58: Timestep is 3.09765625
+93: Timestep is 3.09765625
+30: Timestep is 3.09765625
+123: Timestep is 3.09765625
+59: Timestep is 3.09765625
+94: Timestep is 3.09765625
+31: Timestep is 3.09765625
+124: Timestep is 3.09765625
+60: Timestep is 3.09765625
+95: Timestep is 3.09765625
+125: Timestep is 3.09765625
+61: Timestep is 3.09765625
+126: Timestep is 3.09765625
+62: Timestep is 3.09765625
+127: Timestep is 3.09765625
+63: Timestep is 3.09765625
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+energy derivative -0.5622056493 +/- 0.0002802129528
+energy derivative -0.9566586997 +/- 0.00127657302
+eigenvals (0.08917740397,0) (2.326187616,0) (1.505155171,0) 
+i 0 stab 8.883371582e-08 p0 0.9999998049 eigenval (0.08917740397,0)
+i 1 stab 8.883371582e-08 p0 0.2020302569 eigenval (2.326187616,0)
+i 2 stab 8.883371582e-08 p0 0.5818792413 eigenval (1.505155171,0)
+chose 0 eigenval 0.08917740397
+eigenvals (0.08917740389,0) (2.326188189,0) (1.505155184,0) 
+i 0 stab 4.441685791e-07 p0 0.9999998049 eigenval (0.08917740389,0)
+i 1 stab 4.441685791e-07 p0 0.2020302081 eigenval (2.326188189,0)
+i 2 stab 4.441685791e-07 p0 0.5818792356 eigenval (1.505155184,0)
+chose 0 eigenval 0.08917740389
+eigenvals (0.08917740352,0) (2.326191057,0) (1.505155253,0) 
+i 0 stab 2.220842895e-06 p0 0.9999998049 eigenval (0.08917740352,0)
+i 1 stab 2.220842895e-06 p0 0.2020299642 eigenval (2.326191057,0)
+i 2 stab 2.220842895e-06 p0 0.5818792068 eigenval (1.505155253,0)
+chose 0 eigenval 0.08917740352
+eigenvals (0.08917740164,0) (2.326205396,0) (1.505155595,0) 
+i 0 stab 1.110421448e-05 p0 0.9999998049 eigenval (0.08917740164,0)
+i 1 stab 1.110421448e-05 p0 0.2020287444 eigenval (2.326205396,0)
+i 2 stab 1.110421448e-05 p0 0.5818790628 eigenval (1.505155595,0)
+chose 0 eigenval 0.08917740164
+eigenvals (0.08917739228,0) (2.326277092,0) (1.505157306,0) 
+i 0 stab 5.552107239e-05 p0 0.9999998049 eigenval (0.08917739228,0)
+i 1 stab 5.552107239e-05 p0 0.2020226458 eigenval (2.326277092,0)
+i 2 stab 5.552107239e-05 p0 0.5818783428 eigenval (1.505157306,0)
+chose 0 eigenval 0.08917739228
+eigenvals (0.08917734544,0) (2.326635569,0) (1.505165859,0) 
+i 0 stab 0.0002776053619 p0 0.9999998049 eigenval (0.08917734544,0)
+i 1 stab 0.0002776053619 p0 0.201992158 eigenval (2.326635569,0)
+i 2 stab 0.0002776053619 p0 0.5818747436 eigenval (1.505165859,0)
+chose 0 eigenval 0.08917734544
+eigenvals (0.0891771115,0) (2.328427957,0) (1.505208628,0) 
+i 0 stab 0.00138802681 p0 0.9999998052 eigenval (0.0891771115,0)
+i 1 stab 0.00138802681 p0 0.2018398495 eigenval (2.328427957,0)
+i 2 stab 0.00138802681 p0 0.5818567637 eigenval (1.505208628,0)
+chose 0 eigenval 0.0891771115
+eigenvals (0.08917594735,0) (2.337389898,0) (1.505422467,0) 
+i 0 stab 0.006940134048 p0 0.9999998068 eigenval (0.08917594735,0)
+i 1 stab 0.006940134048 p0 0.2010815578 eigenval (2.337389898,0)
+i 2 stab 0.006940134048 p0 0.5817672624 eigenval (1.505422467,0)
+chose 0 eigenval 0.08917594735
+eigenvals (0.08917026218,0) (2.382199607,0) (1.50649152,0) 
+i 0 stab 0.03470067024 p0 0.9999998142 eigenval (0.08917026218,0)
+i 1 stab 0.03470067024 p0 0.1973698154 eigenval (2.382199607,0)
+i 2 stab 0.03470067024 p0 0.5813291194 eigenval (1.50649152,0)
+chose 0 eigenval 0.08917026218
+eigenvals (0.08914485225,0) (2.606247776,0) (1.511834146,0) 
+i 0 stab 0.1735033512 p0 0.9999998456 eigenval (0.08914485225,0)
+i 1 stab 0.1735033512 p0 0.1806219601 eigenval (2.606247776,0)
+i 2 stab 0.1735033512 p0 0.5793163476 eigenval (1.511834146,0)
+chose 0 eigenval 0.08914485225
+eigenvals (0.0890644114,0) (3.726467115,0) (1.538522174,0) 
+i 0 stab 0.867516756 p0 0.9999999254 eigenval (0.0890644114,0)
+i 1 stab 0.867516756 p0 0.1263862921 eigenval (3.726467115,0)
+i 2 stab 0.867516756 p0 0.5710189837 eigenval (1.538522174,0)
+chose 0 eigenval 0.0890644114
+eigenvals (0.08895176352,0) (9.327346466,0) (1.6718901,0) 
+i 0 stab 4.33758378 p0 0.9999999875 eigenval (0.08895176352,0)
+i 2 stab 4.33758378 p0 0.5364143058 eigenval (1.6718901,0)
+chose 0 eigenval 0.08895176352
+eigenvals (0.08888474806,0) (37.33131087,0) (2.338665859,0) 
+i 0 stab 21.6879189 p0 0.9999999987 eigenval (0.08888474806,0)
+i 2 stab 21.6879189 p0 0.4080271579 eigenval (2.338665859,0)
+chose 0 eigenval 0.08888474806
+eigenvals (0.08885091525,0) (177.3509002,0) (5.672476105,0) 
+i 0 stab 108.4395945 p0 0.9999999999 eigenval (0.08885091525,0)
+i 2 stab 108.4395945 p0 0.17720354 eigenval (5.672476105,0)
+chose 0 eigenval 0.08885091525
+eigenvals (0.08883785241,0) (877.4487848,0) (22.3414332,0) 
+i 0 stab 542.1979725 p0 1 eigenval (0.08883785241,0)
+chose 0 eigenval 0.08883785241
+eigenvals (0.08917740397,0) (2.326187616,0) (1.505155171,0) 
+i 0 stab 8.883371582e-08 p0 0.9999998049 eigenval (0.08917740397,0)
+i 1 stab 8.883371582e-08 p0 0.2020302569 eigenval (2.326187616,0)
+i 2 stab 8.883371582e-08 p0 0.5818792413 eigenval (1.505155171,0)
+chose 0 eigenval 0.08917740397
+64: Timestep is 1.71125
+eigenvals (0.08917740389,0) (2.326188189,0) (1.505155184,0) 
+i 0 stab 4.441685791e-07 p0 0.9999998049 eigenval (0.08917740389,0)
+96: Timestep is 1.71125
+65: Timestep is 1.71125
+i 1 stab 4.441685791e-07 p0 0.2020302081 eigenval (2.326188189,0)
+i 2 stab 4.441685791e-07 p0 0.5818792356 eigenval (1.505155184,0)
+chose 0 eigenval 0.08917740389
+97: Timestep is 1.71125
+32: Timestep is 1.71125
+66: Timestep is 1.71125
+eigenvals (0.08917740352,0) (2.326191057,0) (1.505155253,0) 
+i 0 stab 2.220842895e-06 p0 0.9999998049 eigenval (0.08917740352,0)
+33: Timestep is 1.71125
+67: Timestep is 1.71125
+i 1 stab 2.220842895e-06 p0 0.2020299642 eigenval (2.326191057,0)
+i 2 stab 2.220842895e-06 p0 0.5818792068 eigenval (1.505155253,0)
+chose 0 eigenval 0.08917740352
+98: Timestep is 1.71125
+68: Timestep is 1.71125
+eigenvals (0.08917740164,0) (2.326205396,0) (1.505155595,0) 
+i 0 stab 1.110421448e-05 p0 0.9999998049 eigenval (0.08917740164,0)
+i 1 stab 1.110421448e-05 p0 0.2020287444 eigenval (2.326205396,0)
+99: Timestep is 1.71125
+34: Timestep is 1.71125
+69: Timestep is 1.71125
+i 2 stab 1.110421448e-05 p0 0.5818790628 eigenval (1.505155595,0)
+chose 0 eigenval 0.08917740164
+100: Timestep is 1.71125
+35: Timestep is 1.71125
+70: Timestep is 1.71125
+eigenvals (0.08917739228,0) (2.326277092,0) (1.505157306,0) 
+i 0 stab 5.552107239e-05 p0 0.9999998049 eigenval (0.08917739228,0)
+i 1 stab 5.552107239e-05 p0 0.2020226458 eigenval (2.326277092,0)
+101: Timestep is 1.71125
+36: Timestep is 1.71125
+71: Timestep is 1.71125
+i 2 stab 5.552107239e-05 p0 0.5818783428 eigenval (1.505157306,0)
+chose 0 eigenval 0.08917739228
+eigenvals (0.08917734544,0) (2.326635569,0) (1.505165859,0) 
+102: Timestep is 1.71125
+37: Timestep is 1.71125
+72: Timestep is 1.71125
+i 0 stab 0.0002776053619 p0 0.9999998049 eigenval (0.08917734544,0)
+i 1 stab 0.0002776053619 p0 0.201992158 eigenval (2.326635569,0)
+i 2 stab 0.0002776053619 p0 0.5818747436 eigenval (1.505165859,0)
+chose 0 eigenval 0.08917734544
+103: Timestep is 1.71125
+38: Timestep is 1.71125
+73: Timestep is 1.71125
+eigenvals (0.0891771115,0) (2.328427957,0) (1.505208628,0) 
+104: Timestep is 1.71125
+39: Timestep is 1.71125
+74: Timestep is 1.71125
+i 0 stab 0.00138802681 p0 0.9999998052 eigenval (0.0891771115,0)
+i 1 stab 0.00138802681 p0 0.2018398495 eigenval (2.328427957,0)
+i 2 stab 0.00138802681 p0 0.5818567637 eigenval (1.505208628,0)
+chose 0 eigenval 0.0891771115
+105: Timestep is 1.71125
+40: Timestep is 1.71125
+75: Timestep is 1.71125
+eigenvals (0.08917594735,0) (2.337389898,0) (1.505422467,0) 
+i 0 stab 0.006940134048 p0 0.9999998068 eigenval (0.08917594735,0)
+106: Timestep is 1.71125
+41: Timestep is 1.71125
+76: Timestep is 1.71125
+i 1 stab 0.006940134048 p0 0.2010815578 eigenval (2.337389898,0)
+i 2 stab 0.006940134048 p0 0.5817672624 eigenval (1.505422467,0)
+chose 0 eigenval 0.08917594735
+107: Timestep is 1.71125
+42: Timestep is 1.71125
+77: Timestep is 1.71125
+eigenvals (0.08917026218,0) (2.382199607,0) (1.50649152,0) 
+i 0 stab 0.03470067024 p0 0.9999998142 eigenval (0.08917026218,0)
+i 1 stab 0.03470067024 p0 0.1973698154 eigenval (2.382199607,0)
+108: Timestep is 1.71125
+43: Timestep is 1.71125
+78: Timestep is 1.71125
+i 2 stab 0.03470067024 p0 0.5813291194 eigenval (1.50649152,0)
+chose 0 eigenval 0.08917026218
+109: Timestep is 1.71125
+44: Timestep is 1.71125
+eigenvals (0.08914485225,0) (2.606247776,0) (1.511834146,0) 
+i 0 stab 0.1735033512 p0 0.9999998456 eigenval (0.08914485225,0)
+i 1 stab 0.1735033512 p0 0.1806219601 eigenval (2.606247776,0)
+i 2 stab 0.1735033512 p0 0.5793163476 eigenval (1.511834146,0)
+110: Timestep is 1.71125
+45: Timestep is 1.71125
+79: Timestep is 1.71125
+chose 0 eigenval 0.08914485225
+46: Timestep is 1.71125
+80: Timestep is 1.71125
+eigenvals (0.0890644114,0) (3.726467115,0) (1.538522174,0) 
+i 0 stab 0.867516756 p0 0.9999999254 eigenval (0.0890644114,0)
+i 1 stab 0.867516756 p0 0.1263862921 eigenval (3.726467115,0)
+i 2 stab 0.867516756 p0 0.5710189837 eigenval (1.538522174,0)
+chose 0 eigenval 0.0890644114
+111: Timestep is 1.71125
+47: Timestep is 1.71125
+81: Timestep is 1.71125
+eigenvals (0.08895176352,0) (9.327346466,0) (1.6718901,0) 
+112: Timestep is 1.71125
+48: Timestep is 1.71125
+82: Timestep is 1.71125
+i 0 stab 4.33758378 p0 0.9999999875 eigenval (0.08895176352,0)
+i 2 stab 4.33758378 p0 0.5364143058 eigenval (1.6718901,0)
+chose 0 eigenval 0.08895176352
+113: Timestep is 1.71125
+49: Timestep is 1.71125
+83: Timestep is 1.71125
+eigenvals (0.08888474806,0) (37.33131087,0) (2.338665859,0) 
+i 0 stab 21.6879189 p0 0.9999999987 eigenval (0.08888474806,0)
+i 2 stab 21.6879189 p0 0.4080271579 eigenval (2.338665859,0)
+114: Timestep is 1.71125
+50: Timestep is 1.71125
+84: Timestep is 1.71125
+chose 0 eigenval 0.08888474806
+115: Timestep is 1.71125
+85: Timestep is 1.71125
+eigenvals (0.08885091525,0) (177.3509002,0) (5.672476105,0) 
+i 0 stab 108.4395945 p0 0.9999999999 eigenval (0.08885091525,0)
+i 2 stab 108.4395945 p0 0.17720354 eigenval (5.672476105,0)
+chose 0 eigenval 0.08885091525
+116: Timestep is 1.71125
+51: Timestep is 1.71125
+86: Timestep is 1.71125
+eigenvals (0.08883785241,0) (877.4487848,0) (22.3414332,0) 
+117: Timestep is 1.71125
+52: Timestep is 1.71125
+87: Timestep is 1.71125
+i 0 stab 542.1979725 p0 1 eigenval (0.08883785241,0)
+chose 0 eigenval 0.08883785241
+118: Timestep is 1.71125
+53: Timestep is 1.71125
+88: Timestep is 1.71125
+0: Timestep is 1.71125
+119: Timestep is 1.71125
+54: Timestep is 1.71125
+89: Timestep is 1.71125
+1: Timestep is 1.71125
+120: Timestep is 1.71125
+55: Timestep is 1.71125
+90: Timestep is 1.71125
+2: Timestep is 1.71125
+121: Timestep is 1.71125
+56: Timestep is 1.71125
+91: Timestep is 1.71125
+3: Timestep is 1.71125
+122: Timestep is 1.71125
+57: Timestep is 1.71125
+92: Timestep is 1.71125
+4: Timestep is 1.71125
+123: Timestep is 1.71125
+58: Timestep is 1.71125
+93: Timestep is 1.71125
+5: Timestep is 1.71125
+124: Timestep is 1.71125
+59: Timestep is 1.71125
+94: Timestep is 1.71125
+6: Timestep is 1.71125
+125: Timestep is 1.71125
+60: Timestep is 1.71125
+95: Timestep is 1.71125
+7: Timestep is 1.71125
+126: Timestep is 1.71125
+61: Timestep is 1.71125
+8: Timestep is 1.71125
+127: Timestep is 1.71125
+62: Timestep is 1.71125
+9: Timestep is 1.71125
+63: Timestep is 1.71125
+10: Timestep is 1.71125
+11: Timestep is 1.71125
+12: Timestep is 1.71125
+13: Timestep is 1.71125
+14: Timestep is 1.71125
+15: Timestep is 1.71125
+16: Timestep is 1.71125
+17: Timestep is 1.71125
+18: Timestep is 1.71125
+19: Timestep is 1.71125
+20: Timestep is 1.71125
+21: Timestep is 1.71125
+22: Timestep is 1.71125
+23: Timestep is 1.71125
+24: Timestep is 1.71125
+25: Timestep is 1.71125
+26: Timestep is 1.71125
+27: Timestep is 1.71125
+28: Timestep is 1.71125
+29: Timestep is 1.71125
+30: Timestep is 1.71125
+31: Timestep is 1.71125
+fitting to -6.100364657e-06 4.33758378
+fitting to -5.395136709e-06 21.6879189
+fitting to -3.099709841e-06 0.867516756
+fitting to -2.297431096e-06 108.4395945
+fitting to -5.838710739e-07 542.1979725
+fit r2 0.7087847779 curvature -3.312494619e-11
+eigenvals (0.08895176352,0) (9.327346466,0) (1.6718901,0) 
+i 0 stab 4.33758378 p0 0.9999999875 eigenval (0.08895176352,0)
+i 2 stab 4.33758378 p0 0.5364143058 eigenval (1.6718901,0)
+chose 0 eigenval 0.08895176352
+0: Timestep is 1.72
+64: Timestep is 1.72
+96: Timestep is 1.72
+32: Timestep is 1.72
+1: Timestep is 1.72
+65: Timestep is 1.72
+2: Timestep is 1.72
+97: Timestep is 1.72
+33: Timestep is 1.72
+66: Timestep is 1.72
+3: Timestep is 1.72
+98: Timestep is 1.72
+34: Timestep is 1.72
+67: Timestep is 1.72
+4: Timestep is 1.72
+99: Timestep is 1.72
+35: Timestep is 1.72
+68: Timestep is 1.72
+5: Timestep is 1.72
+100: Timestep is 1.72
+36: Timestep is 1.72
+69: Timestep is 1.72
+6: Timestep is 1.72
+70: Timestep is 1.72
+7: Timestep is 1.72
+101: Timestep is 1.72
+37: Timestep is 1.72
+71: Timestep is 1.72
+8: Timestep is 1.72
+102: Timestep is 1.72
+38: Timestep is 1.72
+72: Timestep is 1.72
+9: Timestep is 1.72
+103: Timestep is 1.72
+39: Timestep is 1.72
+73: Timestep is 1.72
+10: Timestep is 1.72
+104: Timestep is 1.72
+40: Timestep is 1.72
+74: Timestep is 1.72
+11: Timestep is 1.72
+105: Timestep is 1.72
+41: Timestep is 1.72
+75: Timestep is 1.72
+12: Timestep is 1.72
+106: Timestep is 1.72
+42: Timestep is 1.72
+76: Timestep is 1.72
+13: Timestep is 1.72
+107: Timestep is 1.72
+43: Timestep is 1.72
+77: Timestep is 1.72
+14: Timestep is 1.72
+108: Timestep is 1.72
+44: Timestep is 1.72
+78: Timestep is 1.72
+15: Timestep is 1.72
+109: Timestep is 1.72
+45: Timestep is 1.72
+79: Timestep is 1.72
+16: Timestep is 1.72
+110: Timestep is 1.72
+46: Timestep is 1.72
+80: Timestep is 1.72
+17: Timestep is 1.72
+111: Timestep is 1.72
+47: Timestep is 1.72
+81: Timestep is 1.72
+18: Timestep is 1.72
+112: Timestep is 1.72
+48: Timestep is 1.72
+82: Timestep is 1.72
+19: Timestep is 1.72
+113: Timestep is 1.72
+49: Timestep is 1.72
+83: Timestep is 1.72
+20: Timestep is 1.72
+114: Timestep is 1.72
+50: Timestep is 1.72
+84: Timestep is 1.72
+21: Timestep is 1.72
+115: Timestep is 1.72
+51: Timestep is 1.72
+85: Timestep is 1.72
+22: Timestep is 1.72
+116: Timestep is 1.72
+52: Timestep is 1.72
+86: Timestep is 1.72
+23: Timestep is 1.72
+87: Timestep is 1.72
+24: Timestep is 1.72
+117: Timestep is 1.72
+53: Timestep is 1.72
+88: Timestep is 1.72
+25: Timestep is 1.72
+118: Timestep is 1.72
+54: Timestep is 1.72
+89: Timestep is 1.72
+26: Timestep is 1.72
+119: Timestep is 1.72
+55: Timestep is 1.72
+90: Timestep is 1.72
+27: Timestep is 1.72
+120: Timestep is 1.72
+56: Timestep is 1.72
+91: Timestep is 1.72
+28: Timestep is 1.72
+121: Timestep is 1.72
+57: Timestep is 1.72
+92: Timestep is 1.72
+29: Timestep is 1.72
+122: Timestep is 1.72
+58: Timestep is 1.72
+93: Timestep is 1.72
+30: Timestep is 1.72
+123: Timestep is 1.72
+59: Timestep is 1.72
+94: Timestep is 1.72
+31: Timestep is 1.72
+124: Timestep is 1.72
+60: Timestep is 1.72
+95: Timestep is 1.72
+125: Timestep is 1.72
+61: Timestep is 1.72
+126: Timestep is 1.72
+62: Timestep is 1.72
+127: Timestep is 1.72
+63: Timestep is 1.72
+64: System
+64: cell volume 469.1445029
+64: Wave function
+96: System
+96: cell volume 469.1445029
+96: Wave function
+32: System
+32: cell volume 469.1445029
+32: Wave function
+0: System
+0: cell volume 469.1445029
+0: Wave function
+65: System
+65: cell volume 469.1445029
+65: Wave function
+1: System
+1: cell volume 469.1445029
+1: Wave function
+97: System
+97: cell volume 469.1445029
+97: Wave function
+33: System
+33: cell volume 469.1445029
+33: Wave function
+66: System
+66: cell volume 469.1445029
+66: Wave function
+2: System
+2: cell volume 469.1445029
+2: Wave function
+98: System
+98: cell volume 469.1445029
+98: Wave function
+3: System
+3: cell volume 469.1445029
+3: Wave function
+99: System
+99: cell volume 469.1445029
+99: Wave function
+34: System
+34: cell volume 469.1445029
+34: Wave function
+67: System
+67: cell volume 469.1445029
+67: Wave function
+4: System
+4: cell volume 469.1445029
+4: Wave function
+35: System
+35: cell volume 469.1445029
+35: Wave function
+68: System
+68: cell volume 469.1445029
+68: Wave function
+5: System
+5: cell volume 469.1445029
+5: Wave function
+100: System
+100: cell volume 469.1445029
+100: Wave function
+36: System
+36: cell volume 469.1445029
+36: Wave function
+69: System
+69: cell volume 469.1445029
+69: Wave function
+6: System
+6: cell volume 469.1445029
+6: Wave function
+101: System
+101: cell volume 469.1445029
+101: Wave function
+37: System
+37: cell volume 469.1445029
+37: Wave function
+70: System
+70: cell volume 469.1445029
+70: Wave function
+7: System
+7: cell volume 469.1445029
+7: Wave function
+102: System
+102: cell volume 469.1445029
+102: Wave function
+38: System
+38: cell volume 469.1445029
+38: Wave function
+71: System
+71: cell volume 469.1445029
+71: Wave function
+8: System
+8: cell volume 469.1445029
+8: Wave function
+103: System
+103: cell volume 469.1445029
+103: Wave function
+39: System
+39: cell volume 469.1445029
+39: Wave function
+72: System
+72: cell volume 469.1445029
+72: Wave function
+9: System
+9: cell volume 469.1445029
+9: Wave function
+104: System
+104: cell volume 469.1445029
+104: Wave function
+40: System
+40: cell volume 469.1445029
+40: Wave function
+73: System
+73: cell volume 469.1445029
+73: Wave function
+10: System
+10: cell volume 469.1445029
+10: Wave function
+105: System
+105: cell volume 469.1445029
+105: Wave function
+41: System
+41: cell volume 469.1445029
+41: Wave function
+74: System
+74: cell volume 469.1445029
+74: Wave function
+11: System
+11: cell volume 469.1445029
+11: Wave function
+106: System
+106: cell volume 469.1445029
+106: Wave function
+42: System
+42: cell volume 469.1445029
+42: Wave function
+75: System
+75: cell volume 469.1445029
+75: Wave function
+12: System
+12: cell volume 469.1445029
+12: Wave function
+107: System
+107: cell volume 469.1445029
+107: Wave function
+43: System
+43: cell volume 469.1445029
+43: Wave function
+76: System
+76: cell volume 469.1445029
+76: Wave function
+13: System
+13: cell volume 469.1445029
+13: Wave function
+108: System
+108: cell volume 469.1445029
+108: Wave function
+44: System
+44: cell volume 469.1445029
+44: Wave function
+77: System
+77: cell volume 469.1445029
+77: Wave function
+14: System
+14: cell volume 469.1445029
+14: Wave function
+109: System
+109: cell volume 469.1445029
+109: Wave function
+45: System
+45: cell volume 469.1445029
+45: Wave function
+78: System
+78: cell volume 469.1445029
+78: Wave function
+15: System
+15: cell volume 469.1445029
+15: Wave function
+110: System
+110: cell volume 469.1445029
+110: Wave function
+46: System
+46: cell volume 469.1445029
+46: Wave function
+79: System
+79: cell volume 469.1445029
+79: Wave function
+16: System
+16: cell volume 469.1445029
+16: Wave function
+111: System
+111: cell volume 469.1445029
+111: Wave function
+47: System
+47: cell volume 469.1445029
+47: Wave function
+80: System
+80: cell volume 469.1445029
+80: Wave function
+17: System
+17: cell volume 469.1445029
+17: Wave function
+112: System
+112: cell volume 469.1445029
+112: Wave function
+48: System
+48: cell volume 469.1445029
+48: Wave function
+81: System
+81: cell volume 469.1445029
+81: Wave function
+18: System
+18: cell volume 469.1445029
+18: Wave function
+113: System
+113: cell volume 469.1445029
+113: Wave function
+49: System
+49: cell volume 469.1445029
+49: Wave function
+82: System
+82: cell volume 469.1445029
+82: Wave function
+19: System
+19: cell volume 469.1445029
+19: Wave function
+114: System
+114: cell volume 469.1445029
+114: Wave function
+50: System
+50: cell volume 469.1445029
+50: Wave function
+83: System
+83: cell volume 469.1445029
+83: Wave function
+20: System
+20: cell volume 469.1445029
+20: Wave function
+115: System
+115: cell volume 469.1445029
+115: Wave function
+51: System
+51: cell volume 469.1445029
+51: Wave function
+84: System
+84: cell volume 469.1445029
+84: Wave function
+21: System
+21: cell volume 469.1445029
+21: Wave function
+116: System
+116: cell volume 469.1445029
+116: Wave function
+52: System
+52: cell volume 469.1445029
+52: Wave function
+85: System
+85: cell volume 469.1445029
+85: Wave function
+22: System
+22: cell volume 469.1445029
+22: Wave function
+117: System
+117: cell volume 469.1445029
+117: Wave function
+53: System
+53: cell volume 469.1445029
+53: Wave function
+86: System
+86: cell volume 469.1445029
+86: Wave function
+23: System
+23: cell volume 469.1445029
+23: Wave function
+118: System
+118: cell volume 469.1445029
+118: Wave function
+54: System
+54: cell volume 469.1445029
+54: Wave function
+87: System
+87: cell volume 469.1445029
+87: Wave function
+24: System
+24: cell volume 469.1445029
+24: Wave function
+119: System
+119: cell volume 469.1445029
+119: Wave function
+55: System
+55: cell volume 469.1445029
+55: Wave function
+88: System
+88: cell volume 469.1445029
+88: Wave function
+25: System
+25: cell volume 469.1445029
+25: Wave function
+120: System
+120: cell volume 469.1445029
+120: Wave function
+56: System
+56: cell volume 469.1445029
+56: Wave function
+89: System
+89: cell volume 469.1445029
+89: Wave function
+26: System
+26: cell volume 469.1445029
+26: Wave function
+121: System
+121: cell volume 469.1445029
+121: Wave function
+57: System
+57: cell volume 469.1445029
+57: Wave function
+90: System
+90: cell volume 469.1445029
+90: Wave function
+27: System
+27: cell volume 469.1445029
+27: Wave function
+122: System
+122: cell volume 469.1445029
+122: Wave function
+91: System
+91: cell volume 469.1445029
+91: Wave function
+28: System
+28: cell volume 469.1445029
+28: Wave function
+123: System
+123: cell volume 469.1445029
+123: Wave function
+92: System
+92: cell volume 469.1445029
+92: Wave function
+29: System
+29: cell volume 469.1445029
+29: Wave function
+124: System
+124: cell volume 469.1445029
+124: Wave function
+93: System
+93: cell volume 469.1445029
+93: Wave function
+30: System
+30: cell volume 469.1445029
+30: Wave function
+125: System
+125: cell volume 469.1445029
+125: Wave function
+94: System
+94: cell volume 469.1445029
+94: Wave function
+31: System
+31: cell volume 469.1445029
+31: Wave function
+126: System
+126: cell volume 469.1445029
+126: Wave function
+95: System
+95: cell volume 469.1445029
+95: Wave function
+24: Pseudopotential
+127: System
+127: cell volume 469.1445029
+127: Wave function
+Basis function MO
+Reading orbitals from heg.0.orb
+3: Pseudopotential
+9: Pseudopotential
+11: Pseudopotential
+22: Pseudopotential
+26: Pseudopotential
+14: Pseudopotential
+7: Pseudopotential
+20: Pseudopotential
+16: Pseudopotential
+23: Pseudopotential
+28: Pseudopotential
+2: Pseudopotential
+8: Pseudopotential
+7 molecular orbitals found.
+
+18: Pseudopotential
+31: Pseudopotential
+0: Pseudopotential
+13: Pseudopotential
+25: Pseudopotential
+15: Pseudopotential
+21: Pseudopotential
+29: Pseudopotential
+17: Pseudopotential
+30: Pseudopotential
+1: Pseudopotential
+27: Pseudopotential
+6: Pseudopotential
+12: Pseudopotential
+19: Pseudopotential
+4: Pseudopotential
+5: Pseudopotential
+10: Pseudopotential
+Could not open opt30.config. Generating configurations from scratch
+0: Timestep is 3.095
+1: Timestep is 3.095
+2: Timestep is 3.095
+3: Timestep is 3.095
+4: Timestep is 3.095
+5: Timestep is 3.095
+6: Timestep is 3.095
+7: Timestep is 3.095
+8: Timestep is 3.095
+9: Timestep is 3.095
+10: Timestep is 3.095
+11: Timestep is 3.095
+12: Timestep is 3.095
+13: Timestep is 3.095
+14: Timestep is 3.095
+15: Timestep is 3.095
+16: Timestep is 3.095
+17: Timestep is 3.095
+18: Timestep is 3.095
+19: Timestep is 3.095
+20: Timestep is 3.095
+79: Pseudopotential
+21: Timestep is 3.095
+117: Pseudopotential
+58: System
+58: cell volume 469.1445029
+58: Wave function
+78: Pseudopotential
+22: Timestep is 3.095
+112: Pseudopotential
+59: System
+59: cell volume 469.1445029
+59: Wave function
+91: Pseudopotential
+23: Timestep is 3.095
+105: Pseudopotential
+60: System
+60: cell volume 469.1445029
+60: Wave function
+90: Pseudopotential
+24: Timestep is 3.095
+118: Pseudopotential
+61: System
+61: cell volume 469.1445029
+61: Wave function
+69: Pseudopotential
+25: Timestep is 3.095
+113: Pseudopotential
+62: System
+62: cell volume 469.1445029
+62: Wave function
+76: Pseudopotential
+26: Timestep is 3.095
+123: Pseudopotential
+63: System
+63: cell volume 469.1445029
+63: Wave function
+87: Pseudopotential
+27: Timestep is 3.095
+125: Pseudopotential
+57: Pseudopotential
+92: Pseudopotential
+28: Timestep is 3.095
+102: Pseudopotential
+52: Pseudopotential
+85: Pseudopotential
+29: Timestep is 3.095
+121: Pseudopotential
+44: Pseudopotential
+70: Pseudopotential
+30: Timestep is 3.095
+104: Pseudopotential
+40: Pseudopotential
+77: Pseudopotential
+31: Timestep is 3.095
+98: Pseudopotential
+48: Pseudopotential
+82: Pseudopotential
+106: Pseudopotential
+36: Pseudopotential
+75: Pseudopotential
+107: Pseudopotential
+53: Pseudopotential
+71: Pseudopotential
+124: Pseudopotential
+34: Pseudopotential
+73: Pseudopotential
+96: Pseudopotential
+35: Pseudopotential
+68: Pseudopotential
+109: Pseudopotential
+60: Pseudopotential
+80: Pseudopotential
+110: Pseudopotential
+47: Pseudopotential
+66: Pseudopotential
+116: Pseudopotential
+41: Pseudopotential
+74: Pseudopotential
+122: Pseudopotential
+42: Pseudopotential
+95: Pseudopotential
+99: Pseudopotential
+50: Pseudopotential
+94: Pseudopotential
+126: Pseudopotential
+59: Pseudopotential
+88: Pseudopotential
+111: Pseudopotential
+49: Pseudopotential
+93: Pseudopotential
+115: Pseudopotential
+46: Pseudopotential
+64: Pseudopotential
+120: Pseudopotential
+56: Pseudopotential
+81: Pseudopotential
+127: Pseudopotential
+37: Pseudopotential
+89: Pseudopotential
+103: Pseudopotential
+45: Pseudopotential
+72: Pseudopotential
+108: Pseudopotential
+55: Pseudopotential
+86: Pseudopotential
+100: Pseudopotential
+58: Pseudopotential
+83: Pseudopotential
+119: Pseudopotential
+38: Pseudopotential
+67: Pseudopotential
+97: Pseudopotential
+54: Pseudopotential
+84: Pseudopotential
+101: Pseudopotential
+43: Pseudopotential
+65: Pseudopotential
+114: Pseudopotential
+61: Pseudopotential
+64: Timestep is 3.095
+96: Timestep is 3.095
+39: Pseudopotential
+65: Timestep is 3.095
+97: Timestep is 3.095
+51: Pseudopotential
+66: Timestep is 3.095
+98: Timestep is 3.095
+62: Pseudopotential
+67: Timestep is 3.095
+99: Timestep is 3.095
+32: Pseudopotential
+68: Timestep is 3.095
+100: Timestep is 3.095
+33: Pseudopotential
+69: Timestep is 3.095
+101: Timestep is 3.095
+63: Pseudopotential
+70: Timestep is 3.095
+102: Timestep is 3.095
+32: Timestep is 3.095
+71: Timestep is 3.095
+103: Timestep is 3.095
+33: Timestep is 3.095
+72: Timestep is 3.095
+104: Timestep is 3.095
+34: Timestep is 3.095
+73: Timestep is 3.095
+105: Timestep is 3.095
+35: Timestep is 3.095
+74: Timestep is 3.095
+106: Timestep is 3.095
+36: Timestep is 3.095
+75: Timestep is 3.095
+107: Timestep is 3.095
+37: Timestep is 3.095
+76: Timestep is 3.095
+108: Timestep is 3.095
+38: Timestep is 3.095
+77: Timestep is 3.095
+109: Timestep is 3.095
+39: Timestep is 3.095
+78: Timestep is 3.095
+110: Timestep is 3.095
+40: Timestep is 3.095
+79: Timestep is 3.095
+111: Timestep is 3.095
+41: Timestep is 3.095
+80: Timestep is 3.095
+112: Timestep is 3.095
+42: Timestep is 3.095
+81: Timestep is 3.095
+113: Timestep is 3.095
+43: Timestep is 3.095
+82: Timestep is 3.095
+114: Timestep is 3.095
+44: Timestep is 3.095
+83: Timestep is 3.095
+115: Timestep is 3.095
+45: Timestep is 3.095
+84: Timestep is 3.095
+116: Timestep is 3.095
+46: Timestep is 3.095
+85: Timestep is 3.095
+117: Timestep is 3.095
+47: Timestep is 3.095
+86: Timestep is 3.095
+118: Timestep is 3.095
+48: Timestep is 3.095
+87: Timestep is 3.095
+119: Timestep is 3.095
+49: Timestep is 3.095
+88: Timestep is 3.095
+120: Timestep is 3.095
+50: Timestep is 3.095
+89: Timestep is 3.095
+121: Timestep is 3.095
+51: Timestep is 3.095
+90: Timestep is 3.095
+122: Timestep is 3.095
+52: Timestep is 3.095
+91: Timestep is 3.095
+123: Timestep is 3.095
+53: Timestep is 3.095
+92: Timestep is 3.095
+124: Timestep is 3.095
+54: Timestep is 3.095
+93: Timestep is 3.095
+125: Timestep is 3.095
+55: Timestep is 3.095
+94: Timestep is 3.095
+126: Timestep is 3.095
+56: Timestep is 3.095
+95: Timestep is 3.095
+127: Timestep is 3.095
+57: Timestep is 3.095
+58: Timestep is 3.095
+59: Timestep is 3.095
+60: Timestep is 3.095
+61: Timestep is 3.095
+62: Timestep is 3.095
+63: Timestep is 3.095
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 1 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 1 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 1 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 1 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 1 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 1 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 1 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 1 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 1 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 1 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 1 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 1 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 1 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+slurmstepd: error: *** STEP 64597377.0 ON nid01810 CANCELLED AT 2022-12-01T08:23:18 DUE TO TIME LIMIT ***
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+srun: got SIGCONT
+srun: forcing job termination
+srun: forcing job termination

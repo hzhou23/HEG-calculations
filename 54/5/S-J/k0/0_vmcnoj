@@ -1,0 +1,805 @@
+0: output to vmcnoj.o
+11: System
+11: cell volume 28274.3
+11: Wave function
+127: System
+127: cell volume 28274.3
+127: Wave function
+78: System
+78: cell volume 28274.3
+78: Wave function
+28: System
+28: cell volume 28274.3
+28: Wave function
+90: System
+73: System
+90: cell volume 28274.3
+90: Wave function
+73: cell volume 28274.3
+73: Wave function
+23: System
+24: System
+53: System
+53: cell volume 28274.3
+53: Wave function
+10: System
+10: cell volume 28274.3
+10: Wave function
+23: cell volume 28274.3
+23: Wave function
+24: cell volume 28274.3
+24: Wave function
+121: System
+94: System
+21: System
+96: System
+52: System
+74: System
+21: cell volume 28274.3
+21: Wave function
+103: System
+94: cell volume 28274.3
+94: Wave function
+4: System
+103: cell volume 28274.3
+103: Wave function
+52: cell volume 28274.3
+52: Wave function
+74: cell volume 28274.3
+74: Wave function
+16: System
+121: cell volume 28274.3
+121: Wave function
+54: System
+87: System
+87: cell volume 28274.3
+87: Wave function
+31: System
+96: cell volume 28274.3
+96: Wave function
+55: System
+55: cell volume 28274.3
+55: Wave function
+84: System
+4: cell volume 28274.3
+4: Wave function
+54: cell volume 28274.3
+54: Wave function
+84: cell volume 28274.3
+84: Wave function
+16: cell volume 28274.3
+16: Wave function
+116: System
+116: cell volume 28274.3
+116: Wave function
+34: System
+70: System
+70: cell volume 28274.3
+70: Wave function
+6: System
+119: System
+119: cell volume 28274.3
+119: Wave function
+60: System
+88: System
+18: System
+111: System
+111: cell volume 28274.3
+111: Wave function
+32: System
+88: cell volume 28274.3
+88: Wave function
+31: cell volume 28274.3
+31: Wave function
+38: System
+5: System
+5: cell volume 28274.3
+5: Wave function
+98: System
+46: System
+65: System
+6: cell volume 28274.3
+6: Wave function
+112: System
+60: cell volume 28274.3
+60: Wave function
+68: System
+13: System
+98: cell volume 28274.3
+98: Wave function
+32: cell volume 28274.3
+32: Wave function
+65: cell volume 28274.3
+65: Wave function
+18: cell volume 28274.3
+18: Wave function
+112: cell volume 28274.3
+112: Wave function
+34: cell volume 28274.3
+34: Wave function
+68: cell volume 28274.3
+68: Wave function
+20: System
+115: System
+115: cell volume 28274.3
+115: Wave function
+35: System
+85: System
+22: System
+22: cell volume 28274.3
+22: Wave function
+113: System
+38: cell volume 28274.3
+38: Wave function
+85: cell volume 28274.3
+85: Wave function
+13: cell volume 28274.3
+13: Wave function
+113: cell volume 28274.3
+113: Wave function
+39: System
+64: System
+20: cell volume 28274.3
+20: Wave function
+101: System
+43: System
+43: cell volume 28274.3
+43: Wave function
+64: cell volume 28274.3
+64: Wave function
+25: System
+25: cell volume 28274.3
+101: cell volume 28274.3
+101: Wave function
+50: System
+50: cell volume 28274.3
+50: Wave function
+79: System
+79: cell volume 28274.3
+79: Wave function
+25: Wave function
+35: cell volume 28274.3
+35: Wave function
+95: System
+1: System
+105: System
+105: cell volume 28274.3
+39: cell volume 28274.3
+39: Wave function
+95: cell volume 28274.3
+95: Wave function
+27: System
+105: Wave function
+46: cell volume 28274.3
+46: Wave function
+86: System
+86: cell volume 28274.3
+1: cell volume 28274.3
+1: Wave function
+106: System
+47: System
+47: cell volume 28274.3
+47: Wave function
+86: Wave function
+27: cell volume 28274.3
+27: Wave function
+97: System
+45: System
+2: System
+2: cell volume 28274.3
+2: Wave function
+106: cell volume 28274.3
+106: Wave function
+45: cell volume 28274.3
+45: Wave function
+77: System
+7: System
+107: System
+33: System
+77: cell volume 28274.3
+77: Wave function
+15: System
+15: cell volume 28274.3
+15: Wave function
+109: System
+56: System
+56: cell volume 28274.3
+56: Wave function
+67: System
+29: System
+29: cell volume 28274.3
+29: Wave function
+117: System
+117: cell volume 28274.3
+117: Wave function
+33: cell volume 28274.3
+33: Wave function
+91: System
+7: cell volume 28274.3
+7: Wave function
+123: System
+123: cell volume 28274.3
+123: Wave function
+58: System
+67: cell volume 28274.3
+67: Wave function
+14: System
+125: System
+125: cell volume 28274.3
+125: Wave function
+91: cell volume 28274.3
+91: Wave function
+12: System
+97: cell volume 28274.3
+97: Wave function
+89: System
+3: System
+107: cell volume 28274.3
+107: Wave function
+89: cell volume 28274.3
+89: Wave function
+14: cell volume 28274.3
+14: Wave function
+109: cell volume 28274.3
+109: Wave function
+92: System
+12: cell volume 28274.3
+12: Wave function
+100: System
+69: System
+3: cell volume 28274.3
+3: Wave function
+122: System
+82: System
+82: cell volume 28274.3
+82: Wave function
+30: System
+100: cell volume 28274.3
+100: Wave function
+83: System
+83: cell volume 28274.3
+83: Wave function
+30: cell volume 28274.3
+30: Wave function
+114: System
+92: cell volume 28274.3
+92: Wave function
+120: System
+69: cell volume 28274.3
+69: Wave function
+122: cell volume 28274.3
+122: Wave function
+66: System
+114: cell volume 28274.3
+114: Wave function
+72: System
+72: cell volume 28274.3
+72: Wave function
+120: cell volume 28274.3
+120: Wave function
+76: System
+102: System
+66: cell volume 28274.3
+66: Wave function
+104: System
+71: System
+108: System
+108: cell volume 28274.3
+108: Wave function
+75: System
+110: System
+110: cell volume 28274.3
+76: cell volume 28274.3
+76: Wave function
+124: System
+124: cell volume 28274.3
+124: Wave function
+80: System
+80: cell volume 28274.3
+80: Wave function
+99: System
+81: System
+81: cell volume 28274.3
+81: Wave function
+102: cell volume 28274.3
+102: Wave function
+93: System
+93: cell volume 28274.3
+93: Wave function
+104: cell volume 28274.3
+104: Wave function
+71: cell volume 28274.3
+71: Wave function
+110: Wave function
+75: cell volume 28274.3
+75: Wave function
+118: System
+77: Pseudopotential
+126: System
+126: cell volume 28274.3
+126: Wave function
+99: cell volume 28274.3
+99: Wave function
+118: cell volume 28274.3
+118: Wave function
+37: System
+61: System
+58: cell volume 28274.3
+58: Wave function
+37: cell volume 28274.3
+37: Wave function
+61: cell volume 28274.3
+61: Wave function
+48: System
+51: System
+48: cell volume 28274.3
+48: Wave function
+51: cell volume 28274.3
+51: Wave function
+42: System
+42: cell volume 28274.3
+42: Wave function
+36: System
+40: System
+40: cell volume 28274.3
+40: Wave function
+36: cell volume 28274.3
+36: Wave function
+41: System
+41: cell volume 28274.3
+41: Wave function
+59: System
+49: System
+59: cell volume 28274.3
+59: Wave function
+63: System
+49: cell volume 28274.3
+49: Wave function
+63: cell volume 28274.3
+63: Wave function
+62: System
+62: cell volume 28274.3
+62: Wave function
+57: System
+57: cell volume 28274.3
+57: Wave function
+44: System
+17: System
+17: cell volume 28274.3
+44: cell volume 28274.3
+44: Wave function
+26: System
+26: cell volume 28274.3
+26: Wave function
+36: Pseudopotential
+17: Wave function
+40: Pseudopotential
+19: System
+55: Pseudopotential
+19: cell volume 28274.3
+19: Wave function
+59: Pseudopotential
+0: System
+51: Pseudopotential
+8: System
+8: cell volume 28274.3
+8: Wave function
+48: Pseudopotential
+0: cell volume 28274.3
+0: Wave function
+57: Pseudopotential
+9: System
+9: cell volume 28274.3
+9: Wave function
+61: Pseudopotential
+14: Pseudopotential
+44: Pseudopotential
+4: Pseudopotential
+52: Pseudopotential
+Basis function MO
+45: Pseudopotential
+12: Pseudopotential
+34: Pseudopotential
+29: Pseudopotential
+53: Pseudopotential
+15: Pseudopotential
+46: Pseudopotential
+30: Pseudopotential
+42: Pseudopotential
+24: Pseudopotential
+37: Pseudopotential
+5: Pseudopotential
+41: Pseudopotential
+21: Pseudopotential
+50: Pseudopotential
+13: Pseudopotential
+39: Pseudopotential
+Reading orbitals from heg.0.orb
+58: Pseudopotential
+2: Pseudopotential
+62: Pseudopotential
+23: Pseudopotential
+54: Pseudopotential
+11: Pseudopotential
+56: Pseudopotential
+3: Pseudopotential
+63: Pseudopotential
+28: Pseudopotential
+38: Pseudopotential
+31: Pseudopotential
+49: Pseudopotential
+16: Pseudopotential
+35: Pseudopotential
+22: Pseudopotential
+47: Pseudopotential
+19: Pseudopotential
+33: Pseudopotential
+18: Pseudopotential
+43: Pseudopotential
+6: Pseudopotential
+32: Pseudopotential
+1: Pseudopotential
+60: Pseudopotential
+20: Pseudopotential
+25: Pseudopotential
+7: Pseudopotential
+27: Pseudopotential
+10: Pseudopotential
+9: Pseudopotential
+8: Pseudopotential
+17: Pseudopotential
+26: Pseudopotential
+27 molecular orbitals found.
+
+0: Pseudopotential
+Could not open vmcnoj.config. Generating configurations from scratch
+105: Pseudopotential
+117: Pseudopotential
+100: Pseudopotential
+116: Pseudopotential
+113: Pseudopotential
+127: Pseudopotential
+120: Pseudopotential
+107: Pseudopotential
+108: Pseudopotential
+125: Pseudopotential
+97: Pseudopotential
+106: Pseudopotential
+109: Pseudopotential
+111: Pseudopotential
+96: Pseudopotential
+112: Pseudopotential
+123: Pseudopotential
+115: Pseudopotential
+102: Pseudopotential
+79: Pseudopotential
+98: Pseudopotential
+86: Pseudopotential
+99: Pseudopotential
+84: Pseudopotential
+119: Pseudopotential
+67: Pseudopotential
+101: Pseudopotential
+91: Pseudopotential
+114: Pseudopotential
+69: Pseudopotential
+118: Pseudopotential
+73: Pseudopotential
+122: Pseudopotential
+90: Pseudopotential
+126: Pseudopotential
+89: Pseudopotential
+103: Pseudopotential
+85: Pseudopotential
+121: Pseudopotential
+82: Pseudopotential
+124: Pseudopotential
+66: Pseudopotential
+110: Pseudopotential
+95: Pseudopotential
+104: Pseudopotential
+71: Pseudopotential
+87: Pseudopotential
+88: Pseudopotential
+74: Pseudopotential
+93: Pseudopotential
+68: Pseudopotential
+70: Pseudopotential
+94: Pseudopotential
+64: Pseudopotential
+65: Pseudopotential
+78: Pseudopotential
+75: Pseudopotential
+83: Pseudopotential
+92: Pseudopotential
+80: Pseudopotential
+76: Pseudopotential
+72: Pseudopotential
+81: Pseudopotential
+0: Timestep is 0.506719
+96: Timestep is 0.506719
+32: Timestep is 0.506719
+64: Timestep is 0.506719
+1: Timestep is 0.506719
+97: Timestep is 0.506719
+33: Timestep is 0.506719
+65: Timestep is 0.506719
+2: Timestep is 0.506719
+98: Timestep is 0.506719
+34: Timestep is 0.506719
+66: Timestep is 0.506719
+3: Timestep is 0.506719
+99: Timestep is 0.506719
+35: Timestep is 0.506719
+67: Timestep is 0.506719
+4: Timestep is 0.506719
+100: Timestep is 0.506719
+36: Timestep is 0.506719
+68: Timestep is 0.506719
+5: Timestep is 0.506719
+101: Timestep is 0.506719
+37: Timestep is 0.506719
+69: Timestep is 0.506719
+6: Timestep is 0.506719
+102: Timestep is 0.506719
+38: Timestep is 0.506719
+70: Timestep is 0.506719
+7: Timestep is 0.506719
+103: Timestep is 0.506719
+39: Timestep is 0.506719
+8: Timestep is 0.506719
+9: Timestep is 0.506719
+104: Timestep is 0.506719
+40: Timestep is 0.506719
+71: Timestep is 0.506719
+10: Timestep is 0.506719
+105: Timestep is 0.506719
+41: Timestep is 0.506719
+72: Timestep is 0.506719
+11: Timestep is 0.506719
+106: Timestep is 0.506719
+42: Timestep is 0.506719
+73: Timestep is 0.506719
+12: Timestep is 0.506719
+107: Timestep is 0.506719
+43: Timestep is 0.506719
+74: Timestep is 0.506719
+13: Timestep is 0.506719
+108: Timestep is 0.506719
+44: Timestep is 0.506719
+75: Timestep is 0.506719
+14: Timestep is 0.506719
+109: Timestep is 0.506719
+45: Timestep is 0.506719
+76: Timestep is 0.506719
+15: Timestep is 0.506719
+110: Timestep is 0.506719
+46: Timestep is 0.506719
+77: Timestep is 0.506719
+16: Timestep is 0.506719
+111: Timestep is 0.506719
+47: Timestep is 0.506719
+78: Timestep is 0.506719
+17: Timestep is 0.506719
+112: Timestep is 0.506719
+48: Timestep is 0.506719
+79: Timestep is 0.506719
+18: Timestep is 0.506719
+113: Timestep is 0.506719
+49: Timestep is 0.506719
+80: Timestep is 0.506719
+19: Timestep is 0.506719
+114: Timestep is 0.506719
+50: Timestep is 0.506719
+81: Timestep is 0.506719
+20: Timestep is 0.506719
+115: Timestep is 0.506719
+51: Timestep is 0.506719
+82: Timestep is 0.506719
+21: Timestep is 0.506719
+116: Timestep is 0.506719
+52: Timestep is 0.506719
+83: Timestep is 0.506719
+22: Timestep is 0.506719
+117: Timestep is 0.506719
+53: Timestep is 0.506719
+84: Timestep is 0.506719
+23: Timestep is 0.506719
+118: Timestep is 0.506719
+54: Timestep is 0.506719
+85: Timestep is 0.506719
+24: Timestep is 0.506719
+119: Timestep is 0.506719
+55: Timestep is 0.506719
+86: Timestep is 0.506719
+25: Timestep is 0.506719
+120: Timestep is 0.506719
+56: Timestep is 0.506719
+87: Timestep is 0.506719
+26: Timestep is 0.506719
+121: Timestep is 0.506719
+57: Timestep is 0.506719
+88: Timestep is 0.506719
+27: Timestep is 0.506719
+122: Timestep is 0.506719
+58: Timestep is 0.506719
+28: Timestep is 0.506719
+123: Timestep is 0.506719
+59: Timestep is 0.506719
+89: Timestep is 0.506719
+29: Timestep is 0.506719
+124: Timestep is 0.506719
+60: Timestep is 0.506719
+90: Timestep is 0.506719
+30: Timestep is 0.506719
+125: Timestep is 0.506719
+61: Timestep is 0.506719
+91: Timestep is 0.506719
+31: Timestep is 0.506719
+62: Timestep is 0.506719
+92: Timestep is 0.506719
+126: Timestep is 0.506719
+93: Timestep is 0.506719
+127: Timestep is 0.506719
+63: Timestep is 0.506719
+94: Timestep is 0.506719
+95: Timestep is 0.506719
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 1 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 1 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+1: Write took 0 seconds
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd: error: *** STEP 64644371.0 ON nid01013 CANCELLED AT 2022-12-02T18:18:15 DUE TO TIME LIMIT ***
+srun: got SIGCONT
+srun: forcing job termination

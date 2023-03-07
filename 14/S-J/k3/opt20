@@ -1,0 +1,19 @@
+include heg.3.sys
+
+trialfunc { slater-jastrow
+wf1 { include heg.3.slater } 
+wf2 { include heg.3.jast2 } 
+}
+
+method { optimize
+        READCONFIG vmcnoj.config
+        ITERATIONS 20
+}
+
+method { vmc
+	READCONFIG vmcnoj.config
+	storeconfig opt2.config
+	nconfig 16
+	nblock 30
+	timestep 0.5
+}

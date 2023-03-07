@@ -1,0 +1,9 @@
+method { VMC
+	nconfig 16
+	nblock 1000
+        timestep 0.5
+}
+
+include heg.1.sys
+
+trialfunc { include heg.1.slater }
